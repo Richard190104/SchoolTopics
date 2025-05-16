@@ -66,10 +66,12 @@ function displayTopics(topics) {
         const box = document.createElement('div');
         box.className = 'node-box';
         let name = node.name;
-        if (name.startsWith('TITLE')) {
-          name = name.replace(/^TITLE\s*/, '');
-          box.style.color = '#00c4ff';
+       if (name.startsWith('TITLE')) {
+        name = name.replace(/^TITLE\s*/, '');
+        box.style.color = '#00c4ff';
+        box.dataset.title = 'true'; 
         }
+
         box.textContent = name;
         wrapper.appendChild(box);
 
@@ -90,6 +92,8 @@ function displayTopics(topics) {
   container.appendChild(tree);
 }
 function drawConnectors() {
+
+
   const svg = document.getElementById('connector-layer');
   svg.innerHTML = ''; 
 
@@ -101,6 +105,10 @@ function drawConnectors() {
 
     children.forEach(child => {
       const childBox = child.querySelector('.node-box');
+    if (childBox.dataset.title === 'true') {
+  return; 
+}
+      
 
       const pRect = parentBox.getBoundingClientRect();
       const cRect = childBox.getBoundingClientRect();
@@ -118,6 +126,7 @@ function drawConnectors() {
     });
   });
 }
+
 
         
       const diagramContainer = document.getElementById('topics');
@@ -172,3 +181,16 @@ getTopics().then(topics => {
 window.addEventListener('DOMContentLoaded', () => {
   requestAnimationFrame(drawConnectors);
 });
+
+  const toggleBtn = document.getElementById('themeToggle');
+
+  toggleBtn.addEventListener('click', () => {
+    document.body.classList.toggle('light-mode');
+
+    const isLight = document.body.classList.contains('light-mode');
+    toggleBtn.textContent = isLight ? '🌙 Dark Mode' : '☀️ Light Mode';
+
+    requestAnimationFrame(() => {
+      if (typeof drawConnectors === 'function') drawConnectors();
+    });
+  });
