@@ -401,7 +401,74 @@
       ]
     }
   
-}
+},
+  "Otázka č. 10": {
+    "Didaktické_zásady": {
+      "Čo sú didaktické zásady?": "Základné pravidlá, ktoré určujú, ako má vyučovanie prebiehať, aby bolo efektívne a zmysluplné.",
+      "Aké sú hlavné didaktické zásady?": "Zásada názornosti, aktivity a samostatnosti, uváženosti, trvalosti, primeranosti, spojenia teórie s praxou, systematickosti a sústavnosti, spätnej väzby.",
+      "Prečo je dôležité dodržiavať zásady?": "Zvyšujú efektivitu učenia, pomáhajú žiakom lepšie pochopiť a zapamätať si učivo."
+    },
+
+    "Motivácia_vo_vyučovaní": {
+      "Čo je motivácia?": "Súbor vnútorných a vonkajších podnetov, ktoré podnecujú žiaka k učeniu.",
+      "Aké typy motivácie poznáme?": "Vnútorná (intrinzická) – záujem, zvedavosť; Vonkajšia (extrinzická) – odmeny, tresty.",
+      "Ako môžeme motivovať žiakov?": "Stanovením jasných cieľov, spätnou väzbou, používaním hier, prepojením učiva s realitou, uznaním a povzbudením.",
+      "Prečo je motivácia dôležitá?": "Zvyšuje záujem o učenie, podporuje vytrvalosť a zlepšuje výsledky."
+    },
+
+    "Učivo": {
+      "Čo je učivo?": "Súbor poznatkov, zručností a postojov, ktoré má žiak počas výučby získať.",
+      "Ako sa delí učivo?": "Vedomostné – fakty, pojmy, teórie; Zručnostné – manuálne, intelektuálne činnosti; Hodnotové – postoje, názory, hodnoty.",
+      "Aké sú kritériá výberu učiva?": "Vedeckosť, primeranosť, výchovná hodnota, spojenie s praxou, aktuálnosť, integrácia s inými predmetmi."
+    },
+
+    "Pedagogické_dokumenty": {
+      "Čo sú pedagogické dokumenty?": "Sú to oficiálne materiály, ktoré upravujú organizáciu, obsah a priebeh výchovno-vzdelávacieho procesu.",
+      "Aké typy pedagogických dokumentov poznáme?": "Zákony a vyhlášky; Štátne vzdelávacie programy (ŠVP); Školské vzdelávacie programy (ŠkVP); Učebné plány; Učebné osnovy; Prípravy na vyučovanie; Triedna kniha; Vysvedčenia.",
+      "Aký je rozdiel medzi ŠVP a ŠkVP?": "ŠVP je vytvorený štátom a určuje rámcové ciele a obsah; ŠkVP tvorí škola podľa ŠVP a zohľadňuje vlastné podmienky a špecifiká."
+    },
+
+    "summary": {
+      "name": "TITLE Zásady, motivácia, učivo a dokumenty",
+      "children": [
+        {
+          "name": "TITLE Didaktické zásady",
+          "children": [
+            { "name": "Zásada názornosti" },
+            { "name": "Zásada aktivity a samostatnosti" },
+            { "name": "Zásada uváženosti a trvalosti" },
+            { "name": "Zásada primeranosti" },
+            { "name": "Zásada spojenia teórie s praxou" },
+            { "name": "Zásada systematickosti a sústavnosti" },
+            { "name": "Zásada spätnej väzby" }
+          ]
+        },
+        {
+          "name": "TITLE Motivácia vo vyučovaní",
+          "children": [
+            { "name": "Vnútorná a vonkajšia motivácia" },
+            { "name": "Spôsoby motivácie žiakov" },
+            { "name": "Vplyv motivácie na učenie" }
+          ]
+        },
+        {
+          "name": "TITLE Učivo",
+          "children": [
+            { "name": "Vedomostné, zručnostné, hodnotové učivo" },
+            { "name": "Kritériá výberu učiva" }
+          ]
+        },
+        {
+          "name": "TITLE Pedagogické dokumenty",
+          "children": [
+            { "name": "Zákonné a školské dokumenty" },
+            { "name": "ŠVP vs. ŠkVP" },
+            { "name": "Prípravy, osnovy, triedna kniha" }
+          ]
+        }
+      ]
+    }
+  }
 
 
 
