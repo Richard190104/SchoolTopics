@@ -8,42 +8,71 @@ async function getTopics() {
     }
 }
 
-   function displayTopics(topics) {
-      const container = document.getElementById('topics');
-      container.innerHTML = ''; 
+function displayTopics(topics) {
+  const container = document.getElementById('topics');
+  container.innerHTML = '';
 
-      Object.entries(topics).forEach(([category, questions]) => {
-        const categoryElement = document.createElement('div');
-        categoryElement.className = 'category';
-        const topicClick = document.createElement('h2');
-        topicClick.className = 'topicClick';
-        topicClick.innerHTML = category;
-        categoryElement.appendChild(topicClick);
-         Object.entries(questions).forEach(([question, answer]) => {
-          const topicElement = document.createElement('div');
-          topicElement.className = 'topic';
-          topicElement.innerHTML = `
-            <h3>${question}</h3>
-            `;
-          const topicAnswer = document.createElement('p');
-          topicAnswer.className = 'answer';
-          topicAnswer.innerHTML = answer.replace(/;/g, '<br>');
-          categoryElement.appendChild(topicElement);
-          topicElement.appendChild(topicAnswer);
+  Object.entries(topics).forEach(([category, questions]) => {
+    if (category !== 'summary') {
+      const categoryElement = document.createElement('div');
+      categoryElement.className = 'category';
 
-          topicElement.addEventListener('click', () => {
-            topicAnswer.classList.toggle('expanded');
-          });
+      const topicClick = document.createElement('h2');
+      topicClick.className = 'topicClick';
+      topicClick.innerHTML = category;
+      categoryElement.appendChild(topicClick);
 
-          topicClick.addEventListener('click', () => {
-          topicElement.classList.toggle('expanded');
-        }); 
+      Object.entries(questions).forEach(([question, answer]) => {
+        const topicElement = document.createElement('div');
+        topicElement.className = 'topic';
+        topicElement.innerHTML = `<h3>${question}</h3>`;
+
+        const topicAnswer = document.createElement('p');
+        topicAnswer.className = 'answer';
+        topicAnswer.innerHTML = answer.replace(/;/g, '<br>');
+
+        categoryElement.appendChild(topicElement);
+        topicElement.appendChild(topicAnswer);
+
+        topicElement.addEventListener('click', () => {
+          topicAnswer.classList.toggle('expanded');
         });
-        
 
-        container.appendChild(categoryElement);
+        topicClick.addEventListener('click', () => {
+          topicElement.classList.toggle('expanded');
+        });
       });
+
+      container.appendChild(categoryElement);
+    } else {
+      // === summary diagram rendering ===
+      const treeData = topics.summary;
+
+      const treeRoot = document.createElement('div');
+      treeRoot.className = 'tree-root';
+
+      function renderTree(node, parentElement) {
+        const item = document.createElement('div');
+        item.className = 'tree-item';
+        item.innerText = node.name;
+
+        parentElement.appendChild(item);
+
+        if (node.children && node.children.length > 0) {
+          const childrenContainer = document.createElement('div');
+          childrenContainer.className = 'tree-children';
+
+          node.children.forEach(child => renderTree(child, childrenContainer));
+          parentElement.appendChild(childrenContainer);
+        }
+      }
+
+      renderTree(treeData, treeRoot);
+      container.appendChild(treeRoot);
     }
+  });
+}
+
 
 function getCategoryFromURL() {
   const params = new URLSearchParams(window.location.search);
@@ -63,6 +92,7 @@ getTopics().then(topics => {
             Object.keys(topics).forEach(key => {
                 const btn = document.createElement('div');
                 btn.classList.add('topicClick');
+                btn.style.color = 'gray';
                 btn.textContent = key;
                 btn.onclick = () => {
                       window.location.href = `tema.html?category=${encodeURIComponent(key)}`;
