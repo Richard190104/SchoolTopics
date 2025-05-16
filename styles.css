@@ -11,20 +11,17 @@
 }
 
 .category {
-    background: linear-gradient(90deg, #6f767e49 0%, #edeff142 100%);
+    background: linear-gradient(90deg, #013c8081 0%, #0058b142 100%);
     border-radius: 8px;
     margin-bottom: 10px;
     transition: box-shadow 0.2s;
     font-weight: 600;
-    color: #2d3748;
+    color: #000000;
     box-shadow: 0 2px 8px rgba(60, 60, 90, 0.04);
     cursor: pointer;
 }
 
-.category:hover {
-    box-shadow: 0 4px 16px rgba(60, 60, 90, 0.10);
-    background: linear-gradient(90deg, #e0e7ef 0%, #f8fafc 100%);
-}
+
 
 .topic {
     background: #fff;
@@ -60,11 +57,12 @@ body {
     color: #0f1b52;
     font-weight: bold;
     line-height: 1.6;
-    border-left: 3px solid #4f8cff;
+    border-left: 3px solid #4fc7ff;
     font-size: 1.4rem;
+    color: #ffffff;
 }
 .topicClick:hover {
-    background: #e6f0ff;
+    background: #006079;
     box-shadow: 0 2px 8px rgba(79, 140, 255, 0.10);
 }
 
@@ -101,3 +99,18 @@ html {
     }
 }
 
+.tree-root {
+  margin-top: 2rem;
+  font-family: sans-serif;
+}
+
+.tree-item {
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.tree-children {
+  margin-left: 20px;
+  border-left: 1px dashed #ccc;
+  padding-left: 10px;
+}
