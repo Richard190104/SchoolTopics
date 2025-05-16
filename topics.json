@@ -133,10 +133,10 @@
       "Aké sú špecifické ciele v hudobných predmetoch?": "Napr. v predmete hra na flaute – vychovať profesionálneho hráča schopného vystupovať v rôznych hudobných žánroch."
     },
      "summary": {
-      "name": "Ciele vyučovacieho procesu",
+      "name": "TITLE Ciele vyučovacieho procesu",
       "children": [
         {
-          "name": "Pojem a význam cieľov",
+          "name": "TITLE Pojem a význam cieľov",
           "children": [
             { "name": "Cieľ = ideál výsledku učenia" },
             { "name": "Pomáha plánovať výučbu" },
@@ -145,7 +145,7 @@
           ]
         },
         {
-          "name": "Typy a hierarchia cieľov",
+          "name": "TITLE Typy a hierarchia cieľov",
           "children": [
             { "name": "Typy: výchovné; vzdelávacie; výchovno-vzdelávacie" },
             {
@@ -159,7 +159,7 @@
           ]
         },
         {
-          "name": "Všeobecné ciele vzdelávania",
+          "name": "TITLE Všeobecné ciele vzdelávania",
           "children": [
             { "name": "Zachovanie a rozvoj kultúry" },
             { "name": "Historické pohľady – Komenský, Dewey, Rousseau" },
@@ -175,7 +175,7 @@
           ]
         },
         {
-          "name": "Špecifické ciele podľa typu rozvoja",
+          "name": "TITLE Špecifické ciele podľa typu rozvoja",
           "children": [
             {
               "name": "Kognitívne",
@@ -204,7 +204,7 @@
           ]
         },
         {
-          "name": "Bloomova taxonómia",
+          "name": "TITLE Bloomova taxonómia",
           "children": [
             { "name": "Znalosť" },
             { "name": "Porozumenie" },
@@ -216,7 +216,7 @@
           ]
         },
         {
-          "name": "Tvorba špecifických cieľov",
+          "name": "TITLE Tvorba špecifických cieľov",
           "children": [
             { "name": "Štandardy a osnovy" },
             { "name": "Otázky: Čo má žiak vedieť/zvládnuť?" },
@@ -225,7 +225,7 @@
           ]
         },
         {
-          "name": "Žiak a ciele",
+          "name": "TITLE Žiak a ciele",
           "children": [
             { "name": "Poznanie cieľov zvyšuje motiváciu" },
             { "name": "Zvyšuje schopnosť samostatne sa riadiť" },
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "name": "Kompetencie a štandardy",
+          "name": "TITLE Kompetencie a štandardy",
           "children": [
             { "name": "Kompetencia = spôsobilosť + zručnosť" },
             { "name": "Štandard = minimálna požiadavka" },
@@ -241,7 +241,7 @@
           ]
         },
         {
-          "name": "Ciele pedagóga hudby",
+          "name": "TITLE Ciele pedagóga hudby",
           "children": [
             { "name": "Pedagogické – rozvoj žiaka" },
             { "name": "Výchovné – formovanie osobnosti" },
@@ -251,7 +251,7 @@
           ]
         },
         {
-          "name": "Ciele hudobného vzdelávania",
+          "name": "TITLE Ciele hudobného vzdelávania",
           "children": [
             { "name": "Zachovanie hudobnej kultúry" },
             { "name": "Samostatnosť a profesijný rozvoj" },
