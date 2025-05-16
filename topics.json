@@ -76,37 +76,65 @@
     }
   },
   
+  
   "Otázka č. 20": {
-    "Čo je cieľ vyučovacieho procesu a prečo je dôležitý?": "Je to ideálna predstava, čo chceme učením dosiahnuť. Bez cieľov by vyučovanie nemalo smer. Pomáhajú plánovať a motivovať žiakov k dosiahnutiu výsledkov.",
-    
-    "Aké typy cieľov poznáme podľa zamerania?": "Výchovný – rozvíja osobnosť a správanie; Vzdelávací – rozvíja vedomosti a schopnosti; Výchovno-vzdelávací – spája oba predchádzajúce typy do jedného celku.",
-    
-    "Aká je hierarchia cieľov vo vyučovaní?": "Všeobecné ciele – ideály výchovy a vzdelávania; Čiastkové ciele – pre konkrétne školy alebo odbory; Špecifické ciele – pre predmety, tematické celky, hodiny a ich časti.",
-    
-    "Aké sú druhy špecifických cieľov podľa rozvoja osobnosti žiaka?": "Kognitívne (poznávacie) – vedomosti, myslenie, pamäť, schopnosti, návyky; Sociálno-afektívne – city, postoje, hodnoty, sociálne a komunikačné schopnosti; Psychomotorické – fyzické zručnosti, pohybové a hudobné schopnosti.",
-    
-    "Aké sú príklady kognitívnych cieľov?": "Naučiť žiaka, že stupnica G dur má 1 krížik; Rozvíjať logické myslenie; Rozlišovať intervaly podľa sluchu; Osvojiť si návyk pravidelne cvičiť.",
-    
-    "Aké sú príklady sociálno-afektívnych cieľov?": "Prehĺbiť prežívanie hudby; Rozvíjať toleranciu; Zlepšiť komunikatívnosť; Upraviť postoj k určitej hudbe alebo skladateľovi.",
-    
-    "Aké sú príklady psychomotorických cieľov?": "Zvládnuť bežné pohybové zručnosti (plávať, variť); Rozvíjať techniku hry na nástroji.",
-    
-    "Čo je Bloomova taxonómia cieľov?": "Systém cieľov podľa náročnosti: Znalosť; Porozumenie; Aplikácia; Analýza; Syntéza; Hodnotenie; Tvorivosť (v revidovanej verzii).",
-    
-    "Ako postupovať pri tvorbe špecifických cieľov?": "Pozrieť učebné štandardy a osnovy; Položiť si otázky: čo má žiak vedieť, zvládnuť, rozvíjať? Vybrať a upraviť učivo; Premyslieť metódy a stanoviť kritériá úspechu.",
-    
-    "Prečo je dôležité, aby žiaci poznali ciele hodiny?": "Lepšie sa naladia na vyučovanie; sú viac motivovaní; vedia sa lepšie kontrolovať a hodnotiť svoj pokrok.",
-    
-    "Čo sú kompetencie a štandardy?": "Kompetencia – schopnosť a zručnosť zvládnuť činnosť (napr. hrať skladbu dobre); Štandard – minimálna úroveň, ktorú má žiak dosiahnuť; stanovuje ju štát.",
-    
-    "Aké problémy sú s dosahovaním štandardov v hudobnom školstve?": "Veľa žiakov ich nedokáže splniť; preto sa často znižujú nároky, čo môže zhoršiť kvalitu hudobnej výchovy.",
-    
-    "Aké sú pracovné ciele pedagóga hudby?": "Pedagogické – dosiahnuť pokrok u žiakov; Výchovné – formovať hodnoty a postoje žiakov; Vzdelávacie – naučiť vedomosti a zručnosti; Sociálne – rozvíjať vzťahy so žiakmi, rodičmi, kolegami; Osobnostné – rozvíjať sa ako učiteľ; Kariérne – napredovať v profesii.",
-    
-    "Aké sú všeobecné ciele hudobného vzdelávania?": "Udržať hudobnú kultúru; Samostatnosť v ďalšom vzdelávaní; Podávať dobré výkony; Vedieť spolupracovať; Nachádzať v hudbe zmysel.",
-    
-    "Aké sú čiastkové a špecifické ciele hudobného vzdelávania?": "Viesť žiaka k láske k hudbe; Pripraviť ho na ďalšiu hudobnú kariéru; V predmete napr. hra na flaute – pripraviť profesionálneho hráča pre rôzne hudobné žánre."
-  }
+    "Pojem a význam cieľov vo vyučovacom procese": {
+      "Čo je cieľ vyučovacieho procesu?": "Je to predstava, čo chceme učením dosiahnuť. Je základnou súčasťou didaktiky.",
+      "Prečo sú ciele dôležité?": "Bez cieľov by vyučovanie nemalo zmysel. Pomáhajú plánovať hodiny a motivujú žiakov.",
+      "Čo je cieľavedomosť a prečo je dôležitá?": "Je to schopnosť vedome sledovať cieľ. Objavuje sa už v detstve a jej sila sa mení podľa okolností."
+    },
+
+    "Typy a hierarchia cieľov": {
+      "Aké typy cieľov existujú?": "Výchovné – rozvíjajú osobnosť; Vzdelávacie – zamerané na vedomosti; Výchovno-vzdelávacie – kombinujú obe oblasti.",
+      "Aká je hierarchia cieľov?": "Všeobecné ciele (ideály); Čiastkové ciele (napr. podľa typu školy alebo predmetu); Špecifické ciele (pre konkrétne témy, hodiny, fázy hodiny)."
+    },
+
+    "Všeobecné ciele výchovy a vzdelávania": {
+      "Aké sú historické pohľady na všeobecné ciele?": "Grécko – zdravý duch v zdravom tele; Komenský – mravnosť, vzdelanie, viera; Rousseau, Gándhí – príprava na život; Dewey – samostatné učenie sa.",
+      "Aké sú 4 piliere vzdelávania podľa UNESCO?": "Učiť sa poznávať; Učiť sa konať; Učiť sa žiť spolu; Učiť sa byť.",
+      "Aký má byť ideálny človek podľa cieľov výchovy?": "Dobrý; Múdry; Aktívny; Šťastný; Zodpovedný."
+    },
+
+    "Špecifické ciele podľa typu rozvoja": {
+      "Aké sú kognitívne ciele?": "Rozvíjajú vedomosti, myslenie, pamäť, schopnosti, návyky. Príklad: naučiť žiaka, že G dur má 1 krížik.",
+      "Aké sú sociálno-afektívne ciele?": "Rozvíjajú city, postoje, hodnoty, vzťahy. Príklad: budovať toleranciu, prehĺbiť vzťah k hudbe.",
+      "Aké sú psychomotorické ciele?": "Rozvíjajú fyzické a hudobné zručnosti. Príklad: zvládnuť hru na nástroji, rozvíjať techniku."
+    },
+
+    "Bloomova taxonómia cieľov": {
+      "Aké sú úrovne podľa Bloomovej taxonómie?": "Znalosť – pamätanie; Porozumenie – pochopenie; Aplikácia – použitie; Analýza – rozklad; Syntéza – spojenie; Hodnotenie – posúdenie.",
+      "Aký je rozdiel v revidovanej taxonómii?": "Pridáva sa Tvorivosť – schopnosť vytvárať nové riešenia a nápady."
+    },
+
+    "Postup pri tvorbe špecifických cieľov": {
+      "Ako postupovať pri tvorbe cieľov?": "Pozrieť štandardy a osnovy; položiť si otázky (čo má vedieť, zvládnuť, nacvičiť); vybrať učivo; zvoliť metódy; určiť podmienky výkonu.",
+      "Aký je príklad zo školy?": "Pri učení piesne na klarinet treba rozdeliť pieseň na časti, natrénovať hmaty, dych a potom spojiť do plynulej hry."
+    },
+
+    "Žiaci a špecifické ciele": {
+      "Prečo by žiak mal poznať ciele?": "Lepšie sa pripraví, je viac motivovaný, vie sa sám hodnotiť a usmerniť.",
+      "Ako učiteľ môže zlepšiť naladenie žiaka?": "Na začiatku hodiny vysvetliť, čo sa bude robiť, prečo a ako – žiak sa lepšie sústredí."
+    },
+
+    "Kompetencie a štandardy": {
+      "Čo je kompetencia?": "Schopnosť a zručnosť, vďaka ktorej žiak zvládne úlohu – napr. dobre zahrať skladbu.",
+      "Čo sú štandardy?": "Minimálne požiadavky na výkon, ktoré určuje štát.",
+      "Aké sú problémy s dosahovaním štandardov?": "Mnohí žiaci ich nedosiahnu; v hudobných školách sa preto často zľavuje z nárokov, čo ovplyvňuje kvalitu výuky."
+    },
+
+    "Pracovné ciele pedagóga": {
+      "Aké sú pedagogické ciele učiteľa hudby?": "Dosiahnuť pokrok so žiakom v hudbe, správaní, vedomostiach, zručnostiach a hodnotách.",
+      "Aké sú vzťahové a osobné ciele učiteľa?": "Budovať dobré vzťahy so žiakmi, rodičmi, kolegami; rozvíjať sa ako osobnosť; plánovať kariérny rast."
+    },
+
+    "Ciele hudobného vzdelávania": {
+      "Aké sú všeobecné ciele hudobného vzdelávania?": "Zachovať hudobnú kultúru; Podporiť samostatnosť v hudobnom rozvoji; Umožniť štandardné výkony a zvládanie situácií; Rozvíjať spoluprácu a zmysel pre hudbu.",
+      "Aké sú čiastkové ciele v ZUŠ?": "Vychovávať žiakov k láske k hudbe a pripraviť ich na ďalšie hudobné vzdelávanie.",
+      "Aké sú špecifické ciele v hudobných predmetoch?": "Napr. v predmete hra na flaute – vychovať profesionálneho hráča schopného vystupovať v rôznych hudobných žánroch."
+    }
+  
+}
+
 
 
 }
