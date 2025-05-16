@@ -78,7 +78,7 @@
   "name": "TITLE Funkcie a význam výchovy a didaktiky",
   "children": [
     {
-      "name": "TITLE Funkcie výchovno-vzdelávacích disciplín",
+      "name": "Funkcie výchovy a vzdelávania",
       "children": [
         {
           "name": "Funkcie pedagogiky",
@@ -89,33 +89,12 @@
           ]
         },
         {
-          "name": "Význam výchovy",
-          "children": [
-            { "name": "Zachovanie kultúry a zvykov" },
-            { "name": "Príprava na život v spoločnosti" }
-          ]
-        },
-        {
-          "name": "Prínos vzdelávania",
-          "children": [
-            { "name": "Zvýšenie vedomostí" },
-            { "name": "Rozvoj spoločnosti" }
-          ]
-        },
-        {
           "name": "Funkcie didaktiky",
           "children": [
             { "name": "Diagnostická" },
             { "name": "Prognostická" },
             { "name": "Inštrumentálna" },
             { "name": "Normatívna" }
-          ]
-        },
-        {
-          "name": "Metodika vyučovania",
-          "children": [
-            { "name": "Usporiadanie metód" },
-            { "name": "Zlepšovanie výučby" }
           ]
         },
         {
@@ -129,7 +108,16 @@
       ]
     },
     {
-      "name": "TITLE Učiteľstvo ako povolanie",
+      "name": "Význam výchovy a vzdelávania",
+      "children": [
+        { "name": "Zachovanie kultúry a zvykov" },
+        { "name": "Príprava na život v spoločnosti" },
+        { "name": "Zvýšenie vedomostí" },
+        { "name": "Rozvoj spoločnosti" }
+      ]
+    },
+    {
+      "name": "Učiteľstvo ako povolanie",
       "children": [
         { "name": "Profesionálny a hodnotový rozmer" },
         { "name": "Celoživotné vzdelávanie učiteľa" },
@@ -137,14 +125,14 @@
       ]
     },
     {
-      "name": "TITLE Humanizácia vyučovania",
+      "name": "Humanizácia vyučovania",
       "children": [
         { "name": "Dôvera, tvorivosť, tolerancia" },
         { "name": "Vzťahy učiteľ–žiak–rodič" }
       ]
     },
     {
-      "name": "TITLE Typy vyučovacieho procesu",
+      "name": "Typy vyučovania",
       "children": [
         { "name": "Dogmatický typ" },
         { "name": "Transmisívny typ" },
@@ -152,7 +140,7 @@
       ]
     },
     {
-      "name": "TITLE Teória vzdelávania (didaktika)",
+      "name": "Teória vzdelávania (didaktika)",
       "children": [
         { "name": "Čo je didaktika" },
         { "name": "Výučba, učenie a vzdelávanie" },
@@ -160,16 +148,16 @@
       ]
     },
     {
-      "name": "TITLE Druhy didaktík",
+      "name": "Druhy didaktík",
       "children": [
         { "name": "Podľa obsahu" },
-        { "name": "Odborové a predmetové" },
         { "name": "Podľa stupňa školy" },
-        { "name": "Podľa typu školy" }
+        { "name": "Podľa typu školy" },
+        { "name": "Odborové a predmetové" }
       ]
     },
     {
-      "name": "TITLE Súčasti a systém didaktiky",
+      "name": "Súčasti didaktiky",
       "children": [
         { "name": "Ciele a učivo" },
         { "name": "Nástroje a zásady" },
@@ -177,39 +165,31 @@
       ]
     },
     {
-      "name": "TITLE Klasifikácia didaktických teórií",
+      "name": "Teórie učenia",
       "children": [
-        { "name": "Problémy v klasifikácii" },
-        { "name": "Makrodidaktická teória" },
-        { "name": "Mikrodidaktická teória" }
-      ]
-    },
-    {
-      "name": "TITLE Teórie učenia vs. učenia sa",
-      "children": [
-        { "name": "Teórie učenia – rola učiteľa" },
-        { "name": "Teórie učenia sa – rola žiaka" },
-        { "name": "Čiastkové teórie – kognitívna psychológia" },
+        { "name": "Teórie učenia – učiteľ" },
+        { "name": "Teórie učenia sa – žiak" },
         { "name": "Typy: biologické, kultúrne, technické" }
       ]
     },
     {
-      "name": "TITLE Transmisia vs. konštruktivizmus v hudobnej výchove",
+      "name": "Transmisia vs. konštruktivizmus",
       "children": [
         { "name": "Transmisia – výklad a diskusia" },
-        { "name": "Konštruktivizmus – samostatné objavovanie" },
+        { "name": "Konštruktivizmus – objavovanie" },
         { "name": "Využitie v hudobnej výučbe" }
       ]
     },
     {
-      "name": "TITLE Pedagogické dokumenty",
+      "name": "Pedagogické dokumenty",
       "children": [
         { "name": "Úloha dokumentov" },
-        { "name": "Príklady: zákony, plány, učebnice, výkazy..." }
+        { "name": "Príklady: zákony, osnovy, učebnice..." }
       ]
     }
   ]
 }
+
 
   },
   
