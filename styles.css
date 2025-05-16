@@ -63,3 +63,34 @@ body {
     background: #e6f0ff;
     box-shadow: 0 2px 8px rgba(79, 140, 255, 0.10);
 }
+
+html {
+    font-size: 16px;
+}
+
+@media (max-width: 600px) {
+    html {
+        font-size: 14px;
+    }
+    .category {
+        font-size: 1rem;
+    }
+    .topic, .topicClick {
+        font-size: 1rem;
+        padding: 8px 10px;
+        margin-left: 10px;
+    }
+    .answer {
+        margin-left: 20px;
+    }
+    body {
+        padding: 10px;
+    }
+}
+
+.category {
+    font-size: 1.1rem;
+}
+.topic, .topicClick {
+    font-size: 1rem;
+}
