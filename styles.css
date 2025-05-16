@@ -1,116 +1,148 @@
-.topic{
-    display: none;
-}
-.answer{
-    display: none;
-    margin-left: 50px;
-}
-
-.expanded{
-    display: block;
-}
-
-.category {
-    background: linear-gradient(90deg, #013c8081 0%, #0058b142 100%);
-    border-radius: 8px;
-    margin-bottom: 10px;
-    transition: box-shadow 0.2s;
-    font-weight: 600;
-    color: #000000;
-    box-shadow: 0 2px 8px rgba(60, 60, 90, 0.04);
-    cursor: pointer;
-}
-
-
-
-.topic {
-    background: #fff;
-    border-radius: 6px;
-    margin: 8px 0 16px 20px;
-    padding: 10px 15px;
-    box-shadow: 0 1px 4px rgba(60, 60, 90, 0.06);
-    color: #374151;
-    line-height: 1.6;
-    border-left: 3px solid #4f8cff;
-    margin-left: 50px;
-}
-
-.topic h3{
-    font-size: 1.1rem;
-    font-weight: bold;
-}
-
+/* Globálny dark mode */
 body {
-    background: #f4f7fb;
-    font-family: 'Segoe UI', 'Arial', sans-serif;
-    margin: 0;
-    padding: 30px;
-}
-.topicClick {
-    cursor: pointer;
-    transition: background 0.2s, box-shadow 0.2s;
-    border-radius: 5px;
-    margin: 8px 0 16px 20px;
-    margin-left: 0px;
-    padding: 10px 15px;
-    box-shadow: 0 1px 4px rgba(60, 60, 90, 0.06);
-    color: #0f1b52;
-    font-weight: bold;
-    line-height: 1.6;
-    border-left: 3px solid #4fc7ff;
-    font-size: 1.4rem;
-    color: #ffffff;
-}
-.topicClick:hover {
-    background: #006079;
-    box-shadow: 0 2px 8px rgba(79, 140, 255, 0.10);
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  margin: 0;
+  padding: 30px;
 }
 
-
-html {
-    font-size: 16px;
+/* Základné boxy */
+.node-box {
+  border: 1px solid #555;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background-color: #1e1e1e;
+  color: #ffffff;
+  margin: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  transition: background 0.2s;
+  cursor: pointer;
 }
 
-@media (max-width: 600px) {
-    html {
-        font-size: 14px;
-    }
-    .category {
-        font-size: 1rem;
-    }
-    .topic {
-        font-size: 1rem;
-        padding: 8px 10px;
-        margin-left: 10px;
-    }
-    .topicClick{
-        font-size: 1.1rem;
-        padding: 8px 10px;
-        margin-left: 10px;
-    }
-    .topic{
-        margin-left: 20px;
-    }
-    .answer {
-        margin-left: 20px;
-    }
-    body {
-        padding: 10px;
-    }
+.node-box:hover {
+  background-color: #2e2e2e;
 }
 
-.tree-root {
-  margin-top: 2rem;
-  font-family: sans-serif;
+/* Vnútorné úrovne diagramu */
+.node-children {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 10px;
 }
 
-.tree-item {
+.tree-level {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* SVG čiary */
+#connector-layer line {
+  stroke: #888;
+  stroke-width: 2px;
+}
+
+/* Prehľadnosť sekcií */
+.category {
+  background: linear-gradient(90deg, #004466 0%, #006688 100%);
+  border-radius: 8px;
+  margin-bottom: 15px;
+  padding: 12px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+  color: #fff;
   font-weight: bold;
-  margin-top: 0.5rem;
+  font-size: 1.2rem;
 }
 
-.tree-children {
-  margin-left: 20px;
-  border-left: 1px dashed #ccc;
-  padding-left: 10px;
+/* Skryté základne */
+.topic {
+  display: none;
+  background: #1e1e1e;
+  border-left: 4px solid #4fc7ff;
+  border-radius: 6px;
+  margin: 10px 0 20px 30px;
+  padding: 12px 16px;
+  color: #ccc;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.05);
+  cursor: pointer;
+}
+
+.topic h3 {
+  font-size: 1.15rem;
+  color: #fff;
+}
+
+.answer {
+  display: none;
+  margin-left: 50px;
+  color: #aaa;
+  font-style: italic;
+}
+
+/* Pri kliknutí sa zobrazia */
+.expanded {
+  display: block !important;
+}
+
+.topicClick {
+  cursor: pointer;
+  background: #005e77;
+  border-left: 4px solid #00c4ff;
+  padding: 12px 16px;
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 1.3rem;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.topicClick:hover {
+  background: #008ba7;
+  box-shadow: 0 2px 8px rgba(0, 255, 255, 0.1);
+}
+
+
+
+/* SVG vrstva */
+#diagram-wrapper {
+  position: relative;
+}
+
+#connector-layer {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Responsívne úpravy */
+@media (max-width: 600px) {
+  body {
+    padding: 15px;
+  }
+
+  .topicClick,
+  .category {
+    font-size: 1.1rem;
+    padding: 10px;
+  }
+
+  .topic {
+    margin-left: 20px;
+    font-size: 1rem;
+  }
+
+  .answer {
+    margin-left: 20px;
+  }
+}
+#connector-layer line {
+  stroke: white;
+  stroke-width: 2;
+  filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.4));
 }
