@@ -1,72 +1,78 @@
 {
-"Otázka č. neviem":{
+  "Otázka č. 19": {
     "Funkcie_a_význam_výchovno-vzdelávacích_disciplín": {
-        "Aké sú hlavné funkcie pedagogiky?": "Teoretická – skúma podstatu a zákonitosti výchovy; prognostická – predvída budúce potreby a modely výchovy; propedeutická – syntetizuje a popularizuje poznatky pre prax.",
-        "Aký je význam výchovy pre spoločnosť?": "Zabezpečuje sociálnu kontinuitu, prenos kultúrnych hodnôt a socializáciu jednotlivca.",
-        "Aký je prínos vzdelávania?": "Rozširuje poznatky, rozvíja schopnosti a posúva spoločnosť dopredu poznatkovo aj hodnotovo.",
-        "Aké funkcie má didaktika?": "Diagnostická (analyzuje stav vyučovania), prognostická (predvída trendy), inštrumentálna (navrhuje metódy) a normatívna (určuje kritériá hodnotenia).",
-        "K čomu slúži metodika vyučovania?": "Systematizuje, klasifikuje, analyzuje, hodnotí a inovuje vyučovacie metódy.",
-        "Aké funkcie má vyučovací proces?": "Vzdelávacia – budovanie vedomostí a zručností; výchovná – formovanie hodnôt a postojov; rozvíjajúca – podpora osobnostného rastu."
+      "Aké sú hlavné funkcie pedagogiky?": "Teoretická – skúma, čo je výchova a ako funguje; Prognostická – predvída, aké budú potreby v budúcnosti; Propedeutická – zhŕňa poznatky pre prax.",
+      "Aký je význam výchovy pre spoločnosť?": "Pomáha udržať kultúru a zvyky; pripravuje jednotlivcov na život medzi ľuďmi.",
+      "Aký je prínos vzdelávania?": "Zvyšuje vedomosti a schopnosti; posúva spoločnosť vpred.",
+      "Aké funkcie má didaktika?": "Diagnostická – zisťuje, ako prebieha vyučovanie; Prognostická – predpovedá zmeny vo vyučovaní; Inštrumentálna – navrhuje postupy; Normatívna – nastavuje pravidlá hodnotenia.",
+      "K čomu slúži metodika vyučovania?": "Usporiadava a hodnotí metódy vyučovania; pomáha ich zlepšovať.",
+      "Aké funkcie má vyučovací proces?": "Vzdelávacia – poskytuje vedomosti a zručnosti; Výchovná – formuje postoje a hodnoty; Rozvíjajúca – pomáha osobnostnému rastu."
     },
 
     "Učiteľstvo_ako_povolanie": {
-        "Aký je profesijný a hodnotový rozmer učiteľstva?": "Učiteľ prenáša kultúrne dedičstvo a pripravuje novú generáciu na život v spoločnosti.",
-        "Prečo je potrebné celoživotné učenie učiteľa?": "Profesia vyžaduje neustále aktualizované vedomosti, rozvoj zručností a odolnosť voči psychickej záťaži.",
-        "Aké je poslanie a zodpovednosť učiteľa?": "Viesť žiakov do sveta poznania, pestovať v nich ľudské hodnoty a konať z lásky k ľuďom a poznaniu."
+      "Aký je profesijný a hodnotový rozmer učiteľstva?": "Učiteľ odovzdáva kultúrne dedičstvo a pripravuje žiakov na život.",
+      "Prečo je potrebné celoživotné učenie učiteľa?": "Pretože učiteľ musí neustále zlepšovať svoje vedomosti, zručnosti a prístup.",
+      "Aké je poslanie a zodpovednosť učiteľa?": "Učiteľ vedie žiakov, pomáha im rásť a pracuje z lásky k učeniu a ľuďom."
     },
 
     "Typy_vyučovacieho_procesu": {
-        "Čo charakterizuje dogmatický typ vyučovania?": "Učiteľ predkladá hotové poučky bez vysvetlenia; žiak memoruje a pasívne reprodukuje.",
-        "Čo je výkladovo-ilustratívny (transmisívny) typ vyučovania?": "Učiteľ vysvetľuje a skúša, žiak prijíma informácie a reprodukuje ich s obmedzenou samostatnosťou.",
-        "Ako vyzerá moderný (konštruktivistický) typ vyučovania?": "Žiak získava poznatky vlastnou aktivitou a objavovaním, učiteľ je sprievodca a facilitátor."
+      "Čo charakterizuje dogmatický typ vyučovania?": "Učiteľ len povie poučky; žiak si ich musí zapamätať bez vysvetlenia.",
+      "Čo je výkladovo-ilustratívny (transmisívny) typ vyučovania?": "Učiteľ vysvetľuje, žiak počúva a opakuje; málo samostatnosti.",
+      "Ako vyzerá moderný (konštruktivistický) typ vyučovania?": "Žiak poznatky objavuje sám; učiteľ ho len usmerňuje."
     },
 
     "Humanizácia_vyučovacieho_procesu": {
-        "Ako sa humanizuje vyučovací proces?": "Podporou sebadôvery a jedinečnosti žiakov, pozitívnou motiváciou, rozvojom tvorivosti a samostatnosti, toleranciou odlišností, budovaním rovnocenných vzťahov učiteľ-žiak-rodič, emocionalizáciou učenia a orientáciou na humanistické a demokratické hodnoty."
+      "Ako sa humanizuje vyučovací proces?": "Podporuje sa dôvera, tvorivosť, samostatnosť, tolerancia a dobré vzťahy medzi učiteľom, žiakom a rodičom."
     },
-      "Teória vzdelávania (didaktika)": {
-    "Čo je didaktika?": "Je to teória vzdelávania alebo vyučovania; základná pedagogická veda; je súčasťou všeobecnej pedagogiky",
-    "Čím sa zaoberá didaktika?": "Skúma vyučovací proces; všetky jeho zložky vrátane učiteľa, prostredia a žiakov",
-    "Čo je vyučovanie alebo výučba?": "Výchovno-vzdelávacie činnosti, ktoré učiteľ so žiakmi vykonáva v čase a priestore",
-    "Čo je vyučovací proces?": "Konkrétna situácia zámernej výchovno-vzdelávacej činnosti učiteľa smerom k žiakom",
-    "Čo je učenie?": "Zámerné a vedomé pedagogické pôsobenie učiteľa na žiaka; funguje spolu s výchovou",
-    "Čo je vzdelávanie?": "Zámerné a vedomé pôsobenie učiteľa na žiaka týkajúce sa vedomostí a schopností mimo výchovy",
-    "Čo je učenie sa?": "Činnosť žiakov; proces získavania a rozvíjania vedomostí, schopností a osobnostných vlastností"
-  },
-  "Druhy didaktík": {
-    "Aké sú druhy didaktík podľa obsahu?": "Všeobecná didaktika; Odborová didaktika; Metodika/predmetová didaktika",
-    "Aké sú príklady odborovej didaktiky?": "Didaktika hudby; Didaktika hry na sláčikové nástroje",
-    "Aké sú príklady predmetovej didaktiky?": "Metodika hry na lesnom rohu; Metodika teórie hudby; Metodika dirigovania",
-    "Aké sú druhy didaktík podľa stupňa školy?": "Predškolská didaktika; Didaktika základnej školy; Didaktika strednej školy; Didaktika vysokej školy",
-    "Aké sú druhy didaktík podľa typu školy?": "Didaktika základnej umeleckej školy; Didaktika konzervatória; Didaktika vysokej školy múzických umení"
-  },
-  "Súčasti a systém didaktiky": {
-    "Čo sú ciele v didaktike?": "Vopred stanovený stav, ktorý chceme vo vyučovaní dosiahnuť",
-    "Čo je učivo?": "Sústava poznatkov a činností; žiaci si ich interiorizáciou osvojujú a rozvíjajú schopnosti, návyky, názory",
-    "Aké sú nástroje vyučovacieho procesu?": "Metódy; organizačné formy; pedagogická komunikácia; učebné pomôcky; didaktická technika; diagnostikovanie; hodnotenie",
-    "Čo sú didaktické zásady?": "Pravidlá organizácie vyučovacieho procesu",
-    "Aké sú vonkajšie podmienky vyučovania?": "Spoločensko-historické; regionálne; časové; prostredie; podmienky vyučovania",
-    "Aké sú vnútorné podmienky vyučovania?": "Psychický a fyzický vývoj; osobnostné vlastnosti; doterajšie vedomosti; schopnosti a návyky žiaka aj učiteľa"
-  },
-  "Klasifikácia teórií v didaktike": {
-    "Aké problémy sú v klasifikácii didaktických teórií?": "Duplicita; Rozpor; Vzájomné dopĺňanie; Integrácia a syntéza",
-    "Čo je makrodidaktická teória?": "Zameriava sa na výber a časové usporiadanie prvkov učiva (kurikula)",
-    "Čo je mikrodidaktická teória?": "Zameriava sa na najlepšie spôsoby vyučovania konkrétnych prvkov učiva"
-  },
-  "Teórie učenia vs. teórie učenia sa": {
-    "Aký je rozdiel medzi teóriami učenia a učenia sa?": "Teórie učenia – ako má učiť učiteľ; Teórie učenia sa – ako sa učí žiak",
-    "Z čoho vychádzajú čiastkové teórie učenia?": "Z kognitívnej psychológie",
-    "Aké typy majú oba druhy teórií?": "Biologické a evolučné – učenie pokus-omyl; Kultúrno-psychologické a sociálno-antropologické – aktivita, prax; Technicko-systémové – metódy získavania vedomostí"
-  },
-  "Transmisia vs. konštruktivizmus v didaktike hudby": {
-    "Čo je transmisia vo vyučovaní?": "Pasívny prenos poznatkov učiteľa na žiakov; výklad, prednáška s diskusiou",
-    "Čo je konštruktivizmus vo vyučovaní?": "Žiak získava poznatky vlastnou skúsenosťou pod dohľadom učiteľa",
-    "Ako sa uplatňuje konštruktivizmus v hudobnej výchove?": "Dá sa využiť len v niektorých fázach výučby a na vybraných predmetoch"
-  },
-  "Pedagogické dokumenty": {
-    "Čo sú pedagogické dokumenty?": "Materiály určujúce činnosť školy a učiteľa",
-    "Aké sú hlavné typy pedagogických dokumentov?": "Školské zákony; vyhlášky; nariadenia; vzdelávacie programy; učebné plány; učebné osnovy; VV štandardy; časovo-tematické plány; písomné prípravy; učebnice; školské poriadky; triedne knihy; výkazy; katalógové listy; protokoly o skúškach; rozvrh; plán práce školy; žiacke knižky; vysvedčenia"
+
+    "Teória vzdelávania (didaktika)": {
+      "Čo je didaktika?": "Je to veda o učení a vyučovaní.",
+      "Čím sa zaoberá didaktika?": "Skúma, ako prebieha vyučovanie vrátane učiteľa, žiaka a prostredia.",
+      "Čo je vyučovanie alebo výučba?": "Činnosti, ktoré učiteľ robí so žiakmi počas výuky.",
+      "Čo je vyučovací proces?": "Situácia, keď učiteľ cielene učí žiakov.",
+      "Čo je učenie?": "Učiteľ cielene pôsobí na žiaka, aby sa niečo naučil.",
+      "Čo je vzdelávanie?": "Získavanie vedomostí a schopností od učiteľa.",
+      "Čo je učenie sa?": "Proces, keď sa žiak učí a rozvíja svoje schopnosti."
+    },
+
+    "Druhy didaktík": {
+      "Aké sú druhy didaktík podľa obsahu?": "Všeobecná didaktika – rieši všeobecné otázky vyučovania; Odborová didaktika – venuje sa príbuzným predmetom; Predmetová (metodika) – zameraná na konkrétny predmet.",
+      "Aké sú príklady odborovej didaktiky?": "Didaktika hudby; Didaktika hry na sláčikové nástroje.",
+      "Aké sú príklady predmetovej didaktiky?": "Metodika hry na lesnom rohu; Metodika teórie hudby; Metodika dirigovania.",
+      "Aké sú druhy didaktík podľa stupňa školy?": "Predškolská didaktika; Didaktika základnej školy; Didaktika strednej školy; Didaktika vysokej školy.",
+      "Aké sú druhy didaktík podľa typu školy?": "Didaktika základnej umeleckej školy; Didaktika konzervatória; Didaktika vysokej školy múzických umení."
+    },
+
+    "Súčasti a systém didaktiky": {
+      "Čo sú ciele v didaktike?": "Stav, ktorý chceme učením dosiahnuť.",
+      "Čo je učivo?": "Poznatky a činnosti, ktoré si žiaci osvojujú.",
+      "Aké sú nástroje vyučovacieho procesu?": "Metódy; formy organizácie; komunikácia; pomôcky; technika; hodnotenie.",
+      "Čo sú didaktické zásady?": "Pravidlá, ako má vyučovanie prebiehať.",
+      "Aké sú vonkajšie podmienky vyučovania?": "Podmienky mimo žiaka – napr. prostredie, región, doba.",
+      "Aké sú vnútorné podmienky vyučovania?": "Vlastnosti a schopnosti žiaka aj učiteľa – fyzický a psychický stav, vedomosti."
+    },
+
+    "Klasifikácia teórií v didaktike": {
+      "Aké problémy sú v klasifikácii didaktických teórií?": "Rôzne prístupy opisujú rovnaké veci inak alebo sa líšia v pohľade; niekedy sa dopĺňajú alebo spájajú.",
+      "Čo je makrodidaktická teória?": "Rieši, čo a kedy sa má učiť – teda plánovanie obsahu.",
+      "Čo je mikrodidaktická teória?": "Rieši, ako najlepšie učiť konkrétny obsah."
+    },
+
+    "Teórie učenia vs. teórie učenia sa": {
+      "Aký je rozdiel medzi teóriami učenia a učenia sa?": "Teórie učenia – ako má učiť učiteľ; Teórie učenia sa – ako sa učí žiak.",
+      "Z čoho vychádzajú čiastkové teórie učenia?": "Z poznatkov psychológie, hlavne kognitívnej.",
+      "Aké typy majú oba druhy teórií?": "Biologické – učenie pokus-omyl; Kultúrne a psychologické – učenie cez prax; Technické – dôraz na metódy učenia."
+    },
+
+    "Transmisia vs. konštruktivizmus v didaktike hudby": {
+      "Čo je transmisia vo vyučovaní?": "Učiteľ vysvetľuje, žiak počúva; možná je aj diskusia.",
+      "Čo je konštruktivizmus vo vyučovaní?": "Žiak získava poznatky sám cez skúsenosti; učiteľ ho usmerňuje.",
+      "Ako sa uplatňuje konštruktivizmus v hudobnej výchove?": "Používa sa len v niektorých fázach výuky a predmetoch, nie všade."
+    },
+
+    "Pedagogické dokumenty": {
+      "Čo sú pedagogické dokumenty?": "Dokumenty, ktoré určujú, ako škola a učitelia fungujú.",
+      "Aké sú hlavné typy pedagogických dokumentov?": "Zákony; nariadenia; vzdelávacie programy; učebné plány a osnovy; štandardy; plány učiva; prípravy; učebnice; školské poriadky; triedne knihy; výkazy; katalógy; protokoly; rozvrhy; plány školy; žiacke knižky; vysvedčenia."
+    }
   }
-}
-  
 }
