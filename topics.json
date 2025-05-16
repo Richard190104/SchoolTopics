@@ -1,26 +1,29 @@
 {
-  "Funkcie_a_význam_výchovno-vzdelávacích_disciplín": {
-    "Aké sú hlavné funkcie pedagogiky?": "Teoretická – skúma podstatu a zákonitosti výchovy; prognostická – predvída budúce potreby a modely výchovy; propedeutická – syntetizuje a popularizuje poznatky pre prax.",
-    "Aký je význam výchovy pre spoločnosť?": "Zabezpečuje sociálnu kontinuitu, prenos kultúrnych hodnôt a socializáciu jednotlivca.",
-    "Aký je prínos vzdelávania?": "Rozširuje poznatky, rozvíja schopnosti a posúva spoločnosť dopredu poznatkovo aj hodnotovo.",
-    "Aké funkcie má didaktika?": "Diagnostická (analyzuje stav vyučovania), prognostická (predvída trendy), inštrumentálna (navrhuje metódy) a normatívna (určuje kritériá hodnotenia).",
-    "K čomu slúži metodika vyučovania?": "Systematizuje, klasifikuje, analyzuje, hodnotí a inovuje vyučovacie metódy.",
-    "Aké funkcie má vyučovací proces?": "Vzdelávacia – budovanie vedomostí a zručností; výchovná – formovanie hodnôt a postojov; rozvíjajúca – podpora osobnostného rastu."
-  },
+"Otázka č. neviem":{
+    "Funkcie_a_význam_výchovno-vzdelávacích_disciplín": {
+        "Aké sú hlavné funkcie pedagogiky?": "Teoretická – skúma podstatu a zákonitosti výchovy; prognostická – predvída budúce potreby a modely výchovy; propedeutická – syntetizuje a popularizuje poznatky pre prax.",
+        "Aký je význam výchovy pre spoločnosť?": "Zabezpečuje sociálnu kontinuitu, prenos kultúrnych hodnôt a socializáciu jednotlivca.",
+        "Aký je prínos vzdelávania?": "Rozširuje poznatky, rozvíja schopnosti a posúva spoločnosť dopredu poznatkovo aj hodnotovo.",
+        "Aké funkcie má didaktika?": "Diagnostická (analyzuje stav vyučovania), prognostická (predvída trendy), inštrumentálna (navrhuje metódy) a normatívna (určuje kritériá hodnotenia).",
+        "K čomu slúži metodika vyučovania?": "Systematizuje, klasifikuje, analyzuje, hodnotí a inovuje vyučovacie metódy.",
+        "Aké funkcie má vyučovací proces?": "Vzdelávacia – budovanie vedomostí a zručností; výchovná – formovanie hodnôt a postojov; rozvíjajúca – podpora osobnostného rastu."
+    },
 
-  "Učiteľstvo_ako_povolanie": {
-    "Aký je profesijný a hodnotový rozmer učiteľstva?": "Učiteľ prenáša kultúrne dedičstvo a pripravuje novú generáciu na život v spoločnosti.",
-    "Prečo je potrebné celoživotné učenie učiteľa?": "Profesia vyžaduje neustále aktualizované vedomosti, rozvoj zručností a odolnosť voči psychickej záťaži.",
-    "Aké je poslanie a zodpovednosť učiteľa?": "Viesť žiakov do sveta poznania, pestovať v nich ľudské hodnoty a konať z lásky k ľuďom a poznaniu."
-  },
+    "Učiteľstvo_ako_povolanie": {
+        "Aký je profesijný a hodnotový rozmer učiteľstva?": "Učiteľ prenáša kultúrne dedičstvo a pripravuje novú generáciu na život v spoločnosti.",
+        "Prečo je potrebné celoživotné učenie učiteľa?": "Profesia vyžaduje neustále aktualizované vedomosti, rozvoj zručností a odolnosť voči psychickej záťaži.",
+        "Aké je poslanie a zodpovednosť učiteľa?": "Viesť žiakov do sveta poznania, pestovať v nich ľudské hodnoty a konať z lásky k ľuďom a poznaniu."
+    },
 
-  "Typy_vyučovacieho_procesu": {
-    "Čo charakterizuje dogmatický typ vyučovania?": "Učiteľ predkladá hotové poučky bez vysvetlenia; žiak memoruje a pasívne reprodukuje.",
-    "Čo je výkladovo-ilustratívny (transmisívny) typ vyučovania?": "Učiteľ vysvetľuje a skúša, žiak prijíma informácie a reprodukuje ich s obmedzenou samostatnosťou.",
-    "Ako vyzerá moderný (konštruktivistický) typ vyučovania?": "Žiak získava poznatky vlastnou aktivitou a objavovaním, učiteľ je sprievodca a facilitátor."
-  },
+    "Typy_vyučovacieho_procesu": {
+        "Čo charakterizuje dogmatický typ vyučovania?": "Učiteľ predkladá hotové poučky bez vysvetlenia; žiak memoruje a pasívne reprodukuje.",
+        "Čo je výkladovo-ilustratívny (transmisívny) typ vyučovania?": "Učiteľ vysvetľuje a skúša, žiak prijíma informácie a reprodukuje ich s obmedzenou samostatnosťou.",
+        "Ako vyzerá moderný (konštruktivistický) typ vyučovania?": "Žiak získava poznatky vlastnou aktivitou a objavovaním, učiteľ je sprievodca a facilitátor."
+    },
 
-  "Humanizácia_vyučovacieho_procesu": {
-    "Ako sa humanizuje vyučovací proces?": "Podporou sebadôvery a jedinečnosti žiakov, pozitívnou motiváciou, rozvojom tvorivosti a samostatnosti, toleranciou odlišností, budovaním rovnocenných vzťahov učiteľ-žiak-rodič, emocionalizáciou učenia a orientáciou na humanistické a demokratické hodnoty."
-  }
+    "Humanizácia_vyučovacieho_procesu": {
+        "Ako sa humanizuje vyučovací proces?": "Podporou sebadôvery a jedinečnosti žiakov, pozitívnou motiváciou, rozvojom tvorivosti a samostatnosti, toleranciou odlišností, budovaním rovnocenných vzťahov učiteľ-žiak-rodič, emocionalizáciou učenia a orientáciou na humanistické a demokratické hodnoty."
+    }
+}
+  
 }
