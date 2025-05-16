@@ -24,7 +24,7 @@
     "Humanizácia_vyučovacieho_procesu": {
       "Ako sa humanizuje vyučovací proces?": "Podporuje sa dôvera, tvorivosť, samostatnosť, tolerancia a dobré vzťahy medzi učiteľom, žiakom a rodičom."
     },
-
+    
     "Teória vzdelávania (didaktika)": {
       "Čo je didaktika?": "Je to veda o učení a vyučovaní.",
       "Čím sa zaoberá didaktika?": "Skúma, ako prebieha vyučovanie vrátane učiteľa, žiaka a prostredia.",
@@ -57,7 +57,7 @@
       "Čo je makrodidaktická teória?": "Rieši, čo a kedy sa má učiť – teda plánovanie obsahu.",
       "Čo je mikrodidaktická teória?": "Rieši, ako najlepšie učiť konkrétny obsah."
     },
-
+    
     "Teórie učenia vs. teórie učenia sa": {
       "Aký je rozdiel medzi teóriami učenia a učenia sa?": "Teórie učenia – ako má učiť učiteľ; Teórie učenia sa – ako sa učí žiak.",
       "Z čoho vychádzajú čiastkové teórie učenia?": "Z poznatkov psychológie, hlavne kognitívnej.",
@@ -78,7 +78,7 @@
   
   
   "Otázka č. 20": {
-    "Pojem a význam cieľov vo vyučovacom procese": {
+    "Ciele vo vyučovacom procese": {
       "Čo je cieľ vyučovacieho procesu?": "Je to predstava, čo chceme učením dosiahnuť. Je základnou súčasťou didaktiky.",
       "Prečo sú ciele dôležité?": "Bez cieľov by vyučovanie nemalo zmysel. Pomáhajú plánovať hodiny a motivujú žiakov.",
       "Čo je cieľavedomosť a prečo je dôležitá?": "Je to schopnosť vedome sledovať cieľ. Objavuje sa už v detstve a jej sila sa mení podľa okolností."
@@ -131,6 +131,137 @@
       "Aké sú všeobecné ciele hudobného vzdelávania?": "Zachovať hudobnú kultúru; Podporiť samostatnosť v hudobnom rozvoji; Umožniť štandardné výkony a zvládanie situácií; Rozvíjať spoluprácu a zmysel pre hudbu.",
       "Aké sú čiastkové ciele v ZUŠ?": "Vychovávať žiakov k láske k hudbe a pripraviť ich na ďalšie hudobné vzdelávanie.",
       "Aké sú špecifické ciele v hudobných predmetoch?": "Napr. v predmete hra na flaute – vychovať profesionálneho hráča schopného vystupovať v rôznych hudobných žánroch."
+    },
+     "summary": {
+      "name": "Ciele vyučovacieho procesu",
+      "children": [
+        {
+          "name": "Pojem a význam cieľov",
+          "children": [
+            { "name": "Cieľ = ideál výsledku učenia" },
+            { "name": "Pomáha plánovať výučbu" },
+            { "name": "Motivuje žiakov" },
+            { "name": "Cieľavedomosť – schopnosť sledovať cieľ" }
+          ]
+        },
+        {
+          "name": "Typy a hierarchia cieľov",
+          "children": [
+            { "name": "Typy: výchovné; vzdelávacie; výchovno-vzdelávacie" },
+            {
+              "name": "Hierarchia",
+              "children": [
+                { "name": "Všeobecné – ideály" },
+                { "name": "Čiastkové – typ školy/odboru" },
+                { "name": "Špecifické – predmety, hodiny, fázy" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Všeobecné ciele vzdelávania",
+          "children": [
+            { "name": "Zachovanie a rozvoj kultúry" },
+            { "name": "Historické pohľady – Komenský, Dewey, Rousseau" },
+            {
+              "name": "UNESCO 4 piliere",
+              "children": [
+                { "name": "Učiť sa poznávať" },
+                { "name": "Učiť sa konať" },
+                { "name": "Učiť sa žiť spolu" },
+                { "name": "Učiť sa byť" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Špecifické ciele podľa typu rozvoja",
+          "children": [
+            {
+              "name": "Kognitívne",
+              "children": [
+                { "name": "Vedomosti" },
+                { "name": "Logika, pamäť, pozornosť" },
+                { "name": "Hudobný sluch, rytmus" },
+                { "name": "Návyky – napr. pravidelné cvičenie" }
+              ]
+            },
+            {
+              "name": "Afektívne (sociálno-emocionálne)",
+              "children": [
+                { "name": "Emocionalita" },
+                { "name": "Tolerancia, spravodlivosť" },
+                { "name": "Hodnoty, postoje, názory" }
+              ]
+            },
+            {
+              "name": "Psychomotorické",
+              "children": [
+                { "name": "Pohybové zručnosti (plávanie...)" },
+                { "name": "Hudobné zručnosti (hra na nástroj)" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bloomova taxonómia",
+          "children": [
+            { "name": "Znalosť" },
+            { "name": "Porozumenie" },
+            { "name": "Aplikácia" },
+            { "name": "Analýza" },
+            { "name": "Syntéza" },
+            { "name": "Hodnotenie" },
+            { "name": "Tvorivosť (revidované)" }
+          ]
+        },
+        {
+          "name": "Tvorba špecifických cieľov",
+          "children": [
+            { "name": "Štandardy a osnovy" },
+            { "name": "Otázky: Čo má žiak vedieť/zvládnuť?" },
+            { "name": "Úprava učiva, výber metód" },
+            { "name": "Stanovenie kritérií výkonu" }
+          ]
+        },
+        {
+          "name": "Žiak a ciele",
+          "children": [
+            { "name": "Poznanie cieľov zvyšuje motiváciu" },
+            { "name": "Zvyšuje schopnosť samostatne sa riadiť" },
+            { "name": "Učiteľ má žiaka oboznámiť s cieľmi" }
+          ]
+        },
+        {
+          "name": "Kompetencie a štandardy",
+          "children": [
+            { "name": "Kompetencia = spôsobilosť + zručnosť" },
+            { "name": "Štandard = minimálna požiadavka" },
+            { "name": "Problém: štandardy sú často nedosiahnuteľné" }
+          ]
+        },
+        {
+          "name": "Ciele pedagóga hudby",
+          "children": [
+            { "name": "Pedagogické – rozvoj žiaka" },
+            { "name": "Výchovné – formovanie osobnosti" },
+            { "name": "Vzťahové – žiaci, rodičia, kolegovia" },
+            { "name": "Osobnostné – profesijný a osobný rast" },
+            { "name": "Kariérne – postup, funkcia, rozvoj" }
+          ]
+        },
+        {
+          "name": "Ciele hudobného vzdelávania",
+          "children": [
+            { "name": "Zachovanie hudobnej kultúry" },
+            { "name": "Samostatnosť a profesijný rozvoj" },
+            { "name": "Výkony a kooperácia" },
+            { "name": "Vnímanie zmyslu hudby" },
+            { "name": "Čiastkové – pozitívny vzťah k hudbe" },
+            { "name": "Špecifické – ciele konkrétnych predmetov" }
+          ]
+        }
+      ]
     }
   
 }
