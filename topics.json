@@ -402,73 +402,79 @@
     }
   
 },
-  "Otázka č. 21": {
-    "Didaktické_zásady": {
-      "Čo sú didaktické zásady?": "Základné pravidlá, ktoré určujú, ako má vyučovanie prebiehať, aby bolo efektívne a zmysluplné.",
-      "Aké sú hlavné didaktické zásady?": "Zásada názornosti, aktivity a samostatnosti, uváženosti, trvalosti, primeranosti, spojenia teórie s praxou, systematickosti a sústavnosti, spätnej väzby.",
-      "Prečo je dôležité dodržiavať zásady?": "Zvyšujú efektivitu učenia, pomáhajú žiakom lepšie pochopiť a zapamätať si učivo."
-    },
+"Otázka č. 21": {
+  "Didaktické_zásady": {
+    "Čo sú didaktické zásady?": "Sú to pravidlá vychádzajúce zo zákonitostí výučby, skúseností a spoločenských noriem. Majú usmerňovať učiteľa počas prípravy aj realizácie výučby.",
+    "Aké sú základné didaktické zásady?": "Zásada optimálnych podmienok; primeranosti a individuálneho prístupu; vedeckosti; spojenia teórie s praxou; názornosti; motivácie, uvedomelosti a aktivity; sústavnosti a postupnosti; trvácnosti a operatívnosti výsledkov."
+  },
 
-    "Motivácia_vo_vyučovaní": {
-      "Čo je motivácia?": "Súbor vnútorných a vonkajších podnetov, ktoré podnecujú žiaka k učeniu.",
-      "Aké typy motivácie poznáme?": "Vnútorná (intrinzická) – záujem, zvedavosť; Vonkajšia (extrinzická) – odmeny, tresty.",
-      "Ako môžeme motivovať žiakov?": "Stanovením jasných cieľov, spätnou väzbou, používaním hier, prepojením učiva s realitou, uznaním a povzbudením.",
-      "Prečo je motivácia dôležitá?": "Zvyšuje záujem o učenie, podporuje vytrvalosť a zlepšuje výsledky."
-    },
+  "Motivácia_a_demotivácia": {
+    "Čo je motivácia vo vyučovaní?": "Nutkanie na určité správanie – napríklad učenie sa. Motivácia môže pochádzať z rôznych zdrojov.",
+    "Z akých zdrojov pochádza motivácia k hudobnému vzdelávaniu?": "Z rodinného prostredia, komunít, samotnej hudby, školského prostredia a potreby sebarealizácie.",
+    "Čo je demotivácia?": "Úpadok motivácie spôsobený vnútornými alebo vonkajšími faktormi."
+  },
 
-    "Učivo": {
-      "Čo je učivo?": "Súbor poznatkov, zručností a postojov, ktoré má žiak počas výučby získať.",
-      "Ako sa delí učivo?": "Vedomostné – fakty, pojmy, teórie; Zručnostné – manuálne, intelektuálne činnosti; Hodnotové – postoje, názory, hodnoty.",
-      "Aké sú kritériá výberu učiva?": "Vedeckosť, primeranosť, výchovná hodnota, spojenie s praxou, aktuálnosť, integrácia s inými predmetmi."
-    },
+  "Učivo": {
+    "Čo je učivo?": "Odpoveď na otázku: Čo sa má žiak naučiť? Obsahuje poznatky, zručnosti, postoje, schopnosti a návyky.",
+    "Aké sú štruktúry učiva?": "Základné učivo – to, čo sa musí naučiť každý žiak; Rozširujúce učivo – navyše pre žiakov s rozvinutejšími schopnosťami.",
+    "Aké sú teórie výberu učiva?": "Didaktický materializmus (encyklopedizmus), didaktický formalizmus, didaktický pragmatizmus.",
+    "Čo je predimenzovanosť učiva?": "Stav, keď je učivo neprimerané schopnostiam žiaka – porušenie zásad primeranosti a postupnosti.",
+    "Čo je kurikulum a aké sú jeho typy?": "Vzdelávací program alebo obsah výučby. Typy: formálne, neformálne a skryté kurikulum."
+  },
 
-    "Pedagogické_dokumenty": {
-      "Čo sú pedagogické dokumenty?": "Sú to oficiálne materiály, ktoré upravujú organizáciu, obsah a priebeh výchovno-vzdelávacieho procesu.",
-      "Aké typy pedagogických dokumentov poznáme?": "Zákony a vyhlášky; Štátne vzdelávacie programy (ŠVP); Školské vzdelávacie programy (ŠkVP); Učebné plány; Učebné osnovy; Prípravy na vyučovanie; Triedna kniha; Vysvedčenia.",
-      "Aký je rozdiel medzi ŠVP a ŠkVP?": "ŠVP je vytvorený štátom a určuje rámcové ciele a obsah; ŠkVP tvorí škola podľa ŠVP a zohľadňuje vlastné podmienky a špecifiká."
-    },
+  "Pedagogické_dokumenty": {
+    "Čo sú pedagogické dokumenty?": "Materiály, ktoré určujú organizáciu a obsah výchovno-vzdelávacieho procesu.",
+    "Aké typy pedagogických dokumentov poznáme?": "Zákony, vzdelávacie programy, učebné plány a osnovy, štandardy, tematické plány, prípravy, učebnice, školské poriadky, triedne knihy, výkazy, katalógy, protokoly, rozvrh, plán práce, žiacke knižky, vysvedčenia.",
+    "Čo je študijný plán žiaka/triedy a ako sa tvorí?": "Zoznam učiva na polrok. Tvorí sa podľa didaktických zásad, individuálnych potrieb a možností žiaka.",
+    "Čo je štátny a školský vzdelávací program?": "ŠVP určuje rámcové ciele a obsah – tvorí ho štát. ŠkVP tvorí škola v súlade so ŠVP a vlastnými podmienkami."
+  },
 
-    "summary": {
-      "name": "TITLE Zásady, motivácia, učivo a dokumenty",
-      "children": [
-        {
-          "name": "TITLE Didaktické zásady",
-          "children": [
-            { "name": "Zásada názornosti" },
-            { "name": "Zásada aktivity a samostatnosti" },
-            { "name": "Zásada uváženosti a trvalosti" },
-            { "name": "Zásada primeranosti" },
-            { "name": "Zásada spojenia teórie s praxou" },
-            { "name": "Zásada systematickosti a sústavnosti" },
-            { "name": "Zásada spätnej väzby" }
-          ]
-        },
-        {
-          "name": "TITLE Motivácia vo vyučovaní",
-          "children": [
-            { "name": "Vnútorná a vonkajšia motivácia" },
-            { "name": "Spôsoby motivácie žiakov" },
-            { "name": "Vplyv motivácie na učenie" }
-          ]
-        },
-        {
-          "name": "TITLE Učivo",
-          "children": [
-            { "name": "Vedomostné, zručnostné, hodnotové učivo" },
-            { "name": "Kritériá výberu učiva" }
-          ]
-        },
-        {
-          "name": "TITLE Pedagogické dokumenty",
-          "children": [
-            { "name": "Zákonné a školské dokumenty" },
-            { "name": "ŠVP vs. ŠkVP" },
-            { "name": "Prípravy, osnovy, triedna kniha" }
-          ]
-        }
-      ]
-    }
+  "summary": {
+    "name": "TITLE Didaktické zásady, motivácia, učivo a pedagogické dokumenty",
+    "children": [
+      {
+        "name": "TITLE Didaktické zásady",
+        "children": [
+          { "name": "Zásada optimálnych podmienok" },
+          { "name": "Zásada primeranosti a individuálneho prístupu" },
+          { "name": "Zásada vedeckosti" },
+          { "name": "Zásada spojenia teórie s praxou" },
+          { "name": "Zásada názornosti" },
+          { "name": "Zásada motivácie a aktivity" },
+          { "name": "Zásada sústavnosti a postupnosti" },
+          { "name": "Zásada trvácnosti a operatívnosti" }
+        ]
+      },
+      {
+        "name": "TITLE Motivácia a demotivácia",
+        "children": [
+          { "name": "Rodinné a komunitné vplyvy" },
+          { "name": "Motivácia z hudby a školy" },
+          { "name": "Sebarealizácia a demotivácia" }
+        ]
+      },
+      {
+        "name": "TITLE Učivo a kurikulum",
+        "children": [
+          { "name": "Vedomosti, schopnosti, postoje" },
+          { "name": "Základné a rozširujúce učivo" },
+          { "name": "Teórie výberu učiva" },
+          { "name": "Predimenzovanosť učiva" },
+          { "name": "Formálne, neformálne a skryté kurikulum" }
+        ]
+      },
+      {
+        "name": "TITLE Pedagogické dokumenty",
+        "children": [
+          { "name": "Zákonné, plánovacie a hodnotiace dokumenty" },
+          { "name": "Študijný plán žiaka/triedy" },
+          { "name": "Štátny a školský vzdelávací program" }
+        ]
+      }
+    ]
   }
+}
+
 
 
 
