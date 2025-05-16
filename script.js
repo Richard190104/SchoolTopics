@@ -27,7 +27,7 @@ async function getTopics() {
             `;
           const topicAnswer = document.createElement('p');
           topicAnswer.className = 'answer';
-            topicAnswer.innerHTML = answer;
+          topicAnswer.innerHTML = answer.replace(/;/g, '<br>');
           categoryElement.appendChild(topicElement);
           topicElement.appendChild(topicAnswer);
 
