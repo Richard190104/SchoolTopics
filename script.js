@@ -36,39 +36,101 @@ function displayTopics(topics) {
 
         topicElement.addEventListener('click', () => {
           topicAnswer.classList.toggle('expanded');
+          requestAnimationFrame(() => {
+            requestAnimationFrame(drawConnectors);
+            });
+
         });
 
         topicClick.addEventListener('click', () => {
           topicElement.classList.toggle('expanded');
+          requestAnimationFrame(() => {
+            requestAnimationFrame(drawConnectors);
+            });
+
         });
       });
 
       container.appendChild(categoryElement);
     } else {
-      // === summary diagram rendering ===
       const treeData = topics.summary;
 
       const treeRoot = document.createElement('div');
       treeRoot.className = 'tree-root';
 
-      function renderTree(node, parentElement) {
-        const item = document.createElement('div');
-        item.className = 'tree-item';
-        item.innerText = node.name;
+    function renderBlockDiagram(data, container) {
+        const createNode = (node) => {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'tree-level';
 
-        parentElement.appendChild(item);
+        const box = document.createElement('div');
+        box.className = 'node-box';
+        let name = node.name;
+        if (name.startsWith('TITLE')) {
+          name = name.replace(/^TITLE\s*/, '');
+          box.style.color = '#00c4ff';
+        }
+        box.textContent = name;
+        wrapper.appendChild(box);
 
         if (node.children && node.children.length > 0) {
-          const childrenContainer = document.createElement('div');
-          childrenContainer.className = 'tree-children';
-
-          node.children.forEach(child => renderTree(child, childrenContainer));
-          parentElement.appendChild(childrenContainer);
+        const childrenContainer = document.createElement('div');
+        childrenContainer.className = 'node-children';
+        node.children.forEach(child => {
+            const childNode = createNode(child);
+            childrenContainer.appendChild(childNode);
+        });
+        wrapper.appendChild(childrenContainer);
         }
-      }
 
-      renderTree(treeData, treeRoot);
-      container.appendChild(treeRoot);
+    return wrapper;
+  };
+
+  const tree = createNode(data);
+  container.appendChild(tree);
+}
+function drawConnectors() {
+  const svg = document.getElementById('connector-layer');
+  svg.innerHTML = ''; 
+
+  const levels = document.querySelectorAll('.tree-level');
+
+  levels.forEach(parent => {
+    const parentBox = parent.querySelector('.node-box');
+    const children = parent.querySelectorAll(':scope > .node-children > .tree-level');
+
+    children.forEach(child => {
+      const childBox = child.querySelector('.node-box');
+
+      const pRect = parentBox.getBoundingClientRect();
+      const cRect = childBox.getBoundingClientRect();
+      const svgRect = svg.getBoundingClientRect();
+
+      const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+      line.setAttribute('x1', pRect.left + pRect.width / 2 - svgRect.left);
+      line.setAttribute('y1', pRect.bottom - svgRect.top);
+      line.setAttribute('x2', cRect.left + cRect.width / 2 - svgRect.left);
+      line.setAttribute('y2', cRect.top - svgRect.top);
+      line.setAttribute('stroke', '#888');
+      line.setAttribute('stroke-width', '2');
+
+      svg.appendChild(line);
+    });
+  });
+}
+
+        
+      const diagramContainer = document.getElementById('topics');
+        renderBlockDiagram(topics.summary, diagramContainer);
+        drawConnectors();
+        const observer = new MutationObserver(() => {
+            requestAnimationFrame(drawConnectors);
+        });
+        observer.observe(document.getElementById('diagram-wrapper'), {
+        attributes: true,
+        childList: true,
+        subtree: true
+        });
     }
   });
 }
@@ -92,7 +154,7 @@ getTopics().then(topics => {
             Object.keys(topics).forEach(key => {
                 const btn = document.createElement('div');
                 btn.classList.add('topicClick');
-                btn.style.color = 'gray';
+                btn.style.color = 'white';
                 btn.textContent = key;
                 btn.onclick = () => {
                       window.location.href = `tema.html?category=${encodeURIComponent(key)}`;
@@ -105,4 +167,8 @@ getTopics().then(topics => {
        
     }        
     }
+});
+
+window.addEventListener('DOMContentLoaded', () => {
+  requestAnimationFrame(drawConnectors);
 });
