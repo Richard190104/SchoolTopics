@@ -258,7 +258,6 @@ body.light-mode .headder h1{
   justify-content: center;
   align-items: center;
   margin-top: 20px;
-  border: #00c4ff 2px solid;
   border-radius: 10px;
   width: 50%;
   flex-direction: column;
@@ -270,12 +269,10 @@ body.light-mode .headder h1{
   border: none;
   border-radius: 8px;
   padding: 10px 22px;
-  font-size: 1.5rem;
   font-weight: 600;
   box-shadow: 0 2px 8px rgba(0,180,216,0.15);
   transition: background 0.2s, transform 0.1s, box-shadow 0.2s;
   margin: 5px;
-  min-width: 250px;
   display: flex;
   justify-content: center;
   cursor: pointer;
