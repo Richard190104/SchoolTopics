@@ -1,5 +1,116 @@
 {
-   
+    "Otázka č. 1":[
+          {
+    "topic": "Systém školstva na Slovensku",
+    "question": "Čo tvorí systém školstva na Slovensku?",
+    "options": {
+      "A": "Iba základné a stredné školy",
+      "B": "Sústava súkromných a verejných vysokých škôl",
+      "C": "Len školy zaradené do európskej siete",
+      "D": "Školská sústava a sústava školských zariadení zaradené v sieti škôl"
+    },
+    "answer": "D"
+  },
+  {
+    "topic": "Systém školstva na Slovensku",
+    "question": "Aké školy patria do školskej sústavy?",
+    "options": {
+      "A": "Iba základné a stredné školy",
+      "B": "Materské, základné, stredné, jazykové, ZUŠ a vysoké školy",
+      "C": "Len vysoké a odborné školy",
+      "D": "Základné školy a konzervatóriá"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Systém školstva na Slovensku",
+    "question": "Kto môže byť zriaďovateľom školy?",
+    "options": {
+      "A": "Iba štát",
+      "B": "Iba obce a mestá",
+      "C": "Štát, obce, kraje, cirkvi a súkromné osoby",
+      "D": "Len súkromné inštitúcie"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Systém školstva na Slovensku",
+    "question": "Ako dlho trvá povinná školská dochádzka?",
+    "options": {
+      "A": "Do 18 rokov",
+      "B": "6 rokov",
+      "C": "10 rokov, najviac do 16 rokov",
+      "D": "12 rokov"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Systém školstva na Slovensku",
+    "question": "Ako sa financujú školy na Slovensku?",
+    "options": {
+      "A": "Podľa výsledkov testovania",
+      "B": "Podľa počtu učiteľov",
+      "C": "Podľa hodnotenia žiakov",
+      "D": "Podľa počtu žiakov"
+    },
+    "answer": "D"
+  },
+  {
+    "topic": "Hudobné školstvo a jeho problémy",
+    "question": "Ktoré inštitúcie poskytujú hudobné vzdelávanie na Slovensku?",
+    "options": {
+      "A": "Len konzervatóriá",
+      "B": "ZUŠ, konzervatóriá a vysoké umelecké školy",
+      "C": "Len základné školy",
+      "D": "ZUŠ a súkromné kurzy"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Hudobné školstvo a jeho problémy",
+    "question": "Ktorý z nasledujúcich NIE je problém hudobného školstva?",
+    "options": {
+      "A": "Nedostatok kvalifikovaných učiteľov",
+      "B": "Slabá digitalizácia",
+      "C": "Príliš vysoké platy",
+      "D": "Zastaralé vyučovacie metódy"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Porovnanie so zahraničím",
+    "question": "Čo je typické pre zahraničné školské systémy?",
+    "options": {
+      "A": "Nízky dôraz na prax",
+      "B": "Možnosť výberu predmetov a rozvinutá inklúzia",
+      "C": "Silne centralizované osnovy",
+      "D": "Zákaz nosenia uniforiem"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Štátne inštitúcie v oblasti školstva",
+    "question": "Čo je úlohou NIVAM-u?",
+    "options": {
+      "A": "Financovanie škôl",
+      "B": "Tvorba ŠVP, školenia a učebné dokumenty",
+      "C": "Zákonodarná činnosť",
+      "D": "Inšpekcia kvality výučby"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Kontakt žiaka s hudbou a hudobný rozvoj",
+    "question": "Kde sa dieťa stretáva s hudbou pred nástupom do školy?",
+    "options": {
+      "A": "Iba v materskej škole",
+      "B": "Najmä prostredníctvom televízie",
+      "C": "V rodine cez spev, počúvanie a muzicírovanie",
+      "D": "V umeleckých školách"
+    },
+    "answer": "C"
+  }
+    ],
     "Otázka č. 19": [
     {
       "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
