@@ -474,100 +474,224 @@
     ]
   }
 },
-"Otázka č. 22": {
-  "Vyučovanie_a_vyučovacia_jednotka": {
-    "Čo je vyučovanie?": "Zámerné a cieľavedomé pôsobenie učiteľa na žiaka s cieľom sprostredkovať vedomosti, zručnosti a postoje.",
-    "Čo je vyučovacia jednotka?": "Časovo ohraničená časť vyučovania (napr. hodina), ktorá má konkrétne ciele, obsah a metódy."
-  },
-  "Typy_vyučovacích_jednotiek": {
-    "Aké sú typy vyučovacích jednotiek?": "Motivačné; Expozičné; Fixujúce; Diagnostické; Aplikačné; Zmiešané (kombinované)."
-  },
-  "Fázy_vyučovacieho_procesu": {
-    "Aké sú fázy vyučovacieho procesu?": "Motivačná fáza; Expozičná fáza; Fixácia; Diagnostická fáza; Aplikačná fáza; Zhrňujúca fáza; Záverečná fáza."
-  },
-  "Organizačné_formy_vyučovania": {
-    "Aké sú organizačné formy vyučovania?": "Individuálna; Skupinová; Frontálna; Diferencovaná; Kooperatívna; Projektová; Hrová."
-  },
-  "Metódy_vyučovania": {
-    "Aké sú základné metódy vyučovania?": "Slovné; Názorné; Praktické; Rešeršné; Problémové; Heuristické; Reprodukčné.",
-    "Aké sú metódy podľa fázy učenia?": "Objasňovacie; Fixujúce; Diagnostické; Aplikačné.",
-    "Čo ovplyvňuje výber metód?": "Ciele výučby; Obsah; Vek žiakov; Podmienky výučby; Vlastnosti učiteľa; Prostriedky."
-  },
-  "Typy_činností_učiteľa_a_žiaka": {
-    "Aké činnosti vykonáva učiteľ počas výučby?": "Vysvetľovanie; Pýtanie sa; Hodnotenie; Riadenie; Motivovanie; Organizovanie.",
-    "Aké činnosti vykonáva žiak počas výučby?": "Pozorovanie; Počúvanie; Zaznamenávanie; Praktická činnosť; Spolupráca."
-  },
-  "Využitie_hry_vo_vyučovaní": {
-    "Prečo sa využíva hra vo vyučovaní?": "Hra motivuje, uvoľňuje, podporuje učenie zážitkom, rozvíja fantáziu a spoluprácu.",
-    "Aké druhy hier sa používajú v hudobnom vyučovaní?": "Rytmické hry; Intonačné hry; Hry s hlasom; Hry s nástrojmi; Hudobné kvízy."
-  },
-  "Projektovanie_výučby": {
-    "Čo znamená projektovanie výučby?": "Premyslené plánovanie cieľov, obsahu, metód, foriem a prostriedkov vyučovania.",
-    "Aké sú etapy projektovania výučby?": "Analýza učiva; Stanovenie cieľov; Výber metód a foriem; Návrh aktivít a materiálov; Hodnotenie výsledkov."
-  },
-  "summary": {
-    "name": "TITLE Vyučovanie a vyučovací proces",
-    "children": [
-      {
-        "name": "TITLE Vyučovanie a vyučovacia jednotka",
-        "children": [
-          { "name": "Vyučovanie – cieľavedomý proces" },
-          { "name": "Vyučovacia jednotka – časť výučby" }
-        ]
-      },
-      {
-        "name": "TITLE Typy vyučovacích jednotiek",
-        "children": [
-          { "name": "Motivačné; Expozičné; Fixujúce; Diagnostické; Aplikačné; Zmiešané" }
-        ]
-      },
-      {
-        "name": "TITLE Fázy vyučovania",
-        "children": [
-          { "name": "Motivačná; Expozičná; Fixácia; Diagnostická; Aplikačná; Zhrňujúca; Záverečná" }
-        ]
-      },
-      {
-        "name": "TITLE Organizačné formy výučby",
-        "children": [
-          { "name": "Individuálna; Skupinová; Frontálna; Diferencovaná; Kooperatívna; Projektová; Hrová" }
-        ]
-      },
-      {
-        "name": "TITLE Metódy vyučovania",
-        "children": [
-          { "name": "Slovné; Názorné; Praktické; Rešeršné; Problémové; Heuristické; Reprodukčné" },
-          { "name": "Podľa fázy: Objasňovacie; Fixujúce; Diagnostické; Aplikačné" },
-          { "name": "Faktory výberu metód" }
-        ]
-      },
-      {
-        "name": "TITLE Činnosti učiteľa a žiaka",
-        "children": [
-          { "name": "Učiteľ: vysvetľovanie, hodnotenie, riadenie..." },
-          { "name": "Žiak: pozorovanie, praktická činnosť..." }
-        ]
-      },
-      {
-        "name": "TITLE Hra vo vyučovaní",
-        "children": [
-          { "name": "Zmysel a význam hry" },
-          { "name": "Druhy hudobných hier" }
-        ]
-      },
-      {
-        "name": "TITLE Projektovanie výučby",
-        "children": [
-          { "name": "Definícia projektovania" },
-          { "name": "Etapy plánovania: analýza, ciele, metódy..." }
-        ]
-      }
-    ]
+
+  "Otázka č. 22": {
+    "Vyučovacia jednotka a hodina": {
+      "Čo je vyučovacia hodina?": "Je to základná časová jednotka vyučovania, zvyčajne trvá 45 minút.",
+      "Čo je vyučovacia jednotka?": "Je to súbor rôznych častí vyučovania, napr. viaceré hodiny alebo predmety.",
+      "Aké dĺžky hodín sú v ZUŠ?": "70-minútovky; 35-minútovky; 45-minútovky; 90-minútovky."
+    },
+
+    "Typy vyučovacích jednotiek": {
+      "Aké typy vyučovacích jednotiek existujú?": "Zoznamovacia a informačná; Expozičná; Fixačná; Exploračná; Tvorivá/aplikačná; Nekontrolovaná; Prípravná na vystúpenie; Sociálno-percepčná a komunikačná; Hodnotiaca; Administratívna; Rovnomerná."
+    },
+
+    "Fázy vyučovacieho procesu": {
+      "Aké sú fázy vyučovania?": "Úvodná; Motivačná; Kontrolná; Expozičná; Exploračná; Fixačná; Diagnostická; Aplikačná; Relaxačná; Záverečná."
+    },
+
+    "Organizačné formy vyučovania": {
+      "Ako sa delí vyučovanie podľa miesta?": "V škole; Mimo školy; V domácom prostredí.",
+      "Ako sa delí podľa počtu žiakov?": "Individuálna; Skupinová; Hromadná (frontálna).",
+      "Ako sa delí podľa činnosti učiteľa a žiakov?": "Samostatná práca žiakov; Kooperatívne formy.",
+      "Ako sa delí podľa rolí učiteľa a žiakov?": "Riadené vyučovanie; Otvorené vyučovanie; Nekontrolované vyučovanie.",
+      "Ako sa delí podľa dĺžky?": "Skrátené; Klasické (45 min); Dvojhodinovka; Sústredenie (viac hodín alebo dní)."
+    },
+
+    "Metódy vyučovania": {
+      "Aké sú slovné metódy?": "Monologické (výklad, prednáška...); Dialogické (rozhovor, diskusia).",
+      "Aké sú názorné metódy?": "Demonštrácia; Pozorovanie; Exkurzia.",
+      "Aké sú praktické metódy?": "Riešenie úloh; Praktická práca.",
+      "Aké ďalšie metódy existujú?": "Práca s notovým textom; Inovatívne; Aktivizujúce; Zážitkové.",
+      "Aké sú typy prístupov učiteľa?": "Tradičný (odborne); Intuitívny; Inovatívny."
+    },
+
+    "Typy hudobných činností": {
+      "Aké sú hudobné činnosti?": "Hlasové, dychové, vokálne; Inštrumentálne; Hudobno-pohybové; Hudobno-dramatické; Hudobno-vizualizačné; Percepčné (počúvanie hudby).",
+      "Aké sú nehudobné činnosti?": "Riešenie bežných tém, diskusia, reflexia, práca s textom, hry atď."
+    },
+
+    "Hry vo výučbe hudby": {
+      "Aké typy hier poznáme?": "Funkcionálne; Fikcionálne; Konštrukčné; Tvorivé; Pohybové; Didaktické; Fyzické; Psychické."
+    },
+
+    "Projektovanie výučby": {
+      "Čo je projektovanie výučby?": "Plánovanie, čo a ako budem robiť na hodine.",
+      "Aké faktory zohľadniť?": "Typ školy, vek žiaka, predmet, téma, forma výučby, hodnotenie, pomôcky.",
+      "Aké sú ciele výučby?": "Kognitívne; Sociálno-afektívne; Psychomotorické.",
+      "Aké faktory súvisia so žiakom?": "Rodinné prostredie; Schopnosti; Preferencie; Príprava; Vzťah s učiteľom.",
+      "Aké faktory súvisia s učivom?": "Typ učiva; Úroveň zvládnutia; Cieľové kompetencie.",
+      "Čo ešte treba plánovať?": "Fázy hodiny; Metódy; Aktivity; Hudobné aj nehudobné činnosti."
+    },
+
+    "Príprava na vyučovanie": {
+      "Ako sa líši príprava podľa typu výučby?": "Individuálna výučba vyžaduje menej prípravy; kolektívna a teoretická vyžaduje dôkladné plánovanie.",
+      "Čo zahŕňa príprava?": "Zohľadnenie potrieb žiaka, výber a úprava učiva, premyslenie hodiny a jej priebehu."
+    },
+
+    "summary": {
+      "name": "TITLE Vyučovanie a jeho plánovanie",
+      "children": [
+        {
+          "name": "TITLE Vyučovacia jednotka",
+          "children": [
+            { "name": "Vyučovacia hodina (45 minút)" },
+            { "name": "Dĺžky hodín v ZUŠ" },
+            { "name": "Vyučovacia jednotka = súbor hodín" }
+          ]
+        },
+        {
+          "name": "TITLE Typy vyučovacích jednotiek",
+          "children": [
+            { "name": "Zoznamovacia a informačná" },
+            { "name": "Expozičná" },
+            { "name": "Fixačná" },
+            { "name": "Exploračná" },
+            { "name": "Tvorivá/aplikačná" },
+            { "name": "Nekontrolovaná" },
+            { "name": "Prípravná na vystúpenie" },
+            { "name": "Sociálno-komunikačná" },
+            { "name": "Hodnotiaca" },
+            { "name": "Administratívna" },
+            { "name": "Rovnomerná" }
+          ]
+        },
+        {
+          "name": "TITLE Fázy vyučovania",
+          "children": [
+            { "name": "Úvodná" },
+            { "name": "Motivačná" },
+            { "name": "Kontrolná" },
+            { "name": "Expozičná" },
+            { "name": "Exploračná" },
+            { "name": "Fixačná" },
+            { "name": "Diagnostická" },
+            { "name": "Aplikačná" },
+            { "name": "Relaxačná" },
+            { "name": "Záverečná" }
+          ]
+        },
+        {
+          "name": "TITLE Organizačné formy",
+          "children": [
+            {
+              "name": "Podľa miesta",
+              "children": [
+                { "name": "V škole" },
+                { "name": "Mimo školy" },
+                { "name": "V domácom prostredí" }
+              ]
+            },
+            {
+              "name": "Podľa počtu žiakov",
+              "children": [
+                { "name": "Individuálne" },
+                { "name": "Skupinové" },
+                { "name": "Hromadné" }
+              ]
+            },
+            {
+              "name": "Podľa úloh učiteľa a žiaka",
+              "children": [
+                { "name": "Samostatná práca" },
+                { "name": "Kooperatívne formy" }
+              ]
+            },
+            {
+              "name": "Podľa rolí",
+              "children": [
+                { "name": "Riadené" },
+                { "name": "Otvorené" },
+                { "name": "Nekontrolované" }
+              ]
+            },
+            {
+              "name": "Podľa dĺžky",
+              "children": [
+                { "name": "Skrátené" },
+                { "name": "Klasické" },
+                { "name": "Dvojhodinovka" },
+                { "name": "Sústredenie" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TITLE Metódy vyučovania",
+          "children": [
+            {
+              "name": "Slovné metódy",
+              "children": [
+                { "name": "Monologické" },
+                { "name": "Dialogické" }
+              ]
+            },
+            {
+              "name": "Názorné metódy",
+              "children": [
+                { "name": "Demonštrácia" },
+                { "name": "Pozorovanie" },
+                { "name": "Exkurzia" }
+              ]
+            },
+            {
+              "name": "Praktické metódy",
+              "children": [
+                { "name": "Riešenie úloh" },
+                { "name": "Praktická práca" }
+              ]
+            },
+            {
+              "name": "Nové prístupy",
+              "children": [
+                { "name": "Inovatívne" },
+                { "name": "Aktivizujúce" },
+                { "name": "Zážitkové" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TITLE Typy činností",
+          "children": [
+            {
+              "name": "Hudobné",
+              "children": [
+                { "name": "Hlasové" },
+                { "name": "Inštrumentálne" },
+                { "name": "Pohybové" },
+                { "name": "Dramatické" },
+                { "name": "Vizualizačné" },
+                { "name": "Percepčné" }
+              ]
+            },
+            { "name": "Nehudobné" }
+          ]
+        },
+        {
+          "name": "TITLE Hry vo výučbe",
+          "children": [
+            { "name": "Funkcionálne" },
+            { "name": "Fikcionálne" },
+            { "name": "Konštrukčné" },
+            { "name": "Tvorivé" },
+            { "name": "Pohybové" },
+            { "name": "Didaktické" },
+            { "name": "Fyzické" },
+            { "name": "Psychické" }
+          ]
+        },
+        {
+          "name": "TITLE Projektovanie a príprava",
+          "children": [
+            { "name": "Zohľadnenie žiaka" },
+            { "name": "Stanovenie cieľov" },
+            { "name": "Výber a úprava učiva" },
+            { "name": "Plánovanie aktivít a metód" },
+            { "name": "Príprava podľa typu hodiny" }
+          ]
+        }
+      ]
+    }
   }
-}
-
-
-
-
-
 }
