@@ -506,36 +506,7 @@
       "Aké sú typy prístupov učiteľa?": "Tradičný (odborne); Intuitívny; Inovatívny."
     },
 
-    "Typy hudobných činností": {
-      "Aké sú hudobné činnosti?": "Hlasové, dychové, vokálne; Inštrumentálne; Hudobno-pohybové; Hudobno-dramatické; Hudobno-vizualizačné; Percepčné (počúvanie hudby).",
-      "Aké sú nehudobné činnosti?": "Riešenie bežných tém, diskusia, reflexia, práca s textom, hry atď."
-    },
-    "Spôsoby vyučovania": {
-    "Aké sú prístupy učiteľa k vyučovaniu?": "Odborne tradičné – využívajú overené metódy a postupy; Intuitívne – učiteľ sa spolieha na svoje skúsenosti a cit pre situáciu; Inovatívne – učiteľ používa nové prístupy a vytvára vlastný štýl výučby.",
-    "Čo sú inovatívne metódy?": "Sú to nové metódy, ktoré sa nehodia do starých systémov výučby. Využívajú moderné poznatky, technológie a nové pomôcky.",
-    "Čo sú aktivizujúce metódy?": "Metódy, ktoré žiaka aktívne zapoja do výučby, doslova ho „postavia zo stoličky“.",
-    "Čo sú zážitkové metódy?": "Metódy, ktoré dajú žiakovi silný zážitok – výučba ho zaujme a emocionálne zasiahne.",
-    "Prečo sú dnes inovatívne, aktivizujúce a zážitkové metódy čoraz dôležitejšie?": "Lebo žiakov viac oslovia, zvyšujú ich motiváciu a lepšie podporujú učenie v modernej dobe."
-    },
-
-    "Hry vo výučbe hudby": {
-      "Aké typy hier poznáme?": "Funkcionálne; Fikcionálne; Konštrukčné; Tvorivé; Pohybové; Didaktické; Fyzické; Psychické."
-    },
-
-    "Projektovanie výučby": {
-      "Čo je projektovanie výučby?": "Plánovanie, čo a ako budem robiť na hodine.",
-      "Aké faktory zohľadniť?": "Typ školy, vek žiaka, predmet, téma, forma výučby, hodnotenie, pomôcky.",
-      "Aké sú ciele výučby?": "Kognitívne; Sociálno-afektívne; Psychomotorické.",
-      "Aké faktory súvisia so žiakom?": "Rodinné prostredie; Schopnosti; Preferencie; Príprava; Vzťah s učiteľom.",
-      "Aké faktory súvisia s učivom?": "Typ učiva; Úroveň zvládnutia; Cieľové kompetencie.",
-      "Čo ešte treba plánovať?": "Fázy hodiny; Metódy; Aktivity; Hudobné aj nehudobné činnosti."
-    },
-
-    "Príprava na vyučovanie": {
-      "Ako sa líši príprava podľa typu výučby?": "Individuálna výučba vyžaduje menej prípravy; kolektívna a teoretická vyžaduje dôkladné plánovanie.",
-      "Čo zahŕňa príprava?": "Zohľadnenie potrieb žiaka, výber a úprava učiva, premyslenie hodiny a jej priebehu."
-    },
-
+    
     "summary": {
       "name": "TITLE Vyučovanie a jeho plánovanie",
       "children": [
@@ -657,8 +628,45 @@
               ]
             }
           ]
-        },
-        {
+        }
+        
+      ]
+    }
+  },
+  "Otázka č. 23":{
+    "Typy hudobných činností": {
+      "Aké sú hudobné činnosti?": "Hlasové, dychové, vokálne; Inštrumentálne; Hudobno-pohybové; Hudobno-dramatické; Hudobno-vizualizačné; Percepčné (počúvanie hudby).",
+      "Aké sú nehudobné činnosti?": "Riešenie bežných tém, diskusia, reflexia, práca s textom, hry atď."
+    },
+    "Spôsoby vyučovania": {
+    "Aké sú prístupy učiteľa k vyučovaniu?": "Odborne tradičné – využívajú overené metódy a postupy; Intuitívne – učiteľ sa spolieha na svoje skúsenosti a cit pre situáciu; Inovatívne – učiteľ používa nové prístupy a vytvára vlastný štýl výučby.",
+    "Čo sú inovatívne metódy?": "Sú to nové metódy, ktoré sa nehodia do starých systémov výučby. Využívajú moderné poznatky, technológie a nové pomôcky.",
+    "Čo sú aktivizujúce metódy?": "Metódy, ktoré žiaka aktívne zapoja do výučby, doslova ho „postavia zo stoličky“.",
+    "Čo sú zážitkové metódy?": "Metódy, ktoré dajú žiakovi silný zážitok – výučba ho zaujme a emocionálne zasiahne.",
+    "Prečo sú dnes inovatívne, aktivizujúce a zážitkové metódy čoraz dôležitejšie?": "Lebo žiakov viac oslovia, zvyšujú ich motiváciu a lepšie podporujú učenie v modernej dobe."
+    },
+
+    "Hry vo výučbe hudby": {
+      "Aké typy hier poznáme?": "Funkcionálne; Fikcionálne; Konštrukčné; Tvorivé; Pohybové; Didaktické; Fyzické; Psychické."
+    },
+
+    "Projektovanie výučby": {
+      "Čo je projektovanie výučby?": "Plánovanie, čo a ako budem robiť na hodine.",
+      "Aké faktory zohľadniť?": "Typ školy, vek žiaka, predmet, téma, forma výučby, hodnotenie, pomôcky.",
+      "Aké sú ciele výučby?": "Kognitívne; Sociálno-afektívne; Psychomotorické.",
+      "Aké faktory súvisia so žiakom?": "Rodinné prostredie; Schopnosti; Preferencie; Príprava; Vzťah s učiteľom.",
+      "Aké faktory súvisia s učivom?": "Typ učiva; Úroveň zvládnutia; Cieľové kompetencie.",
+      "Čo ešte treba plánovať?": "Fázy hodiny; Metódy; Aktivity; Hudobné aj nehudobné činnosti."
+    },
+
+    "Príprava na vyučovanie": {
+      "Ako sa líši príprava podľa typu výučby?": "Individuálna výučba vyžaduje menej prípravy; kolektívna a teoretická vyžaduje dôkladné plánovanie.",
+      "Čo zahŕňa príprava?": "Zohľadnenie potrieb žiaka, výber a úprava učiva, premyslenie hodiny a jej priebehu."
+    },
+    "summary":{
+      "name": "TITLE Typy činností",
+      "children": [
+       {
           "name": "TITLE Typy činností",
           "children": [
             {
@@ -683,7 +691,6 @@
             { "name": "Inovatívne" }
         ]
         },
-
         {
           "name": "TITLE Hry vo výučbe",
           "children": [
@@ -708,6 +715,6 @@
           ]
         }
       ]
-    }
   }
+}
 }
