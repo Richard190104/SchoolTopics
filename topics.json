@@ -1,6 +1,6 @@
 {
   "Otázka č. 19": {
-    "Funkcie_a_význam_výchovno-vzdelávacích_disciplín": {
+    "Funkcie a význam výchovno-vzdelávacích disciplín": {
       "Aké sú hlavné funkcie pedagogiky?": "Teoretická – skúma, čo je výchova a ako funguje; Prognostická – predvída, aké budú potreby v budúcnosti; Propedeutická – zhŕňa poznatky pre prax.",
       "Aký je význam výchovy pre spoločnosť?": "Pomáha udržať kultúru a zvyky; pripravuje jednotlivcov na život medzi ľuďmi.",
       "Aký je prínos vzdelávania?": "Zvyšuje vedomosti a schopnosti; posúva spoločnosť vpred.",
@@ -9,19 +9,19 @@
       "Aké funkcie má vyučovací proces?": "Vzdelávacia – poskytuje vedomosti a zručnosti; Výchovná – formuje postoje a hodnoty; Rozvíjajúca – pomáha osobnostnému rastu."
     },
 
-    "Učiteľstvo_ako_povolanie": {
+    "Učiteľstvo ako povolanie": {
       "Aký je profesijný a hodnotový rozmer učiteľstva?": "Učiteľ odovzdáva kultúrne dedičstvo a pripravuje žiakov na život.",
       "Prečo je potrebné celoživotné učenie učiteľa?": "Pretože učiteľ musí neustále zlepšovať svoje vedomosti, zručnosti a prístup.",
       "Aké je poslanie a zodpovednosť učiteľa?": "Učiteľ vedie žiakov, pomáha im rásť a pracuje z lásky k učeniu a ľuďom."
     },
 
-    "Typy_vyučovacieho_procesu": {
+    "Typy vyučovacieho procesu": {
       "Čo charakterizuje dogmatický typ vyučovania?": "Učiteľ len povie poučky; žiak si ich musí zapamätať bez vysvetlenia.",
       "Čo je výkladovo-ilustratívny (transmisívny) typ vyučovania?": "Učiteľ vysvetľuje, žiak počúva a opakuje; málo samostatnosti.",
       "Ako vyzerá moderný (konštruktivistický) typ vyučovania?": "Žiak poznatky objavuje sám; učiteľ ho len usmerňuje."
     },
 
-    "Humanizácia_vyučovacieho_procesu": {
+    "Humanizácia vyučovacieho procesu": {
       "Ako sa humanizuje vyučovací proces?": "Podporuje sa dôvera, tvorivosť, samostatnosť, tolerancia a dobré vzťahy medzi učiteľom, žiakom a rodičom."
     },
     
@@ -403,12 +403,12 @@
   
 },
 "Otázka č. 21": {
-  "Didaktické_zásady": {
+  "Didaktické zásady": {
     "Čo sú didaktické zásady?": "Sú to pravidlá vychádzajúce zo zákonitostí výučby, skúseností a spoločenských noriem. Majú usmerňovať učiteľa počas prípravy aj realizácie výučby.",
     "Aké sú základné didaktické zásady?": "Zásada optimálnych podmienok; primeranosti a individuálneho prístupu; vedeckosti; spojenia teórie s praxou; názornosti; motivácie, uvedomelosti a aktivity; sústavnosti a postupnosti; trvácnosti a operatívnosti výsledkov."
   },
 
-  "Motivácia_a_demotivácia": {
+  "Motivácia a demotivácia": {
     "Čo je motivácia vo vyučovaní?": "Nutkanie na určité správanie – napríklad učenie sa. Motivácia môže pochádzať z rôznych zdrojov.",
     "Z akých zdrojov pochádza motivácia k hudobnému vzdelávaniu?": "Z rodinného prostredia, komunít, samotnej hudby, školského prostredia a potreby sebarealizácie.",
     "Čo je demotivácia?": "Úpadok motivácie spôsobený vnútornými alebo vonkajšími faktormi."
@@ -422,7 +422,7 @@
     "Čo je kurikulum a aké sú jeho typy?": "Vzdelávací program alebo obsah výučby. Typy: formálne, neformálne a skryté kurikulum."
   },
 
-  "Pedagogické_dokumenty": {
+  "Pedagogické dokumenty": {
     "Čo sú pedagogické dokumenty?": "Materiály, ktoré určujú organizáciu a obsah výchovno-vzdelávacieho procesu.",
     "Aké typy pedagogických dokumentov poznáme?": "Zákony, vzdelávacie programy, učebné plány a osnovy, štandardy, tematické plány, prípravy, učebnice, školské poriadky, triedne knihy, výkazy, katalógy, protokoly, rozvrh, plán práce, žiacke knižky, vysvedčenia.",
     "Čo je študijný plán žiaka/triedy a ako sa tvorí?": "Zoznam učiva na polrok. Tvorí sa podľa didaktických zásad, individuálnych potrieb a možností žiaka.",
@@ -719,37 +719,37 @@
 },
 
   "Otázka č. 24": {
-    "Pojmy_a_funkcie_diagnostikovania_a_hodnotenia": {
+    "Pojmy a funkcie diagnostikovania a hodnotenia": {
       "Čo je diagnostikovanie?": "Proces zisťovania stavu žiaka v rôznych oblastiach – od psychiky cez vedomosti až po schopnosti a postoje.",
       "Čo je hodnotenie?": "Posúdenie výsledkov výučby – prideľovanie známok, bodov, ústnych/písomných vyjadrení na základe diagnostikovania.",
       "Aké sú funkcie diagnostikovania a hodnotenia?": "Kontrolná (čo žiaci vedia), Prognostická (výhľad), Motivačná (aktivita žiaka), Výchovná (vzťah k práci), Rozvíjajúca (schopnosť sebahodnotenia)."
     },
 
-    "Metódy_diagnostikovania": {
+    "Metódy diagnostikovania": {
       "Aké metódy diagnostikovania poznáme podľa činnosti žiaka?": "Ústne, písomné, praktické.",
       "Aké metódy diagnostikovania poznáme podľa činnosti učiteľa?": "Štruktúrované/neštruktúrované pozorovanie a analýza, zasahovanie do činnosti žiaka, analýza písomností.",
       "Aké metódy sú podľa počtu žiakov?": "Individuálne, skupinové (kolokviá), hromadné.",
       "Aké sú metódy podľa funkcie diagnostikovania?": "Prijímacie, priebežné, súhrnné, záverečné, opravné."
     },
 
-    "Typy_hodnotenia": {
+    "Typy hodnotenia": {
       "Aké typy hodnotenia existujú?": "Slovné, numerické (známky), grafické (pečiatky), kategoriálne (A-FX), percentuálne, kreditové, bodové.",
       "Čo môžeme diagnostikovať a hodnotiť?": "Vedomosti, schopnosti, návyky, správanie, postoje, vzťahy, sociálne pozadie žiaka."
     },
 
-    "Diagnostikovanie_a_hodnotenie_v_hudobnom_vzdelávaní": {
+    "Diagnostikovanie a hodnotenie v hudobnom vzdelávaní": {
       "Čo je predmetom diagnostiky v hudobnom školstve?": "Hudobno-teoretické vedomosti, hudobné schopnosti, zručnosti a spôsobilosti.",
       "Aké sú typy hudobných výkonov?": "Hudobno-interpretačný (vokálny, inštrumentálny, vokálno-inštrumentálny, dirigentský), hudobno-improvizačný.(vokálny, inštrumentálny, vokálno-inštrumentálny)",
       "Aké sú typy hudobných produktov?": "Hudobné dielo (kompozícia), hudobný projekt (dramaturgia, manažment).",
       "Ako sa hodnotia hudobné výkony a produkty?": "Najčastejšie 25-bodovou stupnicou (minimum 16 bodov), chýba jednotná systematika."
     },
 
-    "Diagnostikovanie_hudobných_vedomostí": {
+    "Diagnostikovanie hudobných vedomostí": {
       "Aké vedomosti diagnostikujeme?": "Notopis, predznamenania, stupnice, harmónia, dejiny hudby, náuka o nástrojoch, formy, hudobný rozhľad, analýza skladieb.",
       "Aké metódy sa používajú?": "Ústne (skúšanie, diskusia), písomné (testy, projekty), podľa činnosti učiteľa a počtu žiakov – všetky spomenuté vyššie."
     },
 
-    "Diagnostikovanie_interpretačných_a_improvizačných_výkonov": {
+    "Diagnostikovanie interpretačných a improvizačných výkonov": {
       "Aké sú spôsoby pozorovania výkonov?": "Auditívne, audio-vizuálne.",
       "Aké sú frekvencie diagnostikovania?": "Jednorazové (živé vystúpenia), opakované (záznamy).",
       "Aké sú hĺbky hodnotenia?": "Syntetické, analytické, komplexné.",
@@ -758,31 +758,31 @@
       "Aké sú typy podľa funkcie a času?": "Prijímacie, priebežné, záverečné skúšky."
     },
 
-    "Diagnostikovanie_tvorivých_produktov": {
+    "Diagnostikovanie tvorivých produktov": {
       "Aké sú spôsoby hodnotenia tvorby?": "Vizuálne, auditívne, audio-vizuálne.",
       "Aké sú frekvencie a hĺbky hodnotenia?": "Jednorazové/Opakované; Syntetické/Analytické/Komplexné.",
       "Kedy sa hodnotia tvorivé produkty?": "Priebežne počas tvorby; dodatočne po finalizácii.",
       "Aké sú typy hodnotenia podľa funkcie?": "Prijímacie, priebežné, záverečné (ZUŠ, konzervatórium, VŠ)."
     },
 
-    "Faktory_ovplyvňujúce_diagnostiku_a_hodnotenie": {
+    "Faktory ovplyvňujúce diagnostiku a hodnotenie": {
       "Aké sú vonkajšie faktory ovplyvňujúce diagnostiku?": "Prostredie (akustika), kvalita nástrojov, účastníci (rušivé vplyvy), forma predloženia diela.",
       "Aké sú vnútorné faktory?": "Osobnosť a stav pedagóga, jeho skúsenosti, vnímanie žiaka (predpojatosť, haló efekt, logické chyby, prísnosť, stereotypy, tradície)."
     },
 
-    "Kritériá_posudzovania_interpretačných_výkonov": {
+    "Kritériá posudzovania interpretačných výkonov": {
       "Aké kvantitatívne a kvalitatívne kritériá sa sledujú?": "Počet a žáner skladieb, štýlová rozmanitosť.",
       "Aké schopnosti sa hodnotia?": "Psychologické (motivácia, empatia), hudobno-psychologické (sluch, rytmus), technické (tón, koordinácia).",
       "Aké ďalšie kritériá sa používajú?": "Progres, tvorivosť, dramaturgia, hodnovernosť, pohotovosť, spolupráca, vizuálny dojem, etiketa, cvičenie, sebareflexia, pridaná hodnota, príprava na výkon, úroveň doby, celkový dojem."
     },
 
-    "Kritériá_posudzovania_tvorivých_produktov": {
+    "Kritériá posudzovania tvorivých produktov": {
       "Aké základné kritériá existujú?": "Kvantitatívne, kvalitatívne, vzdelanostná úroveň, psychologické schopnosti.",
       "Aké tvorivé kritériá sa posudzujú?": "Originalita, samostatnosť, rozsah, inovácia, štýl a technika, štruktúra a obsah, uvedenie diela, portfólio, cvičenie, sebareflexia.",
       "Čo je dôležité pri hodnotení kontextu?": "Progres študenta a momentálna všeobecná úroveň diel."
     },
 
-    "Kritériá_posudzovania_improvizácie": {
+    "Kritériá posudzovania improvizácie": {
       "Ako sa hodnotí improvizácia?": "Kombináciou kritérií interpretácie a tvorby, bez predlohy, hodnotí sa komplexná hudobná aj tvorivá zložka.",
       "Prečo je improvizácia najnáročnejšia na hodnotenie?": "Integruje interpretačné aj tvorivé procesy, je veľmi individuálna a subjektívna."
     },
@@ -885,7 +885,7 @@
 
 
   "Otázka č. 25": {
-    "Učebné_pomôcky_a_didaktická_technika": {
+    "Učebné pomôcky a didaktická technika": {
       "Čo sú materiálne didaktické prostriedky?": "Všetky predmety a veci, ktoré potrebujeme na realizáciu výučby, ako nástroje, noty, pomôcky.",
       "Ako sa delia didaktické prostriedky v hudobnom školstve?": "Učebné pomôcky: skutočné predmety, modely, zobrazenia, textové a notové, auditívne, audiovizuálne a kybernetické; Didaktická technika: základné a pomocné zariadenia, zobrazovacie a premietacie techniky, zvuková technika, IT technika.",
       "Čo sú modely v hudobnom vzdelávaní?": "Zmenšeniny nástrojov, napr. orffovské nástroje, modely mechaniky klavíra a pod.",
@@ -900,28 +900,28 @@
       "Čo zahŕňa IT technika vo vyučovaní?": "Počítače, tablety, smartfóny, digitálne aplikácie."
     },
 
-    "Dostupné_učebné_materiály_na_Slovensku": {
+    "Dostupné učebné materiály na Slovensku": {
       "Aké typy učebných materiálov sa používajú v hudobnom vzdelávaní?": "Notové školy a školičky, notové zápisy, audio a video diela, schémy, modely, experimentálne diela, učebnice, pracovné zošity.",
       "Aké sú pomôcky na precvičovanie hudobných vedomostí?": "Hudobné pexesá, skladačky, hádanky, hry.",
       "Ako sa odporúča pracovať s učebnými materiálmi?": "Kombinovať viaceré zdroje – tlačené, digitálne, zvukové aj obrazové.",
       "Aké výhody a nevýhody majú tradičné učebnice a školy?": "Stabilita, overenosť vs. menej flexibility, zastaraný obsah."
     },
 
-    "Tvorba_vlastných_učebných_materiálov": {
+    "Tvorba vlastných učebných materiálov": {
       "Prečo učitelia vytvárajú vlastné učebné materiály?": "Pretože nie vždy sú dostupné vhodné alebo aktuálne materiály.",
       "Aké sú typy vlastných materiálov v interpretačných odboroch?": "Vlastné kompozície, aranžmány, modely, predlohy na rozvoj techniky alebo improvizácie.",
       "Aké sú typy vlastných materiálov v hudobno-teoretických predmetoch?": "Prezentácie, učebné texty, pracovné listy, teoretické pomôcky, modely na tvorivé činnosti.",
       "Aký je odporúčaný postup pri tvorbe vlastného materiálu?": "1. Zohľadniť potreby žiaka; 2. Naplánovať, čo chcem vytvoriť; 3. Vypracovať materiál čo najatraktívnejšie a najprístupnejšie."
     },
 
-    "Výroba_detských_hudobných_nástrojov": {
+    "Výroba detských hudobných nástrojov": {
       "Prečo je výroba nástrojov populárna?": "Podporuje eko-prístup, objavovanie zvukového sveta a aktivitu detí.",
       "V akých situáciách sa výroba nástrojov využíva?": "Na festivaloch, v hudobnej náuke, v kolektívnom vyučovaní.",
       "Aké sú spôsoby rozozvučovania nástrojov?": "1. Tradičné nástroje s tradičnými/experimentálnymi technikami; 2. Netypické predmety; 3. Tradičné nástroje s mechanickou úpravou (napr. preparácia strún); 4. Home-made nástroje.",
       "Aké jednoduché nástroje si vieme so žiakmi vyrobiť?": "Rumba gule z obalov, flauty zo slamiek, tamburíny z viečok a drôtov, hrkálky z plastových fliaš a semienok."
     },
 
-    "Využitie_IT_a_prezentačnej_techniky": {
+    "Využitie IT a prezentačnej techniky": {
       "Na čo všetko používame IT techniku vo výučbe?": "Príprava hodín, prehrávanie ukážok, interaktívne učenie, online testy a hry, vyhľadávanie materiálov.",
       "Ako sa využíva prezentačná technika?": "Na hodinách hudobnej náuky – zobrazovanie schém, počúvanie hudby, sledovanie videí.",
       "Aké aplikácie môžeme/musíme používať pri online výučbe?": "Zoom, MS Teams, Noteflight, Flat.io, Soundtrap, Google Classroom.",
