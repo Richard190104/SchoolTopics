@@ -177,10 +177,31 @@ function createVoiceElement(){
             const timeDisplay = document.createElement('span');
             timeDisplay.style.marginLeft = '10px';
 
-            
+            const playBtn = document.createElement('button');
+            playBtn.textContent = 'Play';
+
+            const stopBtn = document.createElement('button');
+            stopBtn.textContent = 'Stop';
+            stopBtn.style.marginLeft = '5px';
+
+            const rewindBtn = document.createElement('button');
+            rewindBtn.textContent = '⏪';
+            rewindBtn.style.marginLeft = '5px';
+
+            const forwardBtn = document.createElement('button');
+            forwardBtn.textContent = '⏩';
+            forwardBtn.style.marginLeft = '5px';
+
+            const controls = document.createElement('div');
+            controls.appendChild(playBtn);
+            controls.appendChild(stopBtn);
+            controls.appendChild(rewindBtn);
+            controls.appendChild(forwardBtn);
+            controls.appendChild(timeDisplay);
 
             playerWrapper.appendChild(audio);
             playerWrapper.appendChild(timeline);
+            playerWrapper.appendChild(controls);
 
             diagramContainer.appendChild(playerWrapper);
 
