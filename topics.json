@@ -1,4 +1,163 @@
 {
+  "Otázka č. 22": {
+    "Systém školstva na Slovensku": {
+      "Čo tvorí systém školstva na Slovensku?": "Školská sústava a sústava školských zariadení, ktoré musia byť zaradené v sieti škôl.",
+      "Aké typy škôl tvoria školskú sústavu?": "Materské školy; Základné školy; Stredné školy (gymnáziá, SOŠ, školy umeleckého priemyslu, konzervatóriá); Základné umelecké školy; Jazykové školy; Vysoké školy.",
+      "Kto môže byť zriaďovateľom škôl?": "Štát; obce; mestá; kraje; cirkvi; súkromné osoby.",
+      "Aká je povinná školská dochádzka?": "Trvá 10 rokov, začína v roku, keď dieťa dovŕši 6 rokov a trvá najviac do 16 rokov.",
+      "Ako sa financuje škola?": "Podľa počtu žiakov – tzv. financovanie na žiaka."
+    },
+
+    "Hudobné školstvo a jeho problémy": {
+      "Aké inštitúcie poskytujú hudobné vzdelanie na Slovensku?": "Základné umelecké školy; konzervatóriá; vysoké školy ako VŠMU, AU BB, VŠVU, J. Albrecht Akadémia.",
+      "Aké problémy má hudobné školstvo?": "Nedostatok talentovaných žiakov; financovanie na žiaka; úpadok motivácie; slabá kvalita výučby; chýbajúci kvalifikovaní učitelia.",
+      "Aké ďalšie problémy vnímajú študenti?": "Zastaralé metódy; málo praxe; slabá propagácia nástrojov; nekvalifikovaní pedagógovia; slabá digitalizácia; nízke platy; administratíva; tlak na výkon; šikanózne správanie učiteľov."
+    },
+
+    "Porovnanie so zahraničím": {
+      "Ako sa líši školstvo v iných krajinách?": "Viac praktického vzdelávania; možnosť vlastného výberu predmetov; individuálny prístup; rozvinutá inklúzia; nosenie uniforiem.",
+      "Ako sa líši hudobné vzdelávanie v zahraničí?": "Hudobné vzdelanie často prebieha mimo bežného školského systému, konzervatóriá sú na úrovni VŠ."
+    },
+
+    "Štátne inštitúcie v oblasti školstva": {
+      "Aké sú hlavné štátne inštitúcie?": "Ministerstvo školstva; NIVAM; Štátna školská inšpekcia; Inšpektorát práce.",
+      "Čo robí Ministerstvo školstva?": "Zastrešuje všetky ostatné inštitúcie a informuje o legislatíve.",
+      "Akú úlohu má NIVAM?": "Tvorí ŠVP, ponúka školenia a zverejňuje učebné dokumenty.",
+      "Aké sú úlohy Štátnej školskej inšpekcie?": "Dohliada na kvalitu výučby, prešetruje podnety a porušenia predpisov.",
+      "Na čo slúži Inšpektorát práce?": "Rieši podnety týkajúce sa pracovného práva, napr. porušovanie Zákonníka práce."
+    },
+
+    "Kontakt žiaka s hudbou a hudobný rozvoj": {
+      "Kde sa dieťa stretáva s hudbou pred nástupom do školy?": "V rodine, cez spev, počúvanie hudby, spoločné muzicírovanie.",
+      "Aké iné prostredia ovplyvňujú kontakt s hudbou?": "Kultúrne prostredie obce/mesta; kostoly; verejné podujatia; komunity.",
+      "Ktoré inštitúcie ďalej rozvíjajú hudobnosť detí?": "Materské školy; ZŠ; ZUŠ; konzervatóriá; centrá voľného času; súkromní učitelia.",
+      "Ako pomáha technológia v hudobnom vzdelávaní?": "Internet a YouTube ponúkajú lekcie a videá na rozvoj hudobných zručností."
+    },
+
+    "summary": {
+      "name": "TITLE Vzdelávací systém a hudobné školstvo",
+      "children": [
+        {
+          "name": "TITLE Systém školstva SR",
+          "children": [
+            {
+              "name": "Typy škôl",
+              "children": [
+                { "name": "Materské školy" },
+                { "name": "Základné školy" },
+                { "name": "Stredné školy" },
+                { "name": "Základné umelecké školy" },
+                { "name": "Jazykové školy" },
+                { "name": "Vysoké školy" }
+              ]
+            },
+            {
+              "name": "Zriaďovatelia",
+              "children": [
+                { "name": "Štát" },
+                { "name": "Obce a mestá" },
+                { "name": "Kraje" },
+                { "name": "Cirkvi" },
+                { "name": "Súkromníci" }
+              ]
+            },
+            {
+              "name": "Financovanie",
+              "children": [
+                { "name": "Podľa počtu žiakov" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TITLE Hudobné školstvo",
+          "children": [
+            {
+              "name": "Inštitúcie",
+              "children": [
+                { "name": "ZUŠ" },
+                { "name": "Konzervatóriá" },
+                { "name": "VŠMU, AU BB, J. Albrecht" }
+              ]
+            },
+            {
+              "name": "Problémy",
+              "children": [
+                { "name": "Nedostatok talentov" },
+                { "name": "Financovanie na žiaka" },
+                { "name": "Slabá motivácia a kvalita" },
+                { "name": "Zlý prístup učiteľov" },
+                { "name": "Slabé podmienky výučby" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TITLE Porovnanie so zahraničím",
+          "children": [
+            {
+              "name": "Odlišnosti",
+              "children": [
+                { "name": "Praktické zameranie" },
+                { "name": "Individuálny prístup" },
+                { "name": "Inklúzia" },
+                { "name": "Uniformy" }
+              ]
+            },
+            {
+              "name": "Hudobné školstvo",
+              "children": [
+                { "name": "Hudba mimo bežného systému" },
+                { "name": "Konzervatórium ako VŠ" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TITLE Štátne inštitúcie",
+          "children": [
+            {
+              "name": "Inštitúcie",
+              "children": [
+                { "name": "Ministerstvo školstva" },
+                { "name": "NIVAM" },
+                { "name": "ŠŠI" },
+                { "name": "Inšpektorát práce" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TITLE Hudobný rozvoj detí",
+          "children": [
+            {
+              "name": "Primárne prostredie",
+              "children": [
+                { "name": "Rodina" },
+                { "name": "Kultúra obce/mesta" },
+                { "name": "Kostol, komunity" }
+              ]
+            },
+            {
+              "name": "Inštitúcie",
+              "children": [
+                { "name": "Materská škola" },
+                { "name": "ZUŠ" },
+                { "name": "Konzervatórium" },
+                { "name": "Súkromní učitelia" }
+              ]
+            },
+            {
+              "name": "Moderné formy",
+              "children": [
+                { "name": "Internet a YouTube" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
   "Otázka č. 19": {
     "Funkcie a význam výchovno-vzdelávacích disciplín": {
       "Aké sú hlavné funkcie pedagogiky?": "Teoretická – skúma, čo je výchova a ako funguje; Prognostická – predvída, aké budú potreby v budúcnosti; Propedeutická – zhŕňa poznatky pre prax.",
