@@ -718,6 +718,152 @@
   }
 },
 
+  "Otázka č. 24": {
+    "Pojmy_a_funkcie_diagnostikovania_a_hodnotenia": {
+      "Čo je diagnostikovanie?": "Proces zisťovania stavu žiaka v rôznych oblastiach – od psychiky cez vedomosti až po schopnosti a postoje.",
+      "Čo je hodnotenie?": "Posúdenie výsledkov výučby – prideľovanie známok, bodov, ústnych/písomných vyjadrení na základe diagnostikovania.",
+      "Aké sú funkcie diagnostikovania a hodnotenia?": "Kontrolná (čo žiaci vedia), Prognostická (výhľad), Motivačná (aktivita žiaka), Výchovná (vzťah k práci), Rozvíjajúca (schopnosť sebahodnotenia)."
+    },
+
+    "Metódy_diagnostikovania": {
+      "Aké metódy diagnostikovania poznáme podľa činnosti žiaka?": "Ústne, písomné, praktické.",
+      "Aké metódy diagnostikovania poznáme podľa činnosti učiteľa?": "Štruktúrované/neštruktúrované pozorovanie a analýza, zasahovanie do činnosti žiaka, analýza písomností.",
+      "Aké metódy sú podľa počtu žiakov?": "Individuálne, skupinové (kolokviá), hromadné.",
+      "Aké sú metódy podľa funkcie diagnostikovania?": "Prijímacie, priebežné, súhrnné, záverečné, opravné."
+    },
+
+    "Typy_hodnotenia": {
+      "Aké typy hodnotenia existujú?": "Slovné, numerické (známky), grafické (pečiatky), kategoriálne (A-FX), percentuálne, kreditové, bodové.",
+      "Čo môžeme diagnostikovať a hodnotiť?": "Vedomosti, schopnosti, návyky, správanie, postoje, vzťahy, sociálne pozadie žiaka."
+    },
+
+    "Diagnostikovanie_a_hodnotenie_v_hudobnom_vzdelávaní": {
+      "Čo je predmetom diagnostiky v hudobnom školstve?": "Hudobno-teoretické vedomosti, hudobné schopnosti, zručnosti a spôsobilosti.",
+      "Aké sú typy hudobných výkonov?": "Hudobno-interpretačný (vokálny, inštrumentálny, dirigentský), hudobno-improvizačný.",
+      "Aké sú typy hudobných produktov?": "Hudobné dielo (kompozícia), hudobný projekt (dramaturgia, manažment).",
+      "Ako sa hodnotia hudobné výkony a produkty?": "Najčastejšie 25-bodovou stupnicou (minimum 16 bodov), chýba jednotná systematika."
+    },
+
+    "Diagnostikovanie_hudobných_vedomostí": {
+      "Aké vedomosti diagnostikujeme?": "Notopis, predznamenania, stupnice, harmónia, dejiny hudby, náuka o nástrojoch, formy, hudobný rozhľad, analýza skladieb.",
+      "Aké metódy sa používajú?": "Ústne (skúšanie, diskusia), písomné (testy, projekty), podľa činnosti učiteľa a počtu žiakov – všetky spomenuté vyššie."
+    },
+
+    "Diagnostikovanie_interpretačných_a_improvizačných_výkonov": {
+      "Aké sú spôsoby pozorovania výkonov?": "Auditívne, audio-vizuálne.",
+      "Aké sú frekvencie diagnostikovania?": "Jednorazové (živé vystúpenia), opakované (záznamy).",
+      "Aké sú hĺbky hodnotenia?": "Syntetické, analytické, komplexné.",
+      "Aké sú časové rámce?": "Priebežné (počas výkonu), dodatočné (po výkone).",
+      "Aké sú formy podľa účinkujúcich?": "Individuálne, komorné, orchestrálne, kombinované.",
+      "Aké sú typy podľa funkcie a času?": "Prijímacie, priebežné, záverečné skúšky."
+    },
+
+    "Diagnostikovanie_tvorivých_produktov": {
+      "Aké sú spôsoby hodnotenia tvorby?": "Vizuálne, auditívne, audio-vizuálne.",
+      "Aké sú frekvencie a hĺbky hodnotenia?": "Jednorazové/Opakované; Syntetické/Analytické/Komplexné.",
+      "Kedy sa hodnotia tvorivé produkty?": "Priebežne počas tvorby; dodatočne po finalizácii.",
+      "Aké sú typy hodnotenia podľa funkcie?": "Prijímacie, priebežné, záverečné (ZUŠ, konzervatórium, VŠ)."
+    },
+
+    "Faktory_ovplyvňujúce_diagnostiku_a_hodnotenie": {
+      "Aké sú vonkajšie faktory ovplyvňujúce diagnostiku?": "Prostredie (akustika), kvalita nástrojov, účastníci (rušivé vplyvy), forma predloženia diela.",
+      "Aké sú vnútorné faktory?": "Osobnosť a stav pedagóga, jeho skúsenosti, vnímanie žiaka (predpojatosť, haló efekt, logické chyby, prísnosť, stereotypy, tradície)."
+    },
+
+    "Kritériá_posudzovania_interpretačných_výkonov": {
+      "Aké kvantitatívne a kvalitatívne kritériá sa sledujú?": "Počet a žáner skladieb, štýlová rozmanitosť.",
+      "Aké schopnosti sa hodnotia?": "Psychologické (motivácia, empatia), hudobno-psychologické (sluch, rytmus), technické (tón, koordinácia).",
+      "Aké ďalšie kritériá sa používajú?": "Progres, tvorivosť, dramaturgia, hodnovernosť, pohotovosť, spolupráca, vizuálny dojem, etiketa, cvičenie, sebareflexia, pridaná hodnota, príprava na výkon, úroveň doby, celkový dojem."
+    },
+
+    "Kritériá_posudzovania_tvorivých_produktov": {
+      "Aké základné kritériá existujú?": "Kvantitatívne, kvalitatívne, vzdelanostná úroveň, psychologické schopnosti.",
+      "Aké tvorivé kritériá sa posudzujú?": "Originalita, samostatnosť, rozsah, inovácia, štýl a technika, štruktúra a obsah, uvedenie diela, portfólio, cvičenie, sebareflexia.",
+      "Čo je dôležité pri hodnotení kontextu?": "Progres študenta a momentálna všeobecná úroveň diel."
+    },
+
+    "Kritériá_posudzovania_improvizácie": {
+      "Ako sa hodnotí improvizácia?": "Kombináciou kritérií interpretácie a tvorby, bez predlohy, hodnotí sa komplexná hudobná aj tvorivá zložka.",
+      "Prečo je improvizácia najnáročnejšia na hodnotenie?": "Integruje interpretačné aj tvorivé procesy, je veľmi individuálna a subjektívna."
+    },
+
+    "summary": {
+      "name": "TITLE Diagnostikovanie a hodnotenie v hudobnom školstve",
+      "children": [
+        {
+          "name": "TITLE Základné pojmy a funkcie",
+          "children": [
+            { "name": "Diagnostikovanie = zisťovanie stavu" },
+            { "name": "Hodnotenie = posúdenie výkonu" },
+            { "name": "Funkcie: kontrolná, motivačná, rozvíjajúca" }
+          ]
+        },
+        {
+          "name": "TITLE Metódy diagnostiky",
+          "children": [
+            { "name": "Podľa činnosti žiaka: ústne, písomné, praktické" },
+            { "name": "Podľa učiteľa: pozorovanie, analýza" },
+            { "name": "Individuálne, skupinové, hromadné" },
+            { "name": "Prijímacie, priebežné, záverečné" }
+          ]
+        },
+        {
+          "name": "TITLE Typy hodnotenia",
+          "children": [
+            { "name": "Slovné, číselné, grafické" },
+            { "name": "Kategoriálne, percentuálne, bodové, kreditové" },
+            { "name": "Diagnostikované oblasti: vedomosti, zručnosti, postoje" }
+          ]
+        },
+        {
+          "name": "TITLE Diagnostika v hudobnom školstve",
+          "children": [
+            { "name": "Interpretačné výkony" },
+            { "name": "Improvizačné výkony" },
+            { "name": "Tvorivé produkty" }
+          ]
+        },
+        {
+          "name": "TITLE Diagnostika výkonov",
+          "children": [
+            { "name": "Spôsoby pozorovania" },
+            { "name": "Jednorazové vs. opakované" },
+            { "name": "Syntetické, analytické, komplexné" },
+            { "name": "Priebežné vs. dodatočné" }
+          ]
+        },
+        {
+          "name": "TITLE Kritériá hodnotenia výkonov",
+          "children": [
+            { "name": "Hudobné schopnosti" },
+            { "name": "Psychologické faktory" },
+            { "name": "Tvorivosť, pohotovosť" },
+            { "name": "Spolupráca, etiketa, progres" }
+          ]
+        },
+        {
+          "name": "TITLE Kritériá tvorby",
+          "children": [
+            { "name": "Originalita a rozsah" },
+            { "name": "Hudobné schopnosti" },
+            { "name": "Inovácia, štýl, uvedenie" },
+            { "name": "Sebareflexia, momentálna úroveň" }
+          ]
+        },
+        {
+          "name": "TITLE Faktory ovplyvňujúce hodnotenie",
+          "children": [
+            { "name": "Vonkajšie: prostredie, nástroje" },
+            { "name": "Vnútorné: osobnosť učiteľa, predsudky" },
+            { "name": "Chybné vnímanie študenta" }
+          ]
+        }
+      ]
+    }
+  },
+
+
+
   "Otázka č. 25": {
     "Učebné_pomôcky_a_didaktická_technika": {
       "Čo sú materiálne didaktické prostriedky?": "Všetky predmety a veci, ktoré potrebujeme na realizáciu výučby, ako nástroje, noty, pomôcky.",
