@@ -174,34 +174,10 @@ function createVoiceElement(){
             timeline.step = 0.01;
             timeline.style.width = '100%';
 
-            const timeDisplay = document.createElement('span');
-            timeDisplay.style.marginLeft = '10px';
-
-            const playBtn = document.createElement('button');
-            playBtn.textContent = 'Play';
-
-            const stopBtn = document.createElement('button');
-            stopBtn.textContent = 'Stop';
-            stopBtn.style.marginLeft = '5px';
-
-            const rewindBtn = document.createElement('button');
-            rewindBtn.textContent = '⏪';
-            rewindBtn.style.marginLeft = '5px';
-
-            const forwardBtn = document.createElement('button');
-            forwardBtn.textContent = '⏩';
-            forwardBtn.style.marginLeft = '5px';
-
-            const controls = document.createElement('div');
-            controls.appendChild(playBtn);
-            controls.appendChild(stopBtn);
-            controls.appendChild(rewindBtn);
-            controls.appendChild(forwardBtn);
-            controls.appendChild(timeDisplay);
+           
 
             playerWrapper.appendChild(audio);
             playerWrapper.appendChild(timeline);
-            playerWrapper.appendChild(controls);
 
             diagramContainer.appendChild(playerWrapper);
 
@@ -218,31 +194,7 @@ function createVoiceElement(){
               audio.currentTime = timeline.value;
             });
 
-            playBtn.addEventListener('click', () => {
-              if (audio.paused) {
-                audio.play();
-                playBtn.textContent = 'Pause';
-              } else {
-                audio.pause();
-                playBtn.textContent = 'Play';
-              }
-            });
-            audio.addEventListener('play', () => playBtn.textContent = 'Pause');
-            audio.addEventListener('pause', () => playBtn.textContent = 'Play');
-
-            stopBtn.addEventListener('click', () => {
-              audio.pause();
-              audio.currentTime = 0;
-              playBtn.textContent = 'Play';
-            });
-
-            rewindBtn.addEventListener('click', () => {
-              audio.currentTime = Math.max(0, audio.currentTime - 10);
-            });
-
-            forwardBtn.addEventListener('click', () => {
-              audio.currentTime = Math.min(audio.duration, audio.currentTime + 10);
-            });
+         
           }
 
 }
