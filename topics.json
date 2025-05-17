@@ -721,8 +721,7 @@
   "Otázka č. 24": {
     "Učebné_pomôcky_a_didaktická_technika": {
       "Čo sú materiálne didaktické prostriedky?": "Všetky predmety a veci, ktoré potrebujeme na realizáciu výučby, ako nástroje, noty, pomôcky.",
-      "Ako sa delia učebné pomôcky v hudobnom školstve?": "Na skutočné predmety, modely, zobrazenia, textové a notové, auditívne, audiovizuálne a kybernetické.",
-      "Čo sú skutočné predmety?": "Reálne hudobné nástroje a ich príslušenstvo.",
+      "Ako sa delia didaktické prostriedky v hudobnom školstve?": "Učebné pomôcky: skutočné predmety, modely, zobrazenia, textové a notové, auditívne, audiovizuálne a kybernetické; Didaktická technika: základné a pomocné zariadenia, zobrazovacie a premietacie techniky, zvuková technika, IT technika.",
       "Čo sú modely v hudobnom vzdelávaní?": "Zmenšeniny nástrojov, napr. orffovské nástroje, modely mechaniky klavíra a pod.",
       "Čo sú zobrazenia?": "Obrazy, fotografie, schémy alebo grafy znázorňujúce hudobné princípy.",
       "Aké sú textové a notové pomôcky?": "Noty, učebné texty, pracovné zošity, učebnice.",
@@ -804,7 +803,13 @@
             { "name": "Kompozície a aranžmány" },
             { "name": "Modely a pomôcky" },
             { "name": "Prezentácie a texty" },
-            { "name": "Postup tvorby materiálu" }
+            { "name": "Postup tvorby materiálu",
+              "children": [
+                { "name": "Zohľadniť potreby žiaka" },
+                { "name": "Naplánovať, čo chcem vytvoriť" },
+                { "name": "Vypracovať materiál atraktívne" }
+              ]
+            }
           ]
         },
         {
