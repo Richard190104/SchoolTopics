@@ -473,7 +473,99 @@
       }
     ]
   }
+},
+"Otázka č. 22": {
+  "Vyučovanie_a_vyučovacia_jednotka": {
+    "Čo je vyučovanie?": "Zámerné a cieľavedomé pôsobenie učiteľa na žiaka s cieľom sprostredkovať vedomosti, zručnosti a postoje.",
+    "Čo je vyučovacia jednotka?": "Časovo ohraničená časť vyučovania (napr. hodina), ktorá má konkrétne ciele, obsah a metódy."
+  },
+  "Typy_vyučovacích_jednotiek": {
+    "Aké sú typy vyučovacích jednotiek?": "Motivačné; Expozičné; Fixujúce; Diagnostické; Aplikačné; Zmiešané (kombinované)."
+  },
+  "Fázy_vyučovacieho_procesu": {
+    "Aké sú fázy vyučovacieho procesu?": "Motivačná fáza; Expozičná fáza; Fixácia; Diagnostická fáza; Aplikačná fáza; Zhrňujúca fáza; Záverečná fáza."
+  },
+  "Organizačné_formy_vyučovania": {
+    "Aké sú organizačné formy vyučovania?": "Individuálna; Skupinová; Frontálna; Diferencovaná; Kooperatívna; Projektová; Hrová."
+  },
+  "Metódy_vyučovania": {
+    "Aké sú základné metódy vyučovania?": "Slovné; Názorné; Praktické; Rešeršné; Problémové; Heuristické; Reprodukčné.",
+    "Aké sú metódy podľa fázy učenia?": "Objasňovacie; Fixujúce; Diagnostické; Aplikačné.",
+    "Čo ovplyvňuje výber metód?": "Ciele výučby; Obsah; Vek žiakov; Podmienky výučby; Vlastnosti učiteľa; Prostriedky."
+  },
+  "Typy_činností_učiteľa_a_žiaka": {
+    "Aké činnosti vykonáva učiteľ počas výučby?": "Vysvetľovanie; Pýtanie sa; Hodnotenie; Riadenie; Motivovanie; Organizovanie.",
+    "Aké činnosti vykonáva žiak počas výučby?": "Pozorovanie; Počúvanie; Zaznamenávanie; Praktická činnosť; Spolupráca."
+  },
+  "Využitie_hry_vo_vyučovaní": {
+    "Prečo sa využíva hra vo vyučovaní?": "Hra motivuje, uvoľňuje, podporuje učenie zážitkom, rozvíja fantáziu a spoluprácu.",
+    "Aké druhy hier sa používajú v hudobnom vyučovaní?": "Rytmické hry; Intonačné hry; Hry s hlasom; Hry s nástrojmi; Hudobné kvízy."
+  },
+  "Projektovanie_výučby": {
+    "Čo znamená projektovanie výučby?": "Premyslené plánovanie cieľov, obsahu, metód, foriem a prostriedkov vyučovania.",
+    "Aké sú etapy projektovania výučby?": "Analýza učiva; Stanovenie cieľov; Výber metód a foriem; Návrh aktivít a materiálov; Hodnotenie výsledkov."
+  },
+  "summary": {
+    "name": "TITLE Vyučovanie a vyučovací proces",
+    "children": [
+      {
+        "name": "TITLE Vyučovanie a vyučovacia jednotka",
+        "children": [
+          { "name": "Vyučovanie – cieľavedomý proces" },
+          { "name": "Vyučovacia jednotka – časť výučby" }
+        ]
+      },
+      {
+        "name": "TITLE Typy vyučovacích jednotiek",
+        "children": [
+          { "name": "Motivačné; Expozičné; Fixujúce; Diagnostické; Aplikačné; Zmiešané" }
+        ]
+      },
+      {
+        "name": "TITLE Fázy vyučovania",
+        "children": [
+          { "name": "Motivačná; Expozičná; Fixácia; Diagnostická; Aplikačná; Zhrňujúca; Záverečná" }
+        ]
+      },
+      {
+        "name": "TITLE Organizačné formy výučby",
+        "children": [
+          { "name": "Individuálna; Skupinová; Frontálna; Diferencovaná; Kooperatívna; Projektová; Hrová" }
+        ]
+      },
+      {
+        "name": "TITLE Metódy vyučovania",
+        "children": [
+          { "name": "Slovné; Názorné; Praktické; Rešeršné; Problémové; Heuristické; Reprodukčné" },
+          { "name": "Podľa fázy: Objasňovacie; Fixujúce; Diagnostické; Aplikačné" },
+          { "name": "Faktory výberu metód" }
+        ]
+      },
+      {
+        "name": "TITLE Činnosti učiteľa a žiaka",
+        "children": [
+          { "name": "Učiteľ: vysvetľovanie, hodnotenie, riadenie..." },
+          { "name": "Žiak: pozorovanie, praktická činnosť..." }
+        ]
+      },
+      {
+        "name": "TITLE Hra vo vyučovaní",
+        "children": [
+          { "name": "Zmysel a význam hry" },
+          { "name": "Druhy hudobných hier" }
+        ]
+      },
+      {
+        "name": "TITLE Projektovanie výučby",
+        "children": [
+          { "name": "Definícia projektovania" },
+          { "name": "Etapy plánovania: analýza, ciele, metódy..." }
+        ]
+      }
+    ]
+  }
 }
+
 
 
 
