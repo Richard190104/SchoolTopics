@@ -826,10 +826,17 @@
         {
           "name": "TITLE Diagnostika výkonov",
           "children": [
-            { "name": "Spôsoby pozorovania" },
-            { "name": "Jednorazové vs. opakované" },
-            { "name": "Syntetické, analytické, komplexné" },
-            { "name": "Priebežné vs. dodatočné" }
+            { "name": "Spôsoby pozorovania",
+              "children": [
+                { "name": "Auditívne" },
+                { "name": "Audio-vizuálne" }
+              ]
+            },
+            { "name": "Frekvencie: jednorazové vs. opakované" },
+            { "name": "Hĺbky: syntetické vs. analytické" },
+            { "name": "Časové rámce: priebežné vs. dodatočné" },
+            { "name": "Formy: individuálne, komorné, orchestrálne" }
+           
           ]
         },
         {
@@ -853,13 +860,26 @@
         {
           "name": "TITLE Faktory ovplyvňujúce hodnotenie",
           "children": [
-            { "name": "Vonkajšie: prostredie, nástroje" },
-            { "name": "Vnútorné: osobnosť učiteľa, predsudky" },
-            { "name": "Chybné vnímanie študenta" }
+            { "name": "Vonkajšie",
+              "children": [
+                { "name": "Prostredie" },
+                { "name": "Kvalita nástrojov" },
+                { "name": "Účastníci" }
+              ]
+            },
+            { "name": "Vnútorné",
+              "children": [
+                { "name": "Osobnosť učiteľa" },
+                { "name": "Skúsenosti učiteľa" },
+                { "name": "Vnímanie žiaka" }
+            
+              ]
+            }
           ]
         }
       ]
-    }
+      
+      }
   },
 
 
