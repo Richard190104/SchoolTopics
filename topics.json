@@ -510,6 +510,13 @@
       "Aké sú hudobné činnosti?": "Hlasové, dychové, vokálne; Inštrumentálne; Hudobno-pohybové; Hudobno-dramatické; Hudobno-vizualizačné; Percepčné (počúvanie hudby).",
       "Aké sú nehudobné činnosti?": "Riešenie bežných tém, diskusia, reflexia, práca s textom, hry atď."
     },
+    "Spôsoby vyučovania": {
+    "Aké sú prístupy učiteľa k vyučovaniu?": "Odborne tradičné – využívajú overené metódy a postupy; Intuitívne – učiteľ sa spolieha na svoje skúsenosti a cit pre situáciu; Inovatívne – učiteľ používa nové prístupy a vytvára vlastný štýl výučby.",
+    "Čo sú inovatívne metódy?": "Sú to nové metódy, ktoré sa nehodia do starých systémov výučby. Využívajú moderné poznatky, technológie a nové pomôcky.",
+    "Čo sú aktivizujúce metódy?": "Metódy, ktoré žiaka aktívne zapoja do výučby, doslova ho „postavia zo stoličky“.",
+    "Čo sú zážitkové metódy?": "Metódy, ktoré dajú žiakovi silný zážitok – výučba ho zaujme a emocionálne zasiahne.",
+    "Prečo sú dnes inovatívne, aktivizujúce a zážitkové metódy čoraz dôležitejšie?": "Lebo žiakov viac oslovia, zvyšujú ich motiváciu a lepšie podporujú učenie v modernej dobe."
+    },
 
     "Hry vo výučbe hudby": {
       "Aké typy hier poznáme?": "Funkcionálne; Fikcionálne; Konštrukčné; Tvorivé; Pohybové; Didaktické; Fyzické; Psychické."
@@ -668,6 +675,15 @@
             { "name": "Nehudobné" }
           ]
         },
+        {
+        "name": "Prístupy učiteľa",
+        "children": [
+            { "name": "Odborne tradičné" },
+            { "name": "Intuitívne" },
+            { "name": "Inovatívne" }
+        ]
+        },
+
         {
           "name": "TITLE Hry vo výučbe",
           "children": [
