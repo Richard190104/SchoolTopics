@@ -127,23 +127,125 @@ function drawConnectors() {
   });
 }
 
-
+      const map = document.createElement('div');
+      map.className = 'choiceButton';
+      map.innerHTML = '<h2>Vytvoriť myšlienkovú mapu a podcast</h2>';
+     
+      document.querySelector(".choices").appendChild(map);
+   
+      map.addEventListener('click', () => {
+        createVoiceElement()
+          const diagramContainer = document.getElementById('contentdiv');
+          
+          renderBlockDiagram(topics.summary, diagramContainer);
+          drawConnectors();
+      });
         
-      const diagramContainer = document.getElementById('topics');
-        renderBlockDiagram(topics.summary, diagramContainer);
-        drawConnectors();
-        const observer = new MutationObserver(() => {
-            requestAnimationFrame(drawConnectors);
-        });
-        observer.observe(document.getElementById('diagram-wrapper'), {
-        attributes: true,
-        childList: true,
-        subtree: true
-        });
+     
+       
     }
   });
 }
 
+function createVoiceElement(){
+   const diagramContainer = document.getElementById('contentdiv');
+        diagramContainer.innerHTML = '';
+       
+          let oldPlayer = document.getElementById('audio-player-wrapper');
+          if (oldPlayer) oldPlayer.remove();
+
+          const playerWrapper = document.createElement('div');
+          playerWrapper.id = 'audio-player-wrapper';
+          playerWrapper.style.margin = '20px 0';
+
+          const category = getCategoryFromURL();
+          if (category) {
+            console.log(category);
+            const audio = document.createElement('audio');
+            audio.id = 'audio-player';
+            audio.src = `podcasts/${category.match(/\d+/)[0]}.wav`;
+            audio.controls = true;
+            audio.style.width = '100%';
+
+            const timeline = document.createElement('input');
+            timeline.type = 'range';
+            timeline.min = 0;
+            timeline.value = 0;
+            timeline.step = 0.01;
+            timeline.style.width = '100%';
+
+            const timeDisplay = document.createElement('span');
+            timeDisplay.style.marginLeft = '10px';
+
+            const playBtn = document.createElement('button');
+            playBtn.textContent = 'Play';
+
+            const stopBtn = document.createElement('button');
+            stopBtn.textContent = 'Stop';
+            stopBtn.style.marginLeft = '5px';
+
+            const rewindBtn = document.createElement('button');
+            rewindBtn.textContent = '⏪';
+            rewindBtn.style.marginLeft = '5px';
+
+            const forwardBtn = document.createElement('button');
+            forwardBtn.textContent = '⏩';
+            forwardBtn.style.marginLeft = '5px';
+
+            const controls = document.createElement('div');
+            controls.appendChild(playBtn);
+            controls.appendChild(stopBtn);
+            controls.appendChild(rewindBtn);
+            controls.appendChild(forwardBtn);
+            controls.appendChild(timeDisplay);
+
+            playerWrapper.appendChild(audio);
+            playerWrapper.appendChild(timeline);
+            playerWrapper.appendChild(controls);
+
+            diagramContainer.appendChild(playerWrapper);
+
+            audio.addEventListener('loadedmetadata', () => {
+              timeline.max = audio.duration;
+              timeDisplay.textContent = `0:00 / ${Math.floor(audio.duration / 60)}:${('0' + Math.floor(audio.duration % 60)).slice(-2)}`;
+            });
+            audio.addEventListener('timeupdate', () => {
+              timeline.value = audio.currentTime;
+              timeDisplay.textContent = `${Math.floor(audio.currentTime / 60)}:${('0' + Math.floor(audio.currentTime % 60)).slice(-2)} / ${Math.floor(audio.duration / 60)}:${('0' + Math.floor(audio.duration % 60)).slice(-2)}`;
+            });
+
+            timeline.addEventListener('input', () => {
+              audio.currentTime = timeline.value;
+            });
+
+            playBtn.addEventListener('click', () => {
+              if (audio.paused) {
+                audio.play();
+                playBtn.textContent = 'Pause';
+              } else {
+                audio.pause();
+                playBtn.textContent = 'Play';
+              }
+            });
+            audio.addEventListener('play', () => playBtn.textContent = 'Pause');
+            audio.addEventListener('pause', () => playBtn.textContent = 'Play');
+
+            stopBtn.addEventListener('click', () => {
+              audio.pause();
+              audio.currentTime = 0;
+              playBtn.textContent = 'Play';
+            });
+
+            rewindBtn.addEventListener('click', () => {
+              audio.currentTime = Math.max(0, audio.currentTime - 10);
+            });
+
+            forwardBtn.addEventListener('click', () => {
+              audio.currentTime = Math.min(audio.duration, audio.currentTime + 10);
+            });
+          }
+
+}
 
 function getCategoryFromURL() {
   const params = new URLSearchParams(window.location.search);
@@ -156,8 +258,13 @@ getTopics().then(topics => {
     if (topics) {
          if (topics) {
            if (topics && categoryKey && topics[categoryKey]) {
-            console.log(topics[categoryKey]);
-                displayTopics(topics[categoryKey]); 
+            const title = document.createElement('h1');
+            title.innerHTML = categoryKey;
+            
+            title.style.textAlign = 'center';
+            title.style.marginTop = '20px';
+            document.querySelector(".headder").appendChild(title);
+            displayTopics(topics[categoryKey]); 
            }
            else{
             Object.keys(topics).forEach(key => {
