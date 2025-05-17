@@ -716,5 +716,118 @@
         }
       ]
   }
+},
+
+  "Otázka č. 24": {
+    "Učebné_pomôcky_a_didaktická_technika": {
+      "Čo sú materiálne didaktické prostriedky?": "Všetky predmety a veci, ktoré potrebujeme na realizáciu výučby, ako nástroje, noty, pomôcky.",
+      "Ako sa delia učebné pomôcky v hudobnom školstve?": "Na skutočné predmety, modely, zobrazenia, textové a notové, auditívne, audiovizuálne a kybernetické.",
+      "Čo sú skutočné predmety?": "Reálne hudobné nástroje a ich príslušenstvo.",
+      "Čo sú modely v hudobnom vzdelávaní?": "Zmenšeniny nástrojov, napr. orffovské nástroje, modely mechaniky klavíra a pod.",
+      "Čo sú zobrazenia?": "Obrazy, fotografie, schémy alebo grafy znázorňujúce hudobné princípy.",
+      "Aké sú textové a notové pomôcky?": "Noty, učebné texty, pracovné zošity, učebnice.",
+      "Aké sú auditívne pomôcky?": "Hudobné nahrávky v rôznych formách – platne, CD, MP3, online.",
+      "Čo patria medzi audiovizuálne pomôcky?": "Filmy a videá o hudbe alebo výučbe, od kaziet po internet.",
+      "Čo sú kybernetické pomôcky?": "Hudobné softvéry, aplikácie, internetové nástroje.",
+      "Aké sú základné a pomocné zariadenia vo vyučovaní?": "Miesta a priestory, kde sa vyučuje – učebne, sály.",
+      "Aké zobrazovacie a premietacie techniky sa využívajú?": "Tabule, interaktívne tabule, projektory.",
+      "Aké je využitie zvukovej techniky?": "Použitie prehrávačov, mikrofónov, slúchadiel, reproduktorov.",
+      "Čo zahŕňa IT technika vo vyučovaní?": "Počítače, tablety, smartfóny, digitálne aplikácie."
+    },
+
+    "Dostupné_učebné_materiály_na_Slovensku": {
+      "Aké typy učebných materiálov sa používajú v hudobnom vzdelávaní?": "Notové školy a školičky, notové zápisy, audio a video diela, schémy, modely, experimentálne diela, učebnice, pracovné zošity.",
+      "Aké sú pomôcky na precvičovanie hudobných vedomostí?": "Hudobné pexesá, skladačky, hádanky, hry.",
+      "Ako sa odporúča pracovať s učebnými materiálmi?": "Kombinovať viaceré zdroje – tlačené, digitálne, zvukové aj obrazové.",
+      "Aké výhody a nevýhody majú tradičné učebnice a školy?": "Stabilita, overenosť vs. menej flexibility, zastaraný obsah."
+    },
+
+    "Tvorba_vlastných_učebných_materiálov": {
+      "Prečo učitelia vytvárajú vlastné učebné materiály?": "Pretože nie vždy sú dostupné vhodné alebo aktuálne materiály.",
+      "Aké sú typy vlastných materiálov v interpretačných odboroch?": "Vlastné kompozície, aranžmány, modely, predlohy na rozvoj techniky alebo improvizácie.",
+      "Aké sú typy vlastných materiálov v hudobno-teoretických predmetoch?": "Prezentácie, učebné texty, pracovné listy, teoretické pomôcky, modely na tvorivé činnosti.",
+      "Aký je odporúčaný postup pri tvorbe vlastného materiálu?": "1. Zohľadniť potreby žiaka; 2. Naplánovať, čo chcem vytvoriť; 3. Vypracovať materiál čo najatraktívnejšie a najprístupnejšie."
+    },
+
+    "Výroba_detských_hudobných_nástrojov": {
+      "Prečo je výroba nástrojov populárna?": "Podporuje eko-prístup, objavovanie zvukového sveta a aktivitu detí.",
+      "V akých situáciách sa výroba nástrojov využíva?": "Na festivaloch, v hudobnej náuke, v kolektívnom vyučovaní.",
+      "Aké sú spôsoby rozozvučovania nástrojov?": "1. Tradičné nástroje s tradičnými/experimentálnymi technikami; 2. Netypické predmety; 3. Tradičné nástroje s mechanickou úpravou (napr. preparácia strún); 4. Home-made nástroje.",
+      "Aké jednoduché nástroje si vieme so žiakmi vyrobiť?": "Rumba gule z obalov, flauty zo slamiek, tamburíny z viečok a drôtov, hrkálky z plastových fliaš a semienok."
+    },
+
+    "Využitie_IT_a_prezentačnej_techniky": {
+      "Na čo všetko používame IT techniku vo výučbe?": "Príprava hodín, prehrávanie ukážok, interaktívne učenie, online testy a hry, vyhľadávanie materiálov.",
+      "Ako sa využíva prezentačná technika?": "Na hodinách hudobnej náuky – zobrazovanie schém, počúvanie hudby, sledovanie videí.",
+      "Aké aplikácie môžeme/musíme používať pri online výučbe?": "Zoom, MS Teams, Noteflight, Flat.io, Soundtrap, Google Classroom.",
+      "Aké sú výhody online vyučovania?": "Flexibilita, dostupnosť, možnosť prehrávania ukážok.",
+      "Aké sú nevýhody online vyučovania?": "Technické problémy, nižšia interakcia, absencia fyzickej spätnej väzby."
+    },
+
+    "summary": {
+      "name": "TITLE Učebné pomôcky a didaktická technika",
+      "children": [
+        {
+          "name": "TITLE Materiálne pomôcky",
+          "children": [
+            { "name": "Skutočné predmety" },
+            { "name": "Modely" },
+            { "name": "Zobrazenia" },
+            { "name": "Textové a notové pomôcky" },
+            { "name": "Auditívne a audiovizuálne pomôcky" },
+            { "name": "Kybernetické pomôcky" }
+          ]
+        },
+        {
+          "name": "TITLE Didaktická technika",
+          "children": [
+            { "name": "Základné zariadenia" },
+            { "name": "Zobrazovacie plochy" },
+            { "name": "Premietacia technika" },
+            { "name": "Zvuková technika" },
+            { "name": "IT zariadenia" }
+          ]
+        },
+        {
+          "name": "TITLE Učebné materiály na Slovensku",
+          "children": [
+            { "name": "Notové školy a učebnice" },
+            { "name": "Audio/video záznamy" },
+            { "name": "Schémy a modely" },
+            { "name": "Experimentálne materiály" },
+            { "name": "Hudobné hry a pexesá" }
+          ]
+        },
+        {
+          "name": "TITLE Tvorba vlastných materiálov",
+          "children": [
+            { "name": "Kompozície a aranžmány" },
+            { "name": "Modely a pomôcky" },
+            { "name": "Prezentácie a texty" },
+            { "name": "Postup tvorby materiálu" }
+          ]
+        },
+        {
+          "name": "TITLE Výroba detských nástrojov",
+          "children": [
+            { "name": "Rozozvučovanie nástrojov" },
+            { "name": "Použitie netypických predmetov" },
+            { "name": "Home-made nástroje" },
+            { "name": "Kreatívne využitie odpadu" }
+          ]
+        },
+        {
+          "name": "TITLE Využitie technológií",
+          "children": [
+            { "name": "Použitie mobilu, tabletu, PC" },
+            { "name": "Prezentačná technika" },
+            { "name": "Aplikácie na online výučbu" },
+            { "name": "Výhody a nevýhody online výučby" }
+          ]
+        }
+      ]
+    }
+  }
 }
-}
+
+
