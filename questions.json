@@ -1,0 +1,734 @@
+{
+   
+    "Otázka č. 19": [
+    {
+      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
+      "question": "Aká je teoretická funkcia pedagogiky?",
+      "options": {
+        "A": "Predvída potreby budúcnosti",
+        "B": "Zhŕňa poznatky pre prax",
+        "C": "Skúma, čo je výchova a ako funguje",
+        "D": "Navrhuje vyučovacie metódy"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
+      "question": "K čomu slúži metodika vyučovania?",
+      "options": {
+        "A": "Tvorí štátne učebné plány",
+        "B": "Usporiadava a hodnotí vyučovacie metódy",
+        "C": "Určuje známkovanie žiakov",
+        "D": "Hodnotí výsledky testovania"
+      },
+      "answer": "B"
+    },
+    {
+      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
+      "question": "Ktorá funkcia didaktiky predpovedá vývoj vo vyučovaní?",
+      "options": {
+        "A": "Diagnostická",
+        "B": "Normatívna",
+        "C": "Inštrumentálna",
+        "D": "Prognostická"
+      },
+      "answer": "D"
+    },
+    {
+      "topic": "Typy vyučovacieho procesu",
+      "question": "Aký typ vyučovania podporuje samostatné objavovanie poznatkov?",
+      "options": {
+        "A": "Dogmatický",
+        "B": "Transmisívny",
+        "C": "Konštruktivistický",
+        "D": "Formalistický"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Teória vzdelávania (didaktika)",
+      "question": "Čo je vyučovanie podľa didaktiky?",
+      "options": {
+        "A": "Proces hodnotenia žiakov",
+        "B": "Činnosti učiteľa so žiakmi počas výuky",
+        "C": "Spontánne učenie sa",
+        "D": "Záznam o priebehu hodiny"
+      },
+      "answer": "B"
+    },
+    {
+      "topic": "Teórie učenia vs. teórie učenia sa",
+      "question": "Aký je rozdiel medzi teóriami učenia a učenia sa?",
+      "options": {
+        "A": "Učenie je pasívne, učenie sa je aktívne",
+        "B": "Teórie učenia sa zameriavajú na učiteľa",
+        "C": "Teórie učenia sú o tom, ako učiť; učenia sa o tom, ako sa učí žiak",
+        "D": "Nie je medzi nimi rozdiel"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Druhy didaktík",
+      "question": "Ktoré z nasledujúcich je príkladom predmetovej didaktiky?",
+      "options": {
+        "A": "Didaktika strednej školy",
+        "B": "Didaktika hudby",
+        "C": "Metodika hry na lesnom rohu",
+        "D": "Všeobecná didaktika"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Súčasti a systém didaktiky",
+      "question": "Čo sú vnútorné podmienky vyučovania?",
+      "options": {
+        "A": "Okolie školy",
+        "B": "Fyzický a psychický stav žiaka a učiteľa",
+        "C": "Právne normy",
+        "D": "Regionálne pomery"
+      },
+      "answer": "B"
+    },
+    {
+      "topic": "Klasifikácia teórií v didaktike",
+      "question": "Aká je úloha mikrodidaktickej teórie?",
+      "options": {
+        "A": "Určuje školský rok",
+        "B": "Rieši, čo a kedy sa má učiť",
+        "C": "Rieši, ako učiť konkrétny obsah",
+        "D": "Sleduje historický vývoj škôl"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Pedagogické dokumenty",
+      "question": "Čo sú pedagogické dokumenty?",
+      "options": {
+        "A": "Materiály pre rodičov",
+        "B": "Súbory noriem a plánov pre fungovanie školy",
+        "C": "Hudobné nahrávky",
+        "D": "Učiteľove poznámky"
+      },
+      "answer": "B"
+    }
+  ],
+
+    "Otázka č. 20": [
+    {
+        "topic": "Ciele vo vyučovacom procese",
+        "question": "Čo je cieľ vyučovacieho procesu?",
+        "options": {
+            "A": "Zoznam činností na hodine",
+            "B": "Predstava, čo chceme učením dosiahnuť",
+            "C": "Rozvrh učiva v školskom roku",
+            "D": "Učiteľský plán príprav"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Typy a hierarchia cieľov",
+        "question": "Ktorý typ cieľa kombinuje výchovu aj vzdelávanie?",
+        "options": {
+            "A": "Výchovný",
+            "B": "Vzdelávací",
+            "C": "Výchovno-vzdelávací",
+            "D": "Cieľavedomý"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Všeobecné ciele výchovy a vzdelávania",
+        "question": "Ktorý z nasledujúcich patrí medzi 4 piliere vzdelávania podľa UNESCO?",
+        "options": {
+            "A": "Učiť sa prežiť",
+            "B": "Učiť sa učiť",
+            "C": "Učiť sa konať",
+            "D": "Učiť sa súťažiť"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Špecifické ciele podľa typu rozvoja",
+        "question": "Čo rozvíjajú kognitívne ciele?",
+        "options": {
+            "A": "Postoje a hodnoty",
+            "B": "Fyzické zručnosti",
+            "C": "Vedomosti, myslenie a pamäť",
+            "D": "Vzťahy v triede"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Bloomova taxonómia cieľov",
+        "question": "Ktorá úroveň podľa Bloomovej taxonómie označuje použitie vedomostí v praxi?",
+        "options": {
+            "A": "Znalosť",
+            "B": "Analýza",
+            "C": "Aplikácia",
+            "D": "Hodnotenie"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Postup pri tvorbe špecifických cieľov",
+        "question": "Čo patrí medzi prvé kroky pri tvorbe špecifických cieľov?",
+        "options": {
+            "A": "Výber známkovacej škály",
+            "B": "Náhodný výber učiva",
+            "C": "Pozrieť štandardy a osnovy",
+            "D": "Odhadnúť úroveň žiakov"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Žiaci a špecifické ciele",
+        "question": "Prečo je vhodné oboznámiť žiaka s cieľmi hodiny?",
+        "options": {
+            "A": "Aby mal menej povinností",
+            "B": "Aby sa mohol hádať o známky",
+            "C": "Lepšie sa sústredí a motivuje",
+            "D": "Aby vedel, kedy končí hodina"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Kompetencie a štandardy",
+        "question": "Čo je kompetencia?",
+        "options": {
+            "A": "Úradný dokument školy",
+            "B": "Schopnosť a zručnosť zvládnuť úlohu",
+            "C": "Záverečný test",
+            "D": "Cieľ učiteľa"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Pracovné ciele pedagóga",
+        "question": "Ktorý cieľ učiteľa sa týka rozvoja jeho osobnosti?",
+        "options": {
+            "A": "Hudobný",
+            "B": "Osobnostný",
+            "C": "Školský",
+            "D": "Výkonnostný"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Ciele hudobného vzdelávania",
+        "question": "Čo je cieľom hudobnej výchovy v ZUŠ?",
+        "options": {
+            "A": "Naučiť žiaka spievať len ľudové piesne",
+            "B": "Učiť len teóriu hudby",
+            "C": "Vychovať profesionálneho hráča pripraveného vystupovať",
+            "D": "Znížiť počet hodín hudobnej výchovy"
+        },
+        "answer": "C"
+    }
+],
+"Otázka č. 21": [
+    {
+        "topic": "Didaktické zásady",
+        "question": "Na čo slúžia didaktické zásady?",
+        "options": {
+            "A": "Na evidenciu dochádzky žiakov",
+            "B": "Na tvorbu hudobného repertoáru",
+            "C": "Na usmernenie učiteľa pri príprave a výučbe",
+            "D": "Na kontrolu školských testov"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Didaktické zásady",
+        "question": "Ktorá zásada zdôrazňuje spojenie teórie a praxe?",
+        "options": {
+            "A": "Zásada vedeckosti",
+            "B": "Zásada spojenia teórie s praxou",
+            "C": "Zásada názornosti",
+            "D": "Zásada motivácie"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Motivácia a demotivácia",
+        "question": "Čo je motivácia vo vyučovaní?",
+        "options": {
+            "A": "Zákaz učenia",
+            "B": "Pocit nudy",
+            "C": "Nutkanie na určité správanie, napr. učenie",
+            "D": "Odmietnutie nových poznatkov"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Motivácia a demotivácia",
+        "question": "Z čoho môže prameniť motivácia k hudobnému vzdelávaniu?",
+        "options": {
+            "A": "Z televíznych seriálov",
+            "B": "Z rodinného prostredia, škôl, hudby a túžby po sebarealizácii",
+            "C": "Z povinnosti mať dobré známky",
+            "D": "Z pravidiel hodnotenia"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Učivo",
+        "question": "Čo je učivo?",
+        "options": {
+            "A": "Počet hodín v rozvrhu",
+            "B": "Len text učebnice",
+            "C": "Poznatky, zručnosti, postoje a návyky, ktoré má žiak zvládnuť",
+            "D": "Zoznam pedagogických dokumentov"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Učivo",
+        "question": "Ktoré učivo je určené pre žiakov s lepšími schopnosťami?",
+        "options": {
+            "A": "Základné učivo",
+            "B": "Rozširujúce učivo",
+            "C": "Skryté učivo",
+            "D": "Formálne učivo"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Učivo",
+        "question": "Čo je predimenzovanosť učiva?",
+        "options": {
+            "A": "Zníženie požiadaviek na učivo",
+            "B": "Prekročenie časového limitu hodiny",
+            "C": "Učivo neprimerané schopnostiam žiaka",
+            "D": "Používanie názorných pomôcok"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Učivo",
+        "question": "Ktorý z nasledujúcich NIE JE typ kurikula?",
+        "options": {
+            "A": "Formálne kurikulum",
+            "B": "Neformálne kurikulum",
+            "C": "Skryté kurikulum",
+            "D": "Povinné kurikulum"
+        },
+        "answer": "D"
+    },
+    {
+        "topic": "Pedagogické dokumenty",
+        "question": "Čo je študijný plán žiaka/triedy?",
+        "options": {
+            "A": "Plán výletov",
+            "B": "Rozvrh prestávok",
+            "C": "Zoznam učiva na polrok",
+            "D": "Zoznam známok žiaka"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Pedagogické dokumenty",
+        "question": "Aký je rozdiel medzi ŠVP a ŠkVP?",
+        "options": {
+            "A": "ŠVP je školský, ŠkVP je štátny",
+            "B": "ŠVP je štátny, ŠkVP vytvára škola",
+            "C": "Oba sú štátne dokumenty",
+            "D": "ŠVP sa týka len učiteľov, ŠkVP len žiakov"
+        },
+        "answer": "B"
+    }
+],
+"Otázka č. 22": [
+    {
+        "topic": "Vyučovacia jednotka a hodina",
+        "question": "Ako dlho zvyčajne trvá vyučovacia hodina?",
+        "options": {
+            "A": "30 minút",
+            "B": "60 minút",
+            "C": "45 minút",
+            "D": "90 minút"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Vyučovacia jednotka a hodina",
+        "question": "Čo je vyučovacia jednotka?",
+        "options": {
+            "A": "Jedna konkrétna hodina",
+            "B": "Súbor častí vyučovania, napr. viaceré hodiny alebo predmety",
+            "C": "Zoznam žiakov v triede",
+            "D": "Zoznam tém na školský rok"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Typy vyučovacích jednotiek",
+        "question": "Ktorá z týchto jednotiek je zameraná na objavovanie nových poznatkov?",
+        "options": {
+            "A": "Fixačná",
+            "B": "Exploračná",
+            "C": "Administratívna",
+            "D": "Rovnomerná"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Fázy vyučovacieho procesu",
+        "question": "Ktorá fáza vyučovania je zameraná na upevnenie učiva?",
+        "options": {
+            "A": "Expozičná",
+            "B": "Exploračná",
+            "C": "Fixačná",
+            "D": "Diagnostická"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Organizačné formy vyučovania",
+        "question": "Ako sa označuje vyučovanie, ktoré prebieha mimo školy?",
+        "options": {
+            "A": "Domáce",
+            "B": "Otvorené",
+            "C": "Externé",
+            "D": "Mimoškolské"
+        },
+        "answer": "D"
+    },
+    {
+        "topic": "Organizačné formy vyučovania",
+        "question": "Ako sa nazýva výučba, kde učiteľ vedie celú triedu naraz?",
+        "options": {
+            "A": "Individuálna",
+            "B": "Skupinová",
+            "C": "Frontálna",
+            "D": "Kooperatívna"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Metódy vyučovania",
+        "question": "Ktorá z nasledujúcich je praktická metóda výučby?",
+        "options": {
+            "A": "Výklad",
+            "B": "Riešenie úloh",
+            "C": "Diskusia",
+            "D": "Demonštrácia"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Metódy vyučovania",
+        "question": "Ktorá metóda spadá pod názorné metódy?",
+        "options": {
+            "A": "Pozorovanie",
+            "B": "Rozhovor",
+            "C": "Výklad",
+            "D": "Praktická práca"
+        },
+        "answer": "A"
+    },
+    {
+        "topic": "Metódy vyučovania",
+        "question": "Ktorý z prístupov učiteľa využíva nové metódy a technológie?",
+        "options": {
+            "A": "Tradičný",
+            "B": "Intuitívny",
+            "C": "Inovatívny",
+            "D": "Analytický"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Metódy vyučovania",
+        "question": "Ktorá metóda najviac aktivizuje žiaka a poskytuje mu zážitok?",
+        "options": {
+            "A": "Monologická",
+            "B": "Demonštrácia",
+            "C": "Zážitková",
+            "D": "Exkurzia"
+        },
+        "answer": "C"
+    }
+],
+"Otázka č. 23":[
+    {
+        "topic": "Typy hudobných činností",
+        "question": "Ktorá z nasledujúcich je hudobná činnosť?",
+        "options": {
+            "A": "Riešenie bežných tém",
+            "B": "Hudobno-dramatická činnosť",
+            "C": "Diskusia o učive",
+            "D": "Práca s textom"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Typy hudobných činností",
+        "question": "Ktorá činnosť NIE JE hudobná?",
+        "options": {
+            "A": "Inštrumentálna",
+            "B": "Hudobno-vizualizačná",
+            "C": "Reflexia",
+            "D": "Hlasová"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Spôsoby vyučovania",
+        "question": "Čo charakterizuje inovatívny prístup učiteľa?",
+        "options": {
+            "A": "Spolieha sa na cit pre situáciu",
+            "B": "Používa nové prístupy a vytvára si vlastný štýl výučby",
+            "C": "Zachováva tradičné vyučovanie bez zmien",
+            "D": "Zameriava sa na výklad faktov"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Spôsoby vyučovania",
+        "question": "Čo sú aktivizujúce metódy?",
+        "options": {
+            "A": "Metódy, ktoré žiaka nechajú samostatne študovať doma",
+            "B": "Metódy, ktoré žiaka zapoja do výučby a aktivizujú ho",
+            "C": "Metódy zamerané výhradne na reprodukciu vedomostí",
+            "D": "Metódy pre testovanie žiaka"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Spôsoby vyučovania",
+        "question": "Aký je hlavný dôvod používania zážitkových metód?",
+        "options": {
+            "A": "Zníženie počtu hodín",
+            "B": "Vyhnutie sa hodnoteniu",
+            "C": "Poskytnutie silného zážitku a emocionálneho zapojenia žiaka",
+            "D": "Zvýšenie výkonu učiteľa"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Hry vo výučbe hudby",
+        "question": "Ktorý typ hry je zameraný na fyzickú aktivitu?",
+        "options": {
+            "A": "Funkcionálna hra",
+            "B": "Psychická hra",
+            "C": "Fyzická hra",
+            "D": "Didaktická hra"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Projektovanie výučby",
+        "question": "Ktorý z týchto faktorov súvisí s učivom?",
+        "options": {
+            "A": "Rodinné prostredie",
+            "B": "Úroveň zvládnutia a typ učiva",
+            "C": "Vzťah s učiteľom",
+            "D": "Vek žiaka"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Projektovanie výučby",
+        "question": "Čo je projektovanie výučby?",
+        "options": {
+            "A": "Zaznamenávanie správania žiakov",
+            "B": "Náhodná výučba bez prípravy",
+            "C": "Plánovanie toho, čo a ako sa bude robiť na hodine",
+            "D": "Tvorba vysvedčení"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Príprava na vyučovanie",
+        "question": "Čo zahŕňa príprava na vyučovanie?",
+        "options": {
+            "A": "Zoznam náhodných aktivít",
+            "B": "Len výber učebnice",
+            "C": "Zohľadnenie potrieb žiaka, úprava učiva, premyslenie hodiny",
+            "D": "Získanie známok žiakov"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Príprava na vyučovanie",
+        "question": "Ktorý typ výučby vyžaduje najmenej prípravy?",
+        "options": {
+            "A": "Teoretická kolektívna výučba",
+            "B": "Individuálna výučba",
+            "C": "Kooperatívna výučba",
+            "D": "Zážitková výučba"
+        },
+        "answer": "B"
+    }
+],
+"Otázka č. 24":[
+    {
+        "topic": "Pojmy a funkcie diagnostikovania a hodnotenia",
+        "question": "Čo je hlavnou funkciou diagnostikovania?",
+        "options": {
+            "A": "Zaznamenáva absenciu žiaka",
+            "B": "Prideľuje známky a body",
+            "C": "Zisťuje stav žiaka v rôznych oblastiach",
+            "D": "Vytvára osnovy"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Metódy diagnostikovania",
+        "question": "Ktorá metóda diagnostiky patrí medzi praktické podľa činnosti žiaka?",
+        "options": {
+            "A": "Analýza písomností",
+            "B": "Ústne skúšanie",
+            "C": "Praktická činnosť",
+            "D": "Pozorovanie"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Typy hodnotenia",
+        "question": "Ktorý typ hodnotenia používa písmená ako A až FX?",
+        "options": {
+            "A": "Slovné",
+            "B": "Numerické",
+            "C": "Kategoriálne",
+            "D": "Bodové"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Diagnostikovanie a hodnotenie v hudobnom vzdelávaní",
+        "question": "Čo je najčastejším nástrojom hodnotenia hudobných výkonov?",
+        "options": {
+            "A": "Percentuálna stupnica",
+            "B": "25-bodová stupnica",
+            "C": "Písmenové hodnotenie",
+            "D": "Zákonné minimum"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Diagnostikovanie hudobných vedomostí",
+        "question": "Ktorá z nasledujúcich oblastí patrí medzi hudobné vedomosti?",
+        "options": {
+            "A": "Hudobný rozhľad",
+            "B": "Technika hry na nástroji",
+            "C": "Fyzická kondícia",
+            "D": "Spoločenské správanie"
+        },
+        "answer": "A"
+    },
+    {
+        "topic": "Diagnostikovanie interpretačných a improvizačných výkonov",
+        "question": "Čo je príkladom spôsobu pozorovania interpretačného výkonu?",
+        "options": {
+            "A": "Auditívne pozorovanie",
+            "B": "Dotazník",
+            "C": "Písomná práca",
+            "D": "Hodnotiaca stupnica"
+        },
+        "answer": "A"
+    },
+    {
+        "topic": "Diagnostikovanie tvorivých produktov",
+        "question": "Kedy možno hodnotiť tvorivé produkty?",
+        "options": {
+            "A": "Iba po skončení projektu",
+            "B": "Len raz za semester",
+            "C": "Priebežne a dodatočne",
+            "D": "Pred začiatkom tvorby"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Faktory ovplyvňujúce diagnostiku a hodnotenie",
+        "question": "Ktorý z faktorov patrí medzi vnútorné?",
+        "options": {
+            "A": "Kvalita nástrojov",
+            "B": "Akustické podmienky",
+            "C": "Skúsenosti učiteľa",
+            "D": "Úroveň hlučnosti prostredia"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Kritériá posudzovania interpretačných výkonov",
+        "question": "Ktorý z týchto prvkov je kvalitatívnym kritériom výkonu?",
+        "options": {
+            "A": "Počet skladieb",
+            "B": "Typ publika",
+            "C": "Štýlová rozmanitosť",
+            "D": "Dĺžka skúšky"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Kritériá posudzovania improvizácie",
+        "question": "Čo robí hodnotenie improvizácie najnáročnejším?",
+        "options": {
+            "A": "Použitie písomných testov",
+            "B": "Veľká miera subjektivity a individuálny prístup",
+            "C": "Rovnaké kritériá pre všetkých",
+            "D": "Krátke trvanie výkonu"
+        },
+        "answer": "B"
+    }
+],
+"Otázka č. 25":[
+    {
+        "question": "Čo sú materiálne didaktické prostriedky?",
+        "options": {
+            "A": "Hudobné štýly a žánre",
+            "B": "Predmety a veci potrebné na výučbu",
+            "C": "Školské osnovy",
+            "D": "Digitálne testy"
+        },
+        "answer": "B",
+        "topic": "Učebné pomôcky a didaktická technika"
+    },
+    {
+        "question": "Čo patria medzi auditívne pomôcky?",
+        "options": {
+            "A": "Texty piesní",
+            "B": "Hudobné nahrávky",
+            "C": "Výkresy hudobníkov",
+            "D": "Zoznamy nástrojov"
+        },
+        "answer": "B",
+        "topic": "Učebné pomôcky a didaktická technika"
+    },
+    {
+        "question": "Prečo učitelia vytvárajú vlastné učebné materiály?",
+        "options": {
+            "A": "Aby sa vyhli práci s technikou",
+            "B": "Aby mali viac domácich úloh",
+            "C": "Pretože nie sú vždy dostupné vhodné materiály",
+            "D": "Aby mali vlastné webové stránky"
+        },
+        "answer": "C",
+        "topic": "Tvorba vlastných učebných materiálov"
+    },
+    {
+        "question": "Ktorý nástroj možno vyrobiť z obalu a semienok?",
+        "options": {
+            "A": "Harmonika",
+            "B": "Flauta",
+            "C": "Rumba guľa",
+            "D": "Tamburína"
+        },
+        "answer": "C",
+        "topic": "Výroba detských hudobných nástrojov"
+    },
+    {
+        "question": "Aká je nevýhoda online vyučovania?",
+        "options": {
+            "A": "Flexibilita",
+            "B": "Vyššia interakcia",
+            "C": "Nižšia interakcia a technické problémy",
+            "D": "Zvýšený počet hodín"
+        },
+        "answer": "C",
+        "topic": "Využitie IT a prezentačnej techniky"
+    }
+]
+
+}

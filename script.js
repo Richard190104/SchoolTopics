@@ -237,10 +237,6 @@ getTopics().then(topics => {
     }
 });
 
-window.addEventListener('DOMContentLoaded', () => {
-  requestAnimationFrame(drawConnectors);
-});
-
   const toggleBtn = document.getElementById('themeToggle');
 
   toggleBtn.addEventListener('click', () => {
@@ -252,4 +248,7 @@ window.addEventListener('DOMContentLoaded', () => {
     requestAnimationFrame(() => {
       if (typeof drawConnectors === 'function') drawConnectors();
     });
+  });
+  document.body.querySelector(".buttonDiv").addEventListener('click', () => {
+    window.location.href = 'test.html';
   });

@@ -237,3 +237,52 @@ body.light-mode .headder h1{
   background-color: #b7eaff;
 }
 
+.buttonDiv{
+  margin-top: 25px;
+  width: 150px;
+  height: 50px;
+  background: linear-gradient(90deg, #014b64 0%, #0777af 100%);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.buttonDiv:hover{
+  background: linear-gradient(90deg, #76d4f3 0%, #1d535e 100%);
+}
+
+.questionSelect{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border: #00c4ff 2px solid;
+  border-radius: 10px;
+  width: 50%;
+  flex-direction: column;
+}
+
+.questionSelectBtn{
+  background: linear-gradient(90deg, #00b4d8 0%, #48cae4 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 22px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0,180,216,0.15);
+  transition: background 0.2s, transform 0.1s, box-shadow 0.2s;
+  margin: 5px;
+  min-width: 250px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.selected{
+  background: linear-gradient(90deg, #005774 0%, #00b4d8 100%);
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 4px 16px rgba(0,180,216,0.25);
+}
