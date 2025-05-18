@@ -223,6 +223,118 @@
       "answer": "B"
     }
   ],
+  "Otázka č. 2":[
+  {
+    "topic": "Učiteľ hudby a legislatíva",
+    "question": "Kto je učiteľ hudby podľa zákona?",
+    "options": {
+      "A": "Len korepetítor v konzervatóriu",
+      "B": "Každý, kto hrá na hudobný nástroj",
+      "C": "Pedagogický zamestnanec pôsobiaci ako učiteľ alebo korepetítor v školách",
+      "D": "Len absolvent vysokej školy hudby"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Učiteľ hudby a legislatíva",
+    "question": "Ktorý z týchto zákonov sa týka učiteľov hudby?",
+    "options": {
+      "A": "Zákon 311/2001 Z.z. (Zákonník práce)",
+      "B": "Zákon 245/2008",
+      "C": "Vyhláška 173/2023",
+      "D": "Všetky uvedené"
+    },
+    "answer": "D"
+  },
+  {
+    "topic": "Učiteľ hudby a legislatíva",
+    "question": "Kedy učiteľ získa kvalifikáciu na vyučovanie v ZUŠ?",
+    "options": {
+      "A": "Po základnej škole a kurze",
+      "B": "Po magisterskom štúdiu bez pedagogickej praxe",
+      "C": "Po konzervatóriu alebo Bc. štúdiu a doplňujúcom pedagogickom štúdiu",
+      "D": "Po absolvovaní strednej školy"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Kariérne stupne a pozície učiteľov",
+    "question": "Aké sú kariérne stupne učiteľa hudby?",
+    "options": {
+      "A": "Praktikant, vedúci, docent",
+      "B": "Začínajúci, samostatný, s prvou atestáciou, s druhou atestáciou",
+      "C": "Zástupca, mentor, koordinátor",
+      "D": "Len samostatný a vedúci"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Riaditeľ školy",
+    "question": "Kto menuje riaditeľa školy?",
+    "options": {
+      "A": "Rada školy",
+      "B": "Minister školstva",
+      "C": "Zriaďovateľ na návrh rady školy",
+      "D": "Starosta alebo primátor"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Vzdelávanie učiteľov hudby",
+    "question": "Aký typ vzdelávania NIE je medzi povinnými formami ďalšieho vzdelávania učiteľa?",
+    "options": {
+      "A": "Špecializačné",
+      "B": "Inovačné",
+      "C": "Fyzikálne",
+      "D": "Aktualizačné"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Platové a pracovné podmienky",
+    "question": "Do akej pracovnej triedy patrí učiteľ ZUŠ?",
+    "options": {
+      "A": "Druhej",
+      "B": "Tretej",
+      "C": "Jednej",
+      "D": "Štvrtej"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Platové a pracovné podmienky",
+    "question": "Koľko hodín týždenne je bežný pracovný čas učiteľa?",
+    "options": {
+      "A": "40 hodín, z toho 30 výučby",
+      "B": "35 hodín, z toho 20 výučby",
+      "C": "37,5 hodín, z toho 23 výučby",
+      "D": "30 hodín, z toho 10 výučby"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Pracovné zmluvy a náplň práce",
+    "question": "Ktorá z nasledujúcich NIE je typom pracovného pomeru učiteľa?",
+    "options": {
+      "A": "Na dobu určitú",
+      "B": "Na dobu neurčitú",
+      "C": "Dobrovoľnícka zmluva",
+      "D": "Dohoda na krátkodobú činnosť"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Inštitúcie v školstve",
+    "question": "Čo rieši Inšpektorát práce?",
+    "options": {
+      "A": "Obsah učebných osnov",
+      "B": "Metodiku hudobnej výučby",
+      "C": "Pracovné spory a dodržiavanie Zákonníka práce",
+      "D": "Výber riaditeľov škôl"
+    },
+    "answer": "C"
+  }
+],
 
     "Otázka č. 20": [
     {
