@@ -335,6 +335,272 @@
     "answer": "B"
   }
 ],
+"Otázka č. 5, 6 a 7":[
+  {
+    "topic": "Úvod do dejín pedagogiky",
+    "question": "Čo je hlavným zmyslom dejín pedagogiky?",
+    "options": {
+      "A": "Výučba cudzích jazykov",
+      "B": "Zber historických spevníkov",
+      "C": "Prepojenie vývoja pedagogiky s vývojom spoločnosti",
+      "D": "Písanie literatúry o hudbe"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Pravek",
+    "question": "Ako prebiehala výchova v praveku?",
+    "options": {
+      "A": "V školách s učiteľmi",
+      "B": "Iba prostredníctvom písaných textov",
+      "C": "Ustne, imitáciou a hrou",
+      "D": "Online cez aplikácie"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Pravek",
+    "question": "Aký bol obsah vzdelávania v praveku?",
+    "options": {
+      "A": "Rétorika a logika",
+      "B": "Notácia a teória hudby",
+      "C": "Lov, remeslá, spev, tanec",
+      "D": "Programovanie"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Pravek",
+    "question": "Aké boli hlavné funkcie hudby v praveku?",
+    "options": {
+      "A": "Iba zábava",
+      "B": "Zaznamenávanie dejín",
+      "C": "Rituálna, relaxačná, komunikačná, podporná",
+      "D": "Hudobná výchova detí"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Starovek",
+    "question": "Ako sa menila edukácia v staroveku?",
+    "options": {
+      "A": "Zanikla úplne",
+      "B": "Vznikla forma formálnej a neformálnej edukácie",
+      "C": "Vzdelávali sa len ženy",
+      "D": "Zameraná len na hudbu"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Starovek",
+    "question": "Kto bol Konfucius?",
+    "options": {
+      "A": "Čínsky cisár",
+      "B": "Zápasník",
+      "C": "Filozof a pedagóg",
+      "D": "Grécky hudobník"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Stredovek",
+    "question": "Čo sú Septes artes liberales?",
+    "options": {
+      "A": "Hudobné nástroje",
+      "B": "Siedmoro slobodných umení",
+      "C": "Biblické prikázania",
+      "D": "Stredoveké školy"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Stredovek",
+    "question": "Kto bol Guido z Arezza?",
+    "options": {
+      "A": "Učiteľ spevu v Ríme",
+      "B": "Zakladateľ univerzity",
+      "C": "Hudobný pedagóg a tvorca notácie",
+      "D": "Mních z Egypta"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Stredovek",
+    "question": "Čo bola scholá cantorum?",
+    "options": {
+      "A": "Univerzitná knižnica",
+      "B": "Spevácka škola cirkevnej hudby",
+      "C": "Latinská gramatika",
+      "D": "Nástrojová dielňa"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Renesancia",
+    "question": "Čím sa vyznačuje pedagogika renesancie?",
+    "options": {
+      "A": "Zákazom hudby",
+      "B": "Dôrazom na poslušnosť a trest",
+      "C": "Humanizmom, empíriou a individualizmom",
+      "D": "Sústredením na dogmy"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Renesancia",
+    "question": "Kto bol Comenius (Komenský)?",
+    "options": {
+      "A": "Francúzsky kráľ",
+      "B": "Reformátor pedagogiky",
+      "C": "Renesančný maliar",
+      "D": "Hudobný skladateľ"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Renesancia",
+    "question": "Ktoré dielo patrí Komenskému?",
+    "options": {
+      "A": "Institutio Oratoria",
+      "B": "Orbis Pictus",
+      "C": "O výchove",
+      "D": "Republika"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "18. a 19. storočie",
+    "question": "Čo presadzoval Pestalozzi?",
+    "options": {
+      "A": "Hudobnú výchovu v armáde",
+      "B": "Mechanickú výučbu faktov",
+      "C": "Jednotu hlavy, srdca a ruky",
+      "D": "Zákaz materských škôl"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Hudobná pedagogika 18.–19. stor.",
+    "question": "Aký bol prístup Zoltána Kodályho?",
+    "options": {
+      "A": "Hranie na elektrickú gitaru",
+      "B": "Nácvik rytmu a sluchu cez spev",
+      "C": "Písanie operných diel",
+      "D": "Podpora len formálnej edukácie"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Hudobná pedagogika 18.–19. stor.",
+    "question": "Čo bol Orffov prístup?",
+    "options": {
+      "A": "Technická výučba hudobnej teórie",
+      "B": "Používanie výlučne starých nástrojov",
+      "C": "Elementárna improvizácia a rytmika",
+      "D": "Vzdelávanie len cez čítanie textov"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "20. storočie",
+    "question": "Ktoré smery patria k reformnej pedagogike?",
+    "options": {
+      "A": "Dogmatická, kolektívna, represívna",
+      "B": "Dewey, Montessori, Freinet",
+      "C": "Absolutizmus, militarizmus, fatalizmus",
+      "D": "Iba cirkevná výučba"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "20. storočie",
+    "question": "Kedy vznikli ZUŠ na Slovensku?",
+    "options": {
+      "A": "V roku 1918",
+      "B": "V roku 1951",
+      "C": "Po roku 2000",
+      "D": "Počas renesancie"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "21. storočie",
+    "question": "Aký je trend vo vzdelávaní v 21. storočí?",
+    "options": {
+      "A": "Zákaz digitálnych technológií",
+      "B": "Jednotný prístup ku všetkým",
+      "C": "Individualizácia a celoživotné vzdelávanie",
+      "D": "Zrušenie hodnotenia"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "21. storočie",
+    "question": "Aký je význam digitálnych nástrojov v hudobnej edukácii?",
+    "options": {
+      "A": "Nepodstatný",
+      "B": "Používajú sa len pri výbere školy",
+      "C": "Podporujú e-learning, interaktivitu, aplikácie",
+      "D": "Znižujú motiváciu žiakov"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Alternatívne školy",
+    "question": "Aké sú znaky tradičnej školy?",
+    "options": {
+      "A": "Pedocentrizmus a praktické aktivity",
+      "B": "Frontálne vyučovanie a dôraz na učivo",
+      "C": "Voľná hra a skúsenosť",
+      "D": "Bez skúšok"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Alternatívne školy",
+    "question": "Ktorá škola patrí medzi alternatívne typy?",
+    "options": {
+      "A": "Tradičná štátna škola",
+      "B": "Klasické gymnázium",
+      "C": "Montessori škola",
+      "D": "Univerzita tretieho veku"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Hudobná edukácia 21. storočia",
+    "question": "Aké sú výzvy v hudobnej edukácii dnes?",
+    "options": {
+      "A": "Príliš veľa učiteľov",
+      "B": "Dostatok financií",
+      "C": "Podfinancovanie a vplyv komercie",
+      "D": "Stabilita a pokoj"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Hudobná edukácia 21. storočia",
+    "question": "Ako hudba pomáha v súčasnosti?",
+    "options": {
+      "A": "Iba ako forma zábavy",
+      "B": "Len ako školský predmet",
+      "C": "Podporuje wellbeing a sociálny rozvoj",
+      "D": "Zabáva učiteľov"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Moderné metódy",
+    "question": "Čo charakterizuje zážitkové vyučovanie?",
+    "options": {
+      "A": "Bez účasti žiaka",
+      "B": "Dôraz na pamäť",
+      "C": "Silný emocionálny zážitok pre žiaka",
+      "D": "Iba čítanie textov"
+    },
+    "answer": "C"
+  }
+],
     "Otázka č. 19": [
     {
       "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
