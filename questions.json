@@ -111,119 +111,7 @@
     "answer": "C"
   }
     ],
-    "Otázka č. 19": [
-    {
-      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
-      "question": "Aká je teoretická funkcia pedagogiky?",
-      "options": {
-        "A": "Predvída potreby budúcnosti",
-        "B": "Zhŕňa poznatky pre prax",
-        "C": "Skúma, čo je výchova a ako funguje",
-        "D": "Navrhuje vyučovacie metódy"
-      },
-      "answer": "C"
-    },
-    {
-      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
-      "question": "K čomu slúži metodika vyučovania?",
-      "options": {
-        "A": "Tvorí štátne učebné plány",
-        "B": "Usporiadava a hodnotí vyučovacie metódy",
-        "C": "Určuje známkovanie žiakov",
-        "D": "Hodnotí výsledky testovania"
-      },
-      "answer": "B"
-    },
-    {
-      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
-      "question": "Ktorá funkcia didaktiky predpovedá vývoj vo vyučovaní?",
-      "options": {
-        "A": "Diagnostická",
-        "B": "Normatívna",
-        "C": "Inštrumentálna",
-        "D": "Prognostická"
-      },
-      "answer": "D"
-    },
-    {
-      "topic": "Typy vyučovacieho procesu",
-      "question": "Aký typ vyučovania podporuje samostatné objavovanie poznatkov?",
-      "options": {
-        "A": "Dogmatický",
-        "B": "Transmisívny",
-        "C": "Konštruktivistický",
-        "D": "Formalistický"
-      },
-      "answer": "C"
-    },
-    {
-      "topic": "Teória vzdelávania (didaktika)",
-      "question": "Čo je vyučovanie podľa didaktiky?",
-      "options": {
-        "A": "Proces hodnotenia žiakov",
-        "B": "Činnosti učiteľa so žiakmi počas výuky",
-        "C": "Spontánne učenie sa",
-        "D": "Záznam o priebehu hodiny"
-      },
-      "answer": "B"
-    },
-    {
-      "topic": "Teórie učenia vs. teórie učenia sa",
-      "question": "Aký je rozdiel medzi teóriami učenia a učenia sa?",
-      "options": {
-        "A": "Učenie je pasívne, učenie sa je aktívne",
-        "B": "Teórie učenia sa zameriavajú na učiteľa",
-        "C": "Teórie učenia sú o tom, ako učiť; učenia sa o tom, ako sa učí žiak",
-        "D": "Nie je medzi nimi rozdiel"
-      },
-      "answer": "C"
-    },
-    {
-      "topic": "Druhy didaktík",
-      "question": "Ktoré z nasledujúcich je príkladom predmetovej didaktiky?",
-      "options": {
-        "A": "Didaktika strednej školy",
-        "B": "Didaktika hudby",
-        "C": "Metodika hry na lesnom rohu",
-        "D": "Všeobecná didaktika"
-      },
-      "answer": "C"
-    },
-    {
-      "topic": "Súčasti a systém didaktiky",
-      "question": "Čo sú vnútorné podmienky vyučovania?",
-      "options": {
-        "A": "Okolie školy",
-        "B": "Fyzický a psychický stav žiaka a učiteľa",
-        "C": "Právne normy",
-        "D": "Regionálne pomery"
-      },
-      "answer": "B"
-    },
-    {
-      "topic": "Klasifikácia teórií v didaktike",
-      "question": "Aká je úloha mikrodidaktickej teórie?",
-      "options": {
-        "A": "Určuje školský rok",
-        "B": "Rieši, čo a kedy sa má učiť",
-        "C": "Rieši, ako učiť konkrétny obsah",
-        "D": "Sleduje historický vývoj škôl"
-      },
-      "answer": "C"
-    },
-    {
-      "topic": "Pedagogické dokumenty",
-      "question": "Čo sú pedagogické dokumenty?",
-      "options": {
-        "A": "Materiály pre rodičov",
-        "B": "Súbory noriem a plánov pre fungovanie školy",
-        "C": "Hudobné nahrávky",
-        "D": "Učiteľove poznámky"
-      },
-      "answer": "B"
-    }
-  ],
-  "Otázka č. 2 a 3":[
+     "Otázka č. 2 a 3":[
   {
     "topic": "Učiteľ hudby a legislatíva",
     "question": "Kto je učiteľ hudby podľa zákona?",
@@ -447,6 +335,119 @@
     "answer": "B"
   }
 ],
+    "Otázka č. 19": [
+    {
+      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
+      "question": "Aká je teoretická funkcia pedagogiky?",
+      "options": {
+        "A": "Predvída potreby budúcnosti",
+        "B": "Zhŕňa poznatky pre prax",
+        "C": "Skúma, čo je výchova a ako funguje",
+        "D": "Navrhuje vyučovacie metódy"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
+      "question": "K čomu slúži metodika vyučovania?",
+      "options": {
+        "A": "Tvorí štátne učebné plány",
+        "B": "Usporiadava a hodnotí vyučovacie metódy",
+        "C": "Určuje známkovanie žiakov",
+        "D": "Hodnotí výsledky testovania"
+      },
+      "answer": "B"
+    },
+    {
+      "topic": "Funkcie a význam výchovno-vzdelávacích disciplín",
+      "question": "Ktorá funkcia didaktiky predpovedá vývoj vo vyučovaní?",
+      "options": {
+        "A": "Diagnostická",
+        "B": "Normatívna",
+        "C": "Inštrumentálna",
+        "D": "Prognostická"
+      },
+      "answer": "D"
+    },
+    {
+      "topic": "Typy vyučovacieho procesu",
+      "question": "Aký typ vyučovania podporuje samostatné objavovanie poznatkov?",
+      "options": {
+        "A": "Dogmatický",
+        "B": "Transmisívny",
+        "C": "Konštruktivistický",
+        "D": "Formalistický"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Teória vzdelávania (didaktika)",
+      "question": "Čo je vyučovanie podľa didaktiky?",
+      "options": {
+        "A": "Proces hodnotenia žiakov",
+        "B": "Činnosti učiteľa so žiakmi počas výuky",
+        "C": "Spontánne učenie sa",
+        "D": "Záznam o priebehu hodiny"
+      },
+      "answer": "B"
+    },
+    {
+      "topic": "Teórie učenia vs. teórie učenia sa",
+      "question": "Aký je rozdiel medzi teóriami učenia a učenia sa?",
+      "options": {
+        "A": "Učenie je pasívne, učenie sa je aktívne",
+        "B": "Teórie učenia sa zameriavajú na učiteľa",
+        "C": "Teórie učenia sú o tom, ako učiť; učenia sa o tom, ako sa učí žiak",
+        "D": "Nie je medzi nimi rozdiel"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Druhy didaktík",
+      "question": "Ktoré z nasledujúcich je príkladom predmetovej didaktiky?",
+      "options": {
+        "A": "Didaktika strednej školy",
+        "B": "Didaktika hudby",
+        "C": "Metodika hry na lesnom rohu",
+        "D": "Všeobecná didaktika"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Súčasti a systém didaktiky",
+      "question": "Čo sú vnútorné podmienky vyučovania?",
+      "options": {
+        "A": "Okolie školy",
+        "B": "Fyzický a psychický stav žiaka a učiteľa",
+        "C": "Právne normy",
+        "D": "Regionálne pomery"
+      },
+      "answer": "B"
+    },
+    {
+      "topic": "Klasifikácia teórií v didaktike",
+      "question": "Aká je úloha mikrodidaktickej teórie?",
+      "options": {
+        "A": "Určuje školský rok",
+        "B": "Rieši, čo a kedy sa má učiť",
+        "C": "Rieši, ako učiť konkrétny obsah",
+        "D": "Sleduje historický vývoj škôl"
+      },
+      "answer": "C"
+    },
+    {
+      "topic": "Pedagogické dokumenty",
+      "question": "Čo sú pedagogické dokumenty?",
+      "options": {
+        "A": "Materiály pre rodičov",
+        "B": "Súbory noriem a plánov pre fungovanie školy",
+        "C": "Hudobné nahrávky",
+        "D": "Učiteľove poznámky"
+      },
+      "answer": "B"
+    }
+  ],
+ 
 
     "Otázka č. 20": [
     {
