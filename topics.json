@@ -478,6 +478,136 @@
       ]
     }
   },
+  "Otazka č. 5, 6 a 7": { "sumup": "5, 6, 7; Dejiny a charakteristika vseobecnej a hudobnej pedagogiky od praveku po sucasnost; formy ucenia, vyvoj institucii, rodova a socialna diferenciacia, skoly a univerzity, reforma vyucby; vyvoj hudobnych nastrojov, vyucba hudby vo formalnom aj neformalnom prostredi, vznik notacie, institucii a novych pedagogickych pristupov",
+
+  "Pravek": {
+  "Obdobie a zdroje poznania": "2,5 mil. rokov p.n.l. az 3000 p.n.l. Skumame pomocou archeologie, etnologie a komparacie v dejinach pedagogiky.",
+  "Forma vychovy a vzdelavania": "Odovzdavanie skusenosti ustnou tradiciou, imitaciou cinnosti, aktivnym zapojenim, hrou. V ramci rodiny, tlupy, kmena.",
+  "Obsah vzdelavania": "Lov, pestovanie, zber, chov, starostlivost o rodinu, remesla, orientacia v prirode, poznanie prirodnych javov, ritualy, tanec, spev, malba, tetovanie.",
+  "Hudobna pedagogika": "Hudba ako sucast kulturno-nabozenskych ritualov. Vokalne a instrument. cinnosti (predpoklad heterofonie), bicie, neskor fukacie a strunove nastroje z kamena, koze, dreva, kosti.",
+  "Funkcie hudby": "Ritualna (pohreby, narodenie), relaxacna (oddych, uspavanky), kom. (signaly pri love), pracovno-podporna (spev pri praci)."
+  },
+
+  "Starovek": {
+  "Obdobie a spolocenske zmeny": "3000 p.n.l. – 476 n.l. Neoliticka revolucia, usadly sposob zivota, remesla, mesta, pisomnictvo.",
+  "Vznik edukacie": "Vznik formalnej edukacie – skoly (napr. Akademia v Atenach), rozdelenie na formalnu (elity, vojaci) a neformalnu (rodina, komunita).",
+  "Socialna a rodova segregacia": "Vzdelanie ako privilegium elit, zenam len vynimocne.",
+  "Obsah edukacie": "Vedy (architektura, chemia, medicína, filozofia), remesla, retorika, uradnictvo, socialna praca, kulturne tradicie, umenie (v sluzbach panovnika aj poulicne), vojenstvo.",
+  "Vyzn. osobnosti pedagogiky": "Platon (Republika), Aristoteles (O vychove), Quintilianus (Institutio oratoria), Konfucius (Päť kanonickych knih).",
+  "Hudobna pedagogika – neformalna": "Ustna tradicia, prakticke vokalno-instrument. cinnosti, rozvoj viachlasu, kolektivny, antifonalny, responzorialny spev.",
+  "Hudobna pedagogika – formalna": "Panovnicke dvory, ucitelia sluzobnici, vznik institucii (napr. Cinsky urad hudby), spev, brnkacie nastroje, hudobna nauka.",
+  "Funkcie hudby": "Zabavna, relaxacna, ritualna, pracovno-podporna, vychovna.",
+  "Pramene poznania": "Homér (Ilias, Odysea), Konfucius."
+  },
+
+  "Stredovek": {
+  "Obdobie a kontext": "476 n.l. – cca 1450. Sirenie krestanstva, vznik cirkevnych skol, univerzit, epidemie, boj cirkvi vs. veda.",
+  "Typy skol": "Klastorne, katedralne, farske, slachticke, odborné, univerzity (Bologna, Sorbona, Oxford), dievcenske skoly, mestske skoly.",
+  "Nositelia gramotnosti": "Mnisi, knazi, pisari.",
+  "Obsah edukacie": "Stavebnictvo (chramy, univerzity), remesla, teologia, retorika (kazne), pisomnictvo (kodexy, spevniky, preklady), jazyky, socialna praca, umenie (cirk. aj svetske), rytierstvo.",
+  "Septes artes liberales": "Trivium (gramatika, retorika, dialektika), Kvadrivium (aritmetika, geometria, astronomia, hudba).",
+  "Vyzn. osobnosti pedagogiky": "Boethius, Tomas Akvinsky, Benedikt z Nursie, Frantisek z Assisi.",
+  "Hudba – cirkev": "Kontakt s Bohom, vznik notacie (neumy, kvadraticke pismo, kluce, menzura), scholy cantorum – spev, nauka, zakaz nastrojov okrem organu.",
+  "Hudba – svetska": "Rytieri (spev, tvorba, brnkacie nastroje), ucitelia casto knazi, hudba aj pre panovnicky a zeny ako volnocasova aktivita.",
+  "Hudba – neformalna": "Ustna tradicia, solovy spev so sprievodom, muzikanti na dvoroch, poulicni zabavaci.",
+  "Vyzn. osobnosti hudobnej pedagogiky": "Guido z Arezza (Micrologus), Boethius (De Institutione Musica)."
+  },
+
+  "Renesancia az 17. storocie": {
+  "Renesancia – pedagogicke znaky": "Humanizmus, empirizmus, racionalizmus, individualizmus, reformacia, vznik gymnazii, skoly radosti.",
+  "Vyzn. osobnosti pedagogiky": "Vittorino da Feltre, Thomas More, Erazmus Rotterdamsky, Michel de Montaigne, Francis Bacon, Tommaso Campanella.",
+  "Hudobna pedagogika – renesancia": "Rozvoj nastrojarstva, skladatelske skoly, hudba ako znak vznesenosti, rozvoj svetskej hudby, spevokoly, kapely, edukacia v sirotincoch (ospedale).",
+  "17. storocie – pedagogika": "Baroko, absolutizmus, racionalne vzdelavanie, Komensky (Didaktika magna, Informatorium, Orbis pictus), John Locke (Myšlienky o výchove).",
+  "Hudobna pedagogika – 17. storocie": "Komenského podnety – aktivna a receptivna cinnost, esteticka vychova, zaciatky muzikoterapie, Bachove invencie, vznik konzervatorii, ucitelske autority."
+  },
+
+  "18. a 19. storocie": {
+  "Pedagogicke znaky": "Osvietenstvo, industrializacia, racionalizmus, pozitivizmus, demokratizacia vzdelavania, vznik verejnych skol.",
+  "Reformne pedagogicke smery": "Pestalozzi (hlava – srdce – ruka), Fröbel (materske skoly), Herbart (základ systematickej didaktiky), Rousseau (Emil), Tolstoj (samostatna aktivita).",
+  "Hudobna pedagogika": "Zalozenie konzervatorii (Neapol, Vieden, Lipsko), vznik spevokolov, skolska hudobna vychova, Kodalyho metody (nacvik sluchu, rytmu, relativeho nacitania), Orffov pristup (elementarna improvizacia, rytmika, hra na orffove nastroje).",
+  "Institucie a iniciativy": "Hudobne skoly, ucitelia hudby na ZS, vydavanie spevnikov a metodik, zberanie ludovych piesni."
+  },
+
+  "20. storocie": {
+  "Pedagogicke smery": "Reformna pedagogika (Dewey, Montessori, Decroly, Freinet), alternatívne školy, dôraz na aktivitu a tvorivosť žiaka.",
+  "Hudobna pedagogika": "Rozvoj didaktiky HV, formalna aj neformalna edukacia, statne i sukromne hudobne skoly, fenomen ZUŠ na Slovensku (od 1951), rozvoj spevokolov, festivalov, novych metod (Suzuki, Dalcroze).",
+  "Technologicky vyvoj": "Gramofon, rozhlas, magnetofon, CD, internet – moznosti zaznamu, distribucie a edukacie hudby."
+  },
+
+  "21. storocie": {
+  "Trendy vo vzdelavani": "Digitalizacia, inkluzia, individualizacia, celozivotne vzdelavanie, kompetencny model, projektove a zazitkove vyucovanie.",
+  "Hudobna pedagogika": "Hudba ako nastroj socialneho rozvoja, medzikulturneho dialogu, wellbeing-u; rozvoj online edukacie, aplikacie, interaktivne nastroje, E-learning, LMS.",
+  "Problemy a vyzvy": "Nedostatok ucitelov, podfinancovanie, nerovnost pristupu k hudobnej edukacii, vplyv komercnej hudby a socialnych sieti."
+  },
+    "summary": {
+            "name": "TITLE Dejiny pedagogiky a hudobnej pedagogiky",
+            "children": [
+                {
+                    "name": "TITLE Pravek",
+                    "children": [
+                        { "name": "Ústna tradícia, imitácia" },
+                        { "name": "Rodová edukácia" },
+                        { "name": "Hudba: rituály, signály" },
+                        { "name": "Nástroje z prírodných materiálov" }
+                    ]
+                },
+                {
+                    "name": "TITLE Starovek",
+                    "children": [
+                        { "name": "Vznik písma a škôl" },
+                        { "name": "Sociálna diferenciácia vo vzdelávaní" },
+                        { "name": "Filozofi: Platón, Aristoteles, Konfucius" },
+                        { "name": "Hudba: panovnícke dvory, úrady hudby" },
+                        { "name": "Spev a viachlas" }
+                    ]
+                },
+                {
+                    "name": "TITLE Stredovek",
+                    "children": [
+                        { "name": "Cirkevné školy a univerzity" },
+                        { "name": "Septes artes liberales" },
+                        { "name": "Hudba: scholy cantorum, notácia" },
+                        { "name": "Svetová hudba: rytieri a ženy" }
+                    ]
+                },
+                {
+                    "name": "TITLE Renesancia a 17. storočie",
+                    "children": [
+                        { "name": "Humanizmus, empirizmus" },
+                        { "name": "Komenský, Locke" },
+                        { "name": "Hudobné školy a nástroje" },
+                        { "name": "Baroková hudba a vzdelávanie" }
+                    ]
+                },
+                {
+                    "name": "TITLE 18. a 19. storočie",
+                    "children": [
+                        { "name": "Osvietenstvo, industrializácia" },
+                        { "name": "Pestalozzi, Fröbel, Herbart" },
+                        { "name": "Hudobné konzervatóriá" },
+                        { "name": "Metódy: Kodály, Orff" }
+                    ]
+                },
+                {
+                    "name": "TITLE 20. storočie",
+                    "children": [
+                        { "name": "Reformná pedagogika: Dewey, Montessori" },
+                        { "name": "ZUŠ na Slovensku" },
+                        { "name": "Hudobná didaktika" },
+                        { "name": "Technológie: rádio, CD, internet" }
+                    ]
+                },
+                {
+                    "name": "TITLE 21. storočie",
+                    "children": [
+                        { "name": "Digitalizácia, inklúzia, LMS" },
+                        { "name": "Hudba a wellbeing" },
+                        { "name": "Online výučba" },
+                        { "name": "Výzvy: podfinancovanie, dostupnosť" }
+                    ]
+                }
+            ]}
+},
 
   "Otázka č. 19": {
     "sumup": "teória vzdelávania (didaktika) – základná charakteristika, terminológia, druhy didaktík, súčasti a systém didaktiky; klasifikácia teórií v didaktike; teórie učenia verzus teórie učenia sa; prepojenie výchovy a vzdelávania vo vyučovacom procese; transmisia vs. konštruktivizmus v súčasnej didaktike; typy vyučovacieho procesu; humanizácia vyučovacieho procesu. pedagogické dokumenty. ",
