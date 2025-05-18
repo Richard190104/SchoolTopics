@@ -478,8 +478,13 @@
       ]
     }
   },
-  "Otazka č. 5, 6 a 7": { "sumup": "5, 6, 7; Dejiny a charakteristika vseobecnej a hudobnej pedagogiky od praveku po sucasnost; formy ucenia, vyvoj institucii, rodova a socialna diferenciacia, skoly a univerzity, reforma vyucby; vyvoj hudobnych nastrojov, vyucba hudby vo formalnom aj neformalnom prostredi, vznik notacie, institucii a novych pedagogickych pristupov",
-
+  "Otazka č. 5, 6 a 7": { "sumup": "5; Stručné dejiny a charakteristika pedagogiky a hudobnej pedagogiky – úvod, pravek, starovek, stredovek, renesancia;;6;Stručné dejiny a charakteristika pedagogiky a hudobnej pedagogiky – 17.–19. storočie;;7;Stručné dejiny a charakteristika pedagogiky a hudobnej pedagogiky – 20.–21. storočie, tradičné verzus alternatívne školy, moderné koncepcie vyučovacieho procesu v hudobných školách",
+ "Úvod": {
+            "Zmysel dejín pedagogiky": "Dejiny pedagogiky sú prepojené s dejinami školstva a vývoja spoločnosti.",
+            "Vývoj edukácie": "Od rodinnej a kmeňovej formy cez cirkev a štát až po komunitnú a alternatívnu edukáciu.",
+            "Determinanty pedagogiky": "Filozofia, teológia, humanitné vedy, vývoj hudby, spoločenské zmeny.",
+            "Typy diel o pedagogike": "Umelecké diela, odborné pedagogické texty, historické, didaktické."
+        },
   "Pravek": {
   "Obdobie a zdroje poznania": "2,5 mil. rokov p.n.l. az 3000 p.n.l. Skumame pomocou archeologie, etnologie a komparacie v dejinach pedagogiky.",
   "Forma vychovy a vzdelavania": "Odovzdavanie skusenosti ustnou tradiciou, imitaciou cinnosti, aktivnym zapojenim, hrou. V ramci rodiny, tlupy, kmena.",
@@ -539,9 +544,32 @@
   "Hudobna pedagogika": "Hudba ako nastroj socialneho rozvoja, medzikulturneho dialogu, wellbeing-u; rozvoj online edukacie, aplikacie, interaktivne nastroje, E-learning, LMS.",
   "Problemy a vyzvy": "Nedostatok ucitelov, podfinancovanie, nerovnost pristupu k hudobnej edukacii, vplyv komercnej hudby a socialnych sieti."
   },
+   "Tradičné a alternatívne školy": {
+            "Tradičné školy": "Zameranie na memorovanie, učivo, autoritu učiteľa, frontálne vyučovanie.",
+            "Alternatívne školy": "Pedocentrizmus, individualizácia, slobodná činnosť, praktická skúsenosť.",
+            "Typy alternatívnych škôl": "Waldorfská, Montessori, Daltonská, Jenská, Decrolyho škola.",
+            "Základy inklúzie": "Integrácia žiakov so znevýhodnením do bežného školstva, dôraz na ľudské práva."
+        },
+
+        "Moderné koncepcie hudobnej výučby": {
+            "Kurikulárne zmeny": "Reforma obsahu, nové učebnice, názorné vyučovanie, technológia vyučovania.",
+            "Hudobné smery a metódy": "Kodály, Orff, Dalcroze, Suzuki – dôraz na celostný a zážitkový prístup.",
+            "Digitálne nástroje": "Internet, LMS, aplikácie, interaktívne pomôcky, online výučba.",
+            "Profesionálna vs. všeobecná edukácia": "Rozdelenie výučby v ZUŠ a konzervatóriách oproti MŠ/ZŠ.",
+            "Výzvy 21. storočia": "Nedostatok učiteľov, financie, dostupnosť, vplyv komercie a sociálnych sietí."
+        },
     "summary": {
             "name": "TITLE Dejiny pedagogiky a hudobnej pedagogiky",
             "children": [
+               {
+            "name": "TITLE Úvod",
+            "children": [
+                { "name": "Zmysel dejín pedagogiky" },
+                { "name": "Vývoj edukácie v spoločnosti" },
+                { "name": "Determinanty pedagogiky" },
+                { "name": "Typy pedagogických diel" }
+            ]
+        },
                 {
                     "name": "TITLE Pravek",
                     "children": [
@@ -605,7 +633,26 @@
                         { "name": "Online výučba" },
                         { "name": "Výzvy: podfinancovanie, dostupnosť" }
                     ]
-                }
+                },
+                 {
+            "name": "TITLE Tradičné a alternatívne školy",
+            "children": [
+                { "name": "Tradičný model výučby" },
+                { "name": "Pedocentrizmus a alternatívy" },
+                { "name": "Typy alternatívnych škôl" },
+                { "name": "Inkluzívne vzdelávanie" }
+            ]
+        },
+        {
+            "name": "TITLE Moderné koncepcie hudobnej výučby",
+            "children": [
+                { "name": "Kurikulárna reforma a pomôcky" },
+                { "name": "Hudobné smery a metódy" },
+                { "name": "Digitálne nástroje a výučba" },
+                { "name": "Všeobecná vs. odborná edukácia" },
+                { "name": "Výzvy 21. storočia v hudobnom vzdelávaní" }
+            ]
+        }
             ]}
 },
 
