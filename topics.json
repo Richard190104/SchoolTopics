@@ -290,6 +290,193 @@
       ]
     }
   },
+  
+  "Otázka č. 4": {
+    "Základná terminológia": {
+      "Pedagogika": "Veda o výchove a vzdelávaní v rôznych prostrediach (škola, rodina, spoločnosť).",
+      "Hudobná pedagogika": "Aplikovaná pedagogická veda zameraná na výchovno-vzdelávaciu realitu v hudbe.",
+      "Výchova": "Činnosť zameraná na rozvoj fyzickej a psychickej stránky človeka.",
+      "Teória výchovy": "Skúma proces výchovy počas celého života človeka.",
+      "Hudobná výchova": "Predmet a zároveň činnosť smerujúca k hudobnému rozvoju jednotlivca.",
+      "Vzdelávanie": "Proces získavania a rozvíjania vedomostí a schopností (synonymum: edukácia).",
+      "Didaktika": "Teória vyučovania, skúma proces učenia a vyučovania.",
+      "Didaktika hudby": "Súčasť pedagogiky hudby, skúma proces výučby hudby.",
+      "Výchovno-vzdelávací proces": "Zámerný proces medzi učiteľom a žiakom s cieľom rozvoja osobnosti.",
+      "Pedagogická prax": "Realizácia výchovno-vzdelávacieho procesu alebo výkon učiteľskej profesie."
+    },
+    "Systém pedagogických vied": {
+      "Základné pedagogické vedy": "Všeobecná pedagogika; Teória vzdelávania (didaktika); Teória výchovy; Dejiny pedagogiky a školstva; Komparatívna pedagogika; Metodológia pedagogiky",
+      "Aplikované pedagogické vedy": "Školská pedagogika; Rodinná pedagogika; Predškolská pedagogika; Primárna pedagogika; Stredoškolská pedagogika; Vysokoškolská pedagogika; Voľnočasová pedagogika; Pedagogická diagnostika; Špeciálna pedagogika; Liečebná pedagogika; Andragogika; Geragogika; Pedagogika hudby; Didaktiky predmetov (metodiky)",
+      "Hraničné pedagogické vedy": "Pedagogická psychológia; Sociálna pedagogika; Filozofia výchovy; Ekonomika vzdelávania; Školský manažment; Vzdelávacia politika"
+    },
+    "Vzťahy medzi disciplínami": {
+      "Hierarchia": "Nadradený; Podradený; Rovnocenný",
+      "Prieniky": "Vzájomný; Pomocný; Závislý; Žiadny"
+    },
+    "Pedagogická psychológia": {
+      "Definícia": "Zaoberá sa psychickými aspektmi učenia v školách a rodinách.",
+      "Delenie": "Školská psychológia; Učiteľská psychológia; Psychológia výchovy; Psychológia vzdelávania"
+    },
+    "Sociálna pedagogika": {
+      "Definícia": "Skúma sociálne aspekty výchovy, starostlivosť o deti a prevencia patológií."
+    },
+    "Školský manažment": {
+      "Definícia": "Zaoberá sa riadením škôl a školského systému."
+    },
+    "Funkcie disciplín": {
+      "Pedagogika": "Teoretická; Prognostická; Propedeutická",
+      "Výchova": "Prenos kultúry, socializácia, formovanie vzťahov.",
+      "Vzdelávanie": "Rozvoj spoločnosti, zdokonaľovanie poznania.",
+      "Didaktika": "Diagnostická; Prognostická; Inštrumentálna; Normatívna",
+      "Metodika": "Analýza a inovácia vyučovacích metód.",
+      "Vyučovací proces": "Vzdelávacia; Výchovná; Rozvíjajúca"
+    },
+    "Typy vyučovania": {
+      "Dogmatický": "Učenie naspamäť, bez vysvetlenia.",
+      "Výkladovo-ilustratívny": "Transmisívny model – učiteľ vysvetľuje, žiak pasívne prijíma.",
+      "Moderný (konštruktivistický)": "Žiak objavuje poznatky aktívne."
+    },
+    "Humanizácia výučby": {
+      "Ciele": "Dôvera; Samostatnosť; Spolupráca; Rešpekt; Pozitívna motivácia"
+    },
+    "Učiteľstvo ako povolanie": {
+      "Profesia a poslanie": "Odovzdáva kultúru, vedie novú generáciu, vyžaduje celoživotné vzdelávanie, osobné nasadenie a hodnotové smerovanie."
+    },
+    "summary": {
+      "name": "TITLE Učiteľ hudby v školskom systéme",
+      "children": [
+        {
+          "name": "TITLE Legislatíva a kvalifikácia",
+          "children": [
+            {
+              "name": "Zákony: 138/2019; 245/2008; 173/2023"
+            },
+            {
+              "name": "Kvalifikácia pre ZUŠ"
+            },
+            {
+              "name": "Kvalifikácia pre konzervatórium"
+            }
+          ]
+        },
+        {
+          "name": "TITLE Kariéra učiteľa",
+          "children": [
+            {
+              "name": "Kariérne stupne",
+              "children": [
+                {
+                  "name": "Začínajúci"
+                },
+                {
+                  "name": "Samostatný"
+                },
+                {
+                  "name": "1. atestácia"
+                },
+                {
+                  "name": "2. atestácia"
+                }
+              ]
+            },
+            {
+              "name": "Kariérne pozície",
+              "children": [
+                {
+                  "name": "Uvádzajúci učiteľ"
+                },
+                {
+                  "name": "Triedny učiteľ"
+                },
+                {
+                  "name": "Vedúci komisie"
+                },
+                {
+                  "name": "Vedúci odboru"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TITLE Riaditeľ školy",
+          "children": [
+            {
+              "name": "Zodpovednosti"
+            },
+            {
+              "name": "Kompetencie"
+            },
+            {
+              "name": "Povinné dokumenty"
+            }
+          ]
+        },
+        {
+          "name": "TITLE Vzdelávanie učiteľov",
+          "children": [
+            {
+              "name": "Typy vzdelávania"
+            },
+            {
+              "name": "Získanie atestácie"
+            },
+            {
+              "name": "Inštitúcie: NIVAM, KU"
+            }
+          ]
+        },
+        {
+          "name": "TITLE Pracovné podmienky",
+          "children": [
+            {
+              "name": "Platové triedy 4–9"
+            },
+            {
+              "name": "Funkčný plat"
+            },
+            {
+              "name": "Pracovný čas"
+            },
+            {
+              "name": "Benefity"
+            },
+            {
+              "name": "Nadčasy"
+            }
+          ]
+        },
+        {
+          "name": "TITLE Zmluvy a náplň práce",
+          "children": [
+            {
+              "name": "Zmluva: určitá/neistá"
+            },
+            {
+              "name": "Dohody"
+            },
+            {
+              "name": "Náplň a platový dekrét"
+            }
+          ]
+        },
+        {
+          "name": "TITLE Inštitúcie v školstve",
+          "children": [
+            {
+              "name": "NIVAM"
+            },
+            {
+              "name": "Štátna školská inšpekcia"
+            },
+            {
+              "name": "Inšpektorát práce"
+            }
+          ]
+        }
+      ]
+    }
+  },
 
   "Otázka č. 19": {
     "sumup": "teória vzdelávania (didaktika) – základná charakteristika, terminológia, druhy didaktík, súčasti a systém didaktiky; klasifikácia teórií v didaktike; teórie učenia verzus teórie učenia sa; prepojenie výchovy a vzdelávania vo vyučovacom procese; transmisia vs. konštruktivizmus v súčasnej didaktike; typy vyučovacieho procesu; humanizácia vyučovacieho procesu. pedagogické dokumenty. ",
