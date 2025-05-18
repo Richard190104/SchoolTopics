@@ -13,7 +13,13 @@ function displayTopics(topics) {
   container.innerHTML = '';
 
   Object.entries(topics).forEach(([category, questions]) => {
-    if (category !== 'summary') {
+    if (category == "sumup"){
+      const sumupElement = document.createElement('div');
+      sumupElement.className = 'sumup';
+      sumupElement.innerHTML = questions.replace(/;/g, '<br>');
+      container.appendChild(sumupElement);
+    }
+    if (category !== 'summary' && category !== 'sumup') {
       const categoryElement = document.createElement('div');
       categoryElement.className = 'category';
 
@@ -129,14 +135,13 @@ function drawConnectors() {
 
       const map = document.createElement('div');
       map.className = 'choiceButton';
-      map.innerHTML = '<h2>Vytvoriť myšlienkovú mapu a podcast</h2>';
+      map.innerHTML = '<h2>Dnes prehrame hokej ked nekliknes sem</h2>';
      
       document.querySelector(".choices").appendChild(map);
    
       map.addEventListener('click', () => {
         createVoiceElement()
           const diagramContainer = document.getElementById('contentdiv');
-          
           renderBlockDiagram(topics.summary, diagramContainer);
           drawConnectors();
       });

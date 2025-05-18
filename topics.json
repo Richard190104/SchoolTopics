@@ -1,5 +1,6 @@
 {
   "Otázka č. 1": {
+    "sumup": "systém školstva na Slovensku vo všeobecnosti; systém hudobného školstva na Slovensku a jeho problémy; odlišnosti vo vzdelávacích systémoch medzi Slovenskom a zahraničím; systém štátnych inštitúcií v oblasti školstva na Slovensku; možnosti kontaktu žiaka s hudbou a jeho hudobného rozvoja. ",
     "Systém školstva na Slovensku": {
       "Čo tvorí systém školstva na Slovensku?": "Školská sústava a sústava školských zariadení, ktoré musia byť zaradené v sieti škôl.",
       "Aké typy škôl tvoria školskú sústavu?": "Materské školy; Základné školy; Stredné školy (gymnáziá, SOŠ, školy umeleckého priemyslu, konzervatóriá); Základné umelecké školy; Jazykové školy; Vysoké školy.",
@@ -159,6 +160,7 @@
     }
   },
   "Otázka č. 19": {
+    "sumup": "teória vzdelávania (didaktika) – základná charakteristika, terminológia, druhy didaktík, súčasti a systém didaktiky; klasifikácia teórií v didaktike; teórie učenia verzus teórie učenia sa; prepojenie výchovy a vzdelávania vo vyučovacom procese; transmisia vs. konštruktivizmus v súčasnej didaktike; typy vyučovacieho procesu; humanizácia vyučovacieho procesu. pedagogické dokumenty. ",
     "Funkcie a význam výchovno-vzdelávacích disciplín": {
       "Aké sú hlavné funkcie pedagogiky?": "Teoretická – skúma, čo je výchova a ako funguje; Prognostická – predvída, aké budú potreby v budúcnosti; Propedeutická – zhŕňa poznatky pre prax.",
       "Aký je význam výchovy pre spoločnosť?": "Pomáha udržať kultúru a zvyky; pripravuje jednotlivcov na život medzi ľuďmi.",
@@ -374,6 +376,7 @@
   
   
   "Otázka č. 20": {
+    "sumup": "ciele vyučovacieho procesu vo všeobecnosti – vymedzenie pojmu, význam cieľov, hierarchia cieľov, všeobecné ciele vzdelávania, špecifické ciele vyučovacieho procesu; Bloomova taxonómia cieľov, postup pri určovaní špecifických cieľov; žiaci a špecifické ciele vyučovacieho procesu; kompetencie a štandardy; pracovné ciele pedagóga; ciele vyučovacieho procesu v hudobnom školstve.",
     "Ciele vo vyučovacom procese": {
       "Čo je cieľ vyučovacieho procesu?": "Je to predstava, čo chceme učením dosiahnuť. Je základnou súčasťou didaktiky.",
       "Prečo sú ciele dôležité?": "Bez cieľov by vyučovanie nemalo zmysel. Pomáhajú plánovať hodiny a motivujú žiakov.",
@@ -562,6 +565,7 @@
   
 },
 "Otázka č. 21": {
+  "sumup": "Didaktické zásady – všeobecná charakteristika, systém zásad; Motivácia a demotivácia vo vyučovacom procese; Učivo – prvky v hudobnom školstve, štruktúra, teórie výberu, predimenzovanosť, kurikulum; Študijný plán žiaka a jeho tvorba; Štátny vzdelávací program; Školský vzdelávací program a zásady jeho tvorby.",
   "Didaktické zásady": {
     "Čo sú didaktické zásady?": "Sú to pravidlá vychádzajúce zo zákonitostí výučby, skúseností a spoločenských noriem. Majú usmerňovať učiteľa počas prípravy aj realizácie výučby.",
     "Aké sú základné didaktické zásady?": "Zásada optimálnych podmienok; primeranosti a individuálneho prístupu; vedeckosti; spojenia teórie s praxou; názornosti; motivácie, uvedomelosti a aktivity; sústavnosti a postupnosti; trvácnosti a operatívnosti výsledkov."
@@ -635,6 +639,7 @@
 },
 
   "Otázka č. 22": {
+    "sumup": "Vyučovanie, vyučovacia jednotka, vyučovacia hodina a ich typy v hudobnom školstve; Fázy vyučovacieho procesu; Organizačné formy vyučovacieho procesu; Metódy vyučovacieho procesu",
     "Vyučovacia jednotka a hodina": {
       "Čo je vyučovacia hodina?": "Je to základná časová jednotka vyučovania, zvyčajne trvá 45 minút.",
       "Čo je vyučovacia jednotka?": "Je to súbor rôznych častí vyučovania, napr. viaceré hodiny alebo predmety.",
@@ -793,6 +798,7 @@
     }
   },
   "Otázka č. 23":{
+    "sumup": "Typy činností v rámci hudobných predmetov; Praktizovanie hudobných činností a hier v rámci výučby hudobných predmetov s využitím inovatívnych, aktivizujúcich a zážitkových metód výučby; Projektovanie výučby – postup; Príprava na vyučovanie.",
     "Typy hudobných činností": {
       "Aké sú hudobné činnosti?": "Hlasové, dychové, vokálne; Inštrumentálne; Hudobno-pohybové; Hudobno-dramatické; Hudobno-vizualizačné; Percepčné (počúvanie hudby).",
       "Aké sú nehudobné činnosti?": "Riešenie bežných tém, diskusia, reflexia, práca s textom, hry atď."
@@ -878,6 +884,7 @@
 },
 
   "Otázka č. 24": {
+    "sumup": "Diagnostikovanie a hodnotenie žiakov – vymedzenie pojmov, funkcie, metódy a typy; Diagnostikovanie, hodnotenie a ich predmety v hudobnom školstve vo všeobecnosti; Metódy diagnostikovania vedomostí z oblasti hudby; Metódy diagnostikovania hudobno-interpretačných a hudobno-improvizačných výkonov; Metódy diagnostikovania tvorivých produktov; Faktory ovplyvňujúce diagnostikovanie a hodnotenie výkonov a produktov žiaka; Kritériá posudzovania hudobno-interpretačných a hudobno-tvorivých výkonov a hudobno-tvorivých produktov",
     "Pojmy a funkcie diagnostikovania a hodnotenia": {
       "Čo je diagnostikovanie?": "Proces zisťovania stavu žiaka v rôznych oblastiach – od psychiky cez vedomosti až po schopnosti a postoje.",
       "Čo je hodnotenie?": "Posúdenie výsledkov výučby – prideľovanie známok, bodov, ústnych/písomných vyjadrení na základe diagnostikovania.",
@@ -1044,6 +1051,7 @@
 
 
   "Otázka č. 25": {
+    "sumup": "Učebné pomôcky a didaktická technika – vymedzenie pojmov, funkcie a typov v hudobnom školstve; Dostupné učebné materiály pre hudobné vzdelávanie na Slovensku a ich základné charakteristiky; Tvorba vlastných učebných materiálov pre potreby zatraktívnenia a skvalitnenia vyučovacieho procesu, jej možnosti a postupy; Výroba detských hudobných nástrojov. Možnosti využitia výpočtovej techniky a prezentačnej techniky pri tvorbe a aplikácii učebných materiálov vo vyučovaní  ",
     "Učebné pomôcky a didaktická technika": {
       "Čo sú materiálne didaktické prostriedky?": "Všetky predmety a veci, ktoré potrebujeme na realizáciu výučby, ako nástroje, noty, pomôcky.",
       "Ako sa delia didaktické prostriedky v hudobnom školstve?": "Učebné pomôcky: skutočné predmety, modely, zobrazenia, textové a notové, auditívne, audiovizuálne a kybernetické; Didaktická technika: základné a pomocné zariadenia, zobrazovacie a premietacie techniky, zvuková technika, IT technika.",
