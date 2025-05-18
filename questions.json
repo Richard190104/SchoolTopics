@@ -223,7 +223,7 @@
       "answer": "B"
     }
   ],
-  "Otázka č. 2":[
+  "Otázka č. 2 a 3":[
   {
     "topic": "Učiteľ hudby a legislatíva",
     "question": "Kto je učiteľ hudby podľa zákona?",
@@ -333,6 +333,118 @@
       "D": "Výber riaditeľov škôl"
     },
     "answer": "C"
+  }
+],
+"Otázka č. 4":[
+  {
+    "topic": "Základná terminológia",
+    "question": "Čo je pedagogika?",
+    "options": {
+      "A": "Veda o hudobnej tvorbe",
+      "B": "Veda o výchove a vzdelávaní v rôznych prostrediach",
+      "C": "Súbor techník učenia",
+      "D": "Len vyučovanie na školách"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Systém pedagogických vied",
+    "question": "Ktorá z nasledujúcich vied patrí medzi hraničné pedagogické vedy?",
+    "options": {
+      "A": "Teória výchovy",
+      "B": "Didaktika",
+      "C": "Pedagogická psychológia",
+      "D": "Primárna pedagogika"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Vzťahy medzi disciplínami",
+    "question": "Aký typ vzťahu označuje vzájomné ovplyvňovanie medzi vednými disciplínami?",
+    "options": {
+      "A": "Pomocný",
+      "B": "Závislý",
+      "C": "Vzájomný",
+      "D": "Žiadny"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Pedagogická psychológia",
+    "question": "Čomu sa venuje pedagogická psychológia?",
+    "options": {
+      "A": "Hudobným preferenciám žiakov",
+      "B": "Financovaniu školstva",
+      "C": "Psychickým aspektom učenia v školách a rodinách",
+      "D": "Manažmentu škôl"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Funkcie disciplín",
+    "question": "Ktorá funkcia didaktiky predpisuje hodnotenie výkonov?",
+    "options": {
+      "A": "Inštrumentálna",
+      "B": "Normatívna",
+      "C": "Prognostická",
+      "D": "Diagnostická"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Typy vyučovania",
+    "question": "Ktorý typ vyučovania umožňuje žiakovi objavovať poznatky aktívne?",
+    "options": {
+      "A": "Dogmatický",
+      "B": "Transmisívny",
+      "C": "Konštruktivistický",
+      "D": "Formalistický"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Humanizácia výučby",
+    "question": "Ktorý cieľ NIE JE typický pre humanizovanú výučbu?",
+    "options": {
+      "A": "Dôvera",
+      "B": "Strach z trestu",
+      "C": "Rešpekt",
+      "D": "Samostatnosť"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Učiteľstvo ako povolanie",
+    "question": "Prečo sa učiteľstvo považuje za povolanie s poslaním?",
+    "options": {
+      "A": "Učiteľ nemusí mať vzdelanie",
+      "B": "Odovzdáva kultúru a vedie novú generáciu",
+      "C": "Zahŕňa len prácu s knihami",
+      "D": "Ide o krátkodobé zamestnanie"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Systém pedagogických vied",
+    "question": "Čo patrí medzi aplikované pedagogické vedy?",
+    "options": {
+      "A": "Teória výchovy",
+      "B": "Voľnočasová pedagogika",
+      "C": "Filozofia výchovy",
+      "D": "Metodológia pedagogiky"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Funkcie disciplín",
+    "question": "Aká je funkcia výchovy podľa pedagogiky?",
+    "options": {
+      "A": "Zvyšuje fyzickú výkonnosť",
+      "B": "Prenos kultúry a socializácia",
+      "C": "Zabezpečuje zamestnanie",
+      "D": "Získava poznatky o spoločnosti"
+    },
+    "answer": "B"
   }
 ],
 
