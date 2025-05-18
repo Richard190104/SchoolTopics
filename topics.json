@@ -164,13 +164,13 @@
     "sumup": "2 ;Učiteľ hudby v školskom systéme na Slovensku; zákony a predpisy týkajúce sa pedagogických zamestnancov; Typy pedagogických a odborných zamestnancov z pohľadu legislatívy – kariérne stupne, kariérne pozície, typy vedúcich pedagogických zamestnancov; Zodpovednosť, kompetencie a povinnosti riaditeľa školy; Vzdelávanie učiteľov hudby a kariérny postup;;3; Pracovné triedy a platové triedy (tarify) pedagogických zamestnancov; Zloženie platu a možnosti odmeňovania pedagogického zamestnanca; Pracovný čas a úväzok pedagogického zamestnanca; Práca nadčas, náhradné voľno a náhradné vyučovanie; Zmluva, dohoda a náplň práce; Pracovné voľno, dovolenka a prekážky v práci",
     "Učiteľ hudby a legislatíva": {
       "Kto je učiteľ hudby podľa zákona?": "Pedagogický zamestnanec, ktorý pôsobí ako učiteľ alebo korepetítor v rôznych typoch škôl.",
-      "Aké zákony sa týkajú učiteľov hudby?": "Zákon 138/2019; Vyhláška 173/2023; Zákon 245/2008; Zákonník práce; ďalšie vyhlášky a nariadenia vlády.",
+      "Aké zákony sa týkajú učiteľov hudby?": "Zákon 138/2019 o pedagogických zamestnancoch; Vyhláška 173/2023 o kvalifikačných predpokladoch pedagogických zamestnancov a odborných zamestnancov; Zákon 245/2008 o výchove a vzdelávaní (školský zákon); Zákonník práce; 324/2008 Z. z. o základnej umeleckej škole; 339/2023 Z. z. o pedagogickej dokumentácii a ďalšej dokumentácii; ďalšie vyhlášky a nariadenia vlády.",
       "Kedy získava učiteľ kvalifikáciu pre ZUŠ?": "Po konzervatóriu alebo bakalárskom štúdiu a doplňujúcom pedagogickom štúdiu.",
       "Kedy môže učiť aj na konzervatóriu?": "Po magisterskom alebo doktorandskom štúdiu a DPŠ."
     },
 
     "Kariérne stupne a pozície učiteľov": {
-      "Aké sú kariérne stupne učiteľa hudby?": "Začínajúci; Samostatný; S prvou atestáciou; S druhou atestáciou.",
+      "Aké sú kariérne stupne učiteľa hudby?": "Začínajúci (prvý pracovný pomer); Samostatný (ukončil adaptačné vzdelávanie, alebo spĺňa niektorú z ďalších podmienok stanovených v zákone o PZ); S prvou atestáciou ( vykoná prvú atestáciu, rigoróznu skúšku); S druhou atestáciou (zamestnanec s prvou atestáciou vykoná druhú atestáciu alebo absolvoval doktorandské štúdium)",
       "Aké sú kariérne pozície učiteľov?": "Uvádzajúci učiteľ; Triedny učiteľ; Vedúci predmetovej komisie; Vedúci odboru; Vedúci oddelenia.",
       "Kto môže byť vedúci učiteľ?": "Ten, kto má minimálne 1. atestáciu a splní podmienky podľa zákona."
     },
@@ -179,30 +179,38 @@
       "Kto menuje riaditeľa školy?": "Zriaďovateľ na návrh rady školy.",
       "Aké sú povinnosti riaditeľa?": "Dodržiavať legislatívu, plánovať vzdelávanie, hodnotiť zamestnancov, hospodáriť s rozpočtom.",
       "Aké má kompetencie riaditeľ?": "Rozhoduje o odmenách, prijímaní žiakov, individuálnom vzdelávaní a deleguje úlohy.",
-      "Aké dokumenty predkladá zriaďovateľovi?": "Správy, návrhy na triedy, odbory, rozpočet, koncepciu rozvoja školy."
+      "Aké dokumenty predkladá zriaďovateľovi?": "Správy, návrhy na triedy, odbory, rozpočet, koncepciu rozvoja školy.",
+      "Zástupca riaditeľa": "ide o vedúceho zamestnanca, verejného činiteľa, ktorého do funkcie menuje riaditeľ školy, pomáha riaditeľovi zabezpečovať chod školskej inštitúcie a v jeho neprítomnosti ho vo funkcii zastupuje,"
     },
 
     "Vzdelávanie učiteľov hudby": {
       "Aké typy vzdelávania učiteľov existujú?": "Kvalifikačné (DPŠ); Funkčné; Špecializačné; Inovačné; Aktualizačné; Celoživotné.",
       "Kto zabezpečuje vzdelávanie?": "NIVAM; pedagogické fakulty; právnické osoby.",
       "Kto sa musí vzdelávať?": "Každý učiteľ – buď kvôli získaniu kvalifikácie, alebo pre profesijný rozvoj.",
-      "Ako prebieha atestácia?": "Podanie portfólia, obhajoba a skúška – získaním sa zvyšuje platová trieda."
+      "Ako prebieha atestácia?": "Podanie portfólia, obhajoba a skúška – získaním sa zvyšuje platová trieda.",
+      "Čo je kvalifikačný predpoklad pre učiteľa?": " absolvovanie:; Konzervatória alebo bakalárskeho stupňa VŠ v príslušnom odbore + DPŠ (pôsobnosť len v ZUŠ); Magisterského alebo doktorandského stupňa VŠ v príslušnom odbore + doplňujúceho pedagogického štúdia (pôsobnosť na strednej",
+      "Aké sú povinnosti zamestnanca?": "Zamestnanec, ktorý vstupuje do pracovného pomeru bez kvalifikácie, si kvalifikáciu v zmysle zákona musí dorobiť;Zamestnanec je povinný sústavne si prehlbovať kvalifikáciu na výkon práce dohodnutej v pracovnej zmluve;Zamestnávateľ je oprávnený vám uložiť povinnosť vzdelávať sa!;Zamestnávateľ je povinný pravidelne zabezpečovať aktualizačné vzdelávanie svojich zamestnancov!;Zamestnanec má zákonný nárok na profesijný rozvoj!"
+
     },
 
     "Platové a pracovné podmienky": {
       "Do akej pracovnej triedy patria učitelia ZUŠ?": "Do pracovnej triedy jeden.",
       "Aké sú platové triedy?": "Od 4 do 9.",
-      "Z čoho sa skladá funkčný plat?": "Z tarifného platu a príplatkov.",
+      "Z čoho sa skladá funkčný plat?": "Z tarifného platu, príplatkov, benefitov, nadčasov a odmien.",
+      "Aké sú príplatky?": "Za riadenie, za prax, za prácu nadčas, za prácu v noci, za profesíjny rozvoj, osobný príplatok",
       "Aké benefity môže učiteľ získať?": "Dôchodkové, rekreačné, stravovacie, kultúrne, flexibilný čas, nájomné bývanie a iné.",
+      "Môže učiteľ mať nadčasy?": "Áno, ale len so súhlasom; max. 8 hodín týždenne.",
       "Koľko je pracovný čas učiteľa?": "37,5 hodiny týždenne; z toho 23 hodín môže byť výučba.",
-      "Čo je úväzok a aké sú jeho typy?": "Plný; skrátený; polovičný; čiastočný.",
-      "Môže učiteľ mať nadčasy?": "Áno, ale len so súhlasom; max. 8 hodín týždenne."
+      "Čo je úväzok a aké sú jeho typy?": "Plný; skrátený; polovičný; čiastočný."
+      
     },
 
     "Pracovné zmluvy a náplň práce": {
       "Aké typy zmlúv existujú?": "Na dobu určitú; na dobu neurčitú.",
       "Čo je dohoda a kedy sa používa?": "Na krátkodobé úlohy, bez nutnosti spĺňať kvalifikáciu.",
-      "Čo je súčasťou pracovnej zmluvy?": "Náplň práce a platový dekrét."
+      "Čo je súčasťou pracovnej zmluvy?": "Náplň práce a platový dekrét.",
+      "Z čoho pozostáva rozvrh pracovného času?": "Z vyučovacích hodín, porád, konzultácií, prípravy na vyučovanie a iných činností.",
+      "Na čo majú zamestnanci nárok?": "Na pracovné voľno, dovolenku, nepretržitý odpočinok (sobota a nedeľa)"
     },
 
     "Inštitúcie v školstve": {
@@ -267,7 +275,17 @@
             { "name": "Platové triedy 4–9" },
             { "name": "Funkčný plat" },
             { "name": "Pracovný čas" },
-            { "name": "Benefity" },
+            { "name": "Benefity",
+              "children": [
+                { "name": "Dôchodkové" },
+                { "name": "Rekreačné" },
+                { "name": "Vzdelávacie" },
+                { "name": "Kultúrne" },
+                { "name": "Flexibilný čas" },
+                { "name": "Stravovacie" }
+              ]
+            },
+          
             { "name": "Nadčasy" }
           ]
         },
