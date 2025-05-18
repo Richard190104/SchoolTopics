@@ -159,6 +159,137 @@
       ]
     }
   },
+  
+  "Otázka č. 2": {
+    "Učiteľ hudby a legislatíva": {
+      "Kto je učiteľ hudby podľa zákona?": "Pedagogický zamestnanec, ktorý pôsobí ako učiteľ alebo korepetítor v rôznych typoch škôl.",
+      "Aké zákony sa týkajú učiteľov hudby?": "Zákon 138/2019; Vyhláška 173/2023; Zákon 245/2008; Zákonník práce; ďalšie vyhlášky a nariadenia vlády.",
+      "Kedy získava učiteľ kvalifikáciu pre ZUŠ?": "Po konzervatóriu alebo bakalárskom štúdiu a doplňujúcom pedagogickom štúdiu.",
+      "Kedy môže učiť aj na konzervatóriu?": "Po magisterskom alebo doktorandskom štúdiu a DPŠ."
+    },
+
+    "Kariérne stupne a pozície učiteľov": {
+      "Aké sú kariérne stupne učiteľa hudby?": "Začínajúci; Samostatný; S prvou atestáciou; S druhou atestáciou.",
+      "Aké sú kariérne pozície učiteľov?": "Uvádzajúci učiteľ; Triedny učiteľ; Vedúci predmetovej komisie; Vedúci odboru; Vedúci oddelenia.",
+      "Kto môže byť vedúci učiteľ?": "Ten, kto má minimálne 1. atestáciu a splní podmienky podľa zákona."
+    },
+
+    "Riaditeľ školy": {
+      "Kto menuje riaditeľa školy?": "Zriaďovateľ na návrh rady školy.",
+      "Aké sú povinnosti riaditeľa?": "Dodržiavať legislatívu, plánovať vzdelávanie, hodnotiť zamestnancov, hospodáriť s rozpočtom.",
+      "Aké má kompetencie riaditeľ?": "Rozhoduje o odmenách, prijímaní žiakov, individuálnom vzdelávaní a deleguje úlohy.",
+      "Aké dokumenty predkladá zriaďovateľovi?": "Správy, návrhy na triedy, odbory, rozpočet, koncepciu rozvoja školy."
+    },
+
+    "Vzdelávanie učiteľov hudby": {
+      "Aké typy vzdelávania učiteľov existujú?": "Kvalifikačné (DPŠ); Funkčné; Špecializačné; Inovačné; Aktualizačné; Celoživotné.",
+      "Kto zabezpečuje vzdelávanie?": "NIVAM; pedagogické fakulty; právnické osoby.",
+      "Kto sa musí vzdelávať?": "Každý učiteľ – buď kvôli získaniu kvalifikácie, alebo pre profesijný rozvoj.",
+      "Ako prebieha atestácia?": "Podanie portfólia, obhajoba a skúška – získaním sa zvyšuje platová trieda."
+    },
+
+    "Platové a pracovné podmienky": {
+      "Do akej pracovnej triedy patria učitelia ZUŠ?": "Do pracovnej triedy jeden.",
+      "Aké sú platové triedy?": "Od 4 do 9.",
+      "Z čoho sa skladá funkčný plat?": "Z tarifného platu a príplatkov.",
+      "Aké benefity môže učiteľ získať?": "Dôchodkové, rekreačné, stravovacie, kultúrne, flexibilný čas, nájomné bývanie a iné.",
+      "Koľko je pracovný čas učiteľa?": "37,5 hodiny týždenne; z toho 23 hodín môže byť výučba.",
+      "Čo je úväzok a aké sú jeho typy?": "Plný; skrátený; polovičný; čiastočný.",
+      "Môže učiteľ mať nadčasy?": "Áno, ale len so súhlasom; max. 8 hodín týždenne."
+    },
+
+    "Pracovné zmluvy a náplň práce": {
+      "Aké typy zmlúv existujú?": "Na dobu určitú; na dobu neurčitú.",
+      "Čo je dohoda a kedy sa používa?": "Na krátkodobé úlohy, bez nutnosti spĺňať kvalifikáciu.",
+      "Čo je súčasťou pracovnej zmluvy?": "Náplň práce a platový dekrét."
+    },
+
+    "Inštitúcie v školstve": {
+      "Čo je NIVAM a čo robí?": "Spravuje ŠVP, monitoruje vzdelávanie, poskytuje metodiky a školenia.",
+      "Čo robí Štátna školská inšpekcia?": "Dohliada na kvalitu a rieši sťažnosti.",
+      "Čo rieši Inšpektorát práce?": "Pracovné spory, sťažnosti, dodržiavanie Zákonníka práce."
+    },
+
+    "summary": {
+      "name": "TITLE Učiteľ hudby v školskom systéme",
+      "children": [
+        {
+          "name": "TITLE Legislatíva a kvalifikácia",
+          "children": [
+            { "name": "Zákony: 138/2019; 245/2008; 173/2023" },
+            { "name": "Kvalifikácia pre ZUŠ" },
+            { "name": "Kvalifikácia pre konzervatórium" }
+          ]
+        },
+        {
+          "name": "TITLE Kariéra učiteľa",
+          "children": [
+            {
+              "name": "Kariérne stupne",
+              "children": [
+                { "name": "Začínajúci" },
+                { "name": "Samostatný" },
+                { "name": "1. atestácia" },
+                { "name": "2. atestácia" }
+              ]
+            },
+            {
+              "name": "Kariérne pozície",
+              "children": [
+                { "name": "Uvádzajúci učiteľ" },
+                { "name": "Triedny učiteľ" },
+                { "name": "Vedúci komisie" },
+                { "name": "Vedúci odboru" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TITLE Riaditeľ školy",
+          "children": [
+            { "name": "Zodpovednosti" },
+            { "name": "Kompetencie" },
+            { "name": "Povinné dokumenty" }
+          ]
+        },
+        {
+          "name": "TITLE Vzdelávanie učiteľov",
+          "children": [
+            { "name": "Typy vzdelávania" },
+            { "name": "Získanie atestácie" },
+            { "name": "Inštitúcie: NIVAM, KU" }
+          ]
+        },
+        {
+          "name": "TITLE Pracovné podmienky",
+          "children": [
+            { "name": "Platové triedy 4–9" },
+            { "name": "Funkčný plat" },
+            { "name": "Pracovný čas" },
+            { "name": "Benefity" },
+            { "name": "Nadčasy" }
+          ]
+        },
+        {
+          "name": "TITLE Zmluvy a náplň práce",
+          "children": [
+            { "name": "Zmluva: určitá/neistá" },
+            { "name": "Dohody" },
+            { "name": "Náplň a platový dekrét" }
+          ]
+        },
+        {
+          "name": "TITLE Inštitúcie v školstve",
+          "children": [
+            { "name": "NIVAM" },
+            { "name": "Štátna školská inšpekcia" },
+            { "name": "Inšpektorát práce" }
+          ]
+        }
+      ]
+    }
+  },
+
   "Otázka č. 19": {
     "sumup": "teória vzdelávania (didaktika) – základná charakteristika, terminológia, druhy didaktík, súčasti a systém didaktiky; klasifikácia teórií v didaktike; teórie učenia verzus teórie učenia sa; prepojenie výchovy a vzdelávania vo vyučovacom procese; transmisia vs. konštruktivizmus v súčasnej didaktike; typy vyučovacieho procesu; humanizácia vyučovacieho procesu. pedagogické dokumenty. ",
     "Funkcie a význam výchovno-vzdelávacích disciplín": {
