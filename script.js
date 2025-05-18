@@ -17,6 +17,11 @@ function displayTopics(topics) {
       const sumupElement = document.createElement('div');
       sumupElement.className = 'sumup';
       sumupElement.innerHTML = questions.replace(/;/g, '<br>');
+      sumupElement.style.textAlign = 'center';
+      sumupElement.style.marginBottom = '20px';  
+      sumupElement.style.fontSize = '20px';
+      sumupElement.style.fontWeight = 'bold';
+      
       container.appendChild(sumupElement);
     }
     if (category !== 'summary' && category !== 'sumup') {
@@ -132,21 +137,27 @@ function drawConnectors() {
     });
   });
 }
+      createVoiceElement()
+      const diagramContainer = document.getElementById('contentdiv');
+      renderBlockDiagram(topics.summary, diagramContainer);
+      drawConnectors();
+      var displayed = true;
 
-      const map = document.createElement('div');
-      map.className = 'choiceButton';
-      map.innerHTML = '<h2>Dnes prehrame hokej ked nekliknes sem</h2>';
-     
-      document.querySelector(".choices").appendChild(map);
-   
-      map.addEventListener('click', () => {
-        createVoiceElement()
-          const diagramContainer = document.getElementById('contentdiv');
+      document.body.querySelector(".mapa").addEventListener('click', () => {
+        const diagramContainer = document.getElementById('contentdiv');
+        console.log(document.body.querySelector(".tree-level"))
+        if (!displayed) {
+          diagramContainer.querySelectorAll('.tree-level').forEach(el => el.remove());
           renderBlockDiagram(topics.summary, diagramContainer);
           drawConnectors();
-      });
-        
-     
+          displayed = true;
+        }
+        else{
+          diagramContainer.querySelectorAll('.tree-level').forEach(el => el.remove());
+          displayed = false;
+        }
+       
+  });
        
     }
   });
@@ -188,11 +199,9 @@ function createVoiceElement(){
 
             audio.addEventListener('loadedmetadata', () => {
               timeline.max = audio.duration;
-              timeDisplay.textContent = `0:00 / ${Math.floor(audio.duration / 60)}:${('0' + Math.floor(audio.duration % 60)).slice(-2)}`;
             });
             audio.addEventListener('timeupdate', () => {
               timeline.value = audio.currentTime;
-              timeDisplay.textContent = `${Math.floor(audio.currentTime / 60)}:${('0' + Math.floor(audio.currentTime % 60)).slice(-2)} / ${Math.floor(audio.duration / 60)}:${('0' + Math.floor(audio.duration % 60)).slice(-2)}`;
             });
 
             timeline.addEventListener('input', () => {
@@ -254,6 +263,26 @@ getTopics().then(topics => {
       if (typeof drawConnectors === 'function') drawConnectors();
     });
   });
-  document.body.querySelector(".buttonDiv").addEventListener('click', () => {
-    window.location.href = 'test.html';
+
+  if(document.body.querySelector(".buttonDiv")){
+    document.body.querySelector(".buttonDiv").addEventListener('click', () => {
+        window.location.href = 'test.html';
+      });
+  }
+  
+
+  document.body.querySelector(".text-otazky").addEventListener('click', () => {
+      document.body.querySelector(".sumup").classList.toggle('visible');
   });
+
+  document.body.querySelector(".pojmy").addEventListener('click', () => {
+      document.querySelectorAll('.category').forEach(el => {
+        el.classList.toggle('visible');
+      });
+  });
+
+    document.body.querySelector(".podcast").addEventListener('click', () => {
+      document.body.querySelector("#audio-player-wrapper").classList.toggle('visible');
+  });
+
+
