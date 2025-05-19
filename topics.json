@@ -1727,7 +1727,7 @@
       "Diagnostické metódy": "Netestové – rozhovor, pozorovanie, rozbor činnosti, prirodzený experiment; Testové – inteligenčné testy, štandardizované dotazníky, projekčné techniky; Sociometria – zisťovanie vzťahov v skupine; Štatistické metódy; Životopis."
     },
     "summary": {
-      "name": "Psychológia – základné oblasti a metódy",
+      "name": "TITLE Psychológia – základné oblasti a metódy",
       "children": [
         {
           "name": "Predmet psychológie",
@@ -1747,7 +1747,7 @@
           ]
         },
         {
-          "name": "Teoretické odbory",
+          "name": "TITLE Teoretické odbory",
           "children": [
             { "name": "Biologická psychológia" },
             { "name": "Všeobecná psychológia" },
@@ -1757,7 +1757,7 @@
           ]
         },
         {
-          "name": "Praktické odbory",
+          "name": "TITLE Praktické odbory",
           "children": [
             { "name": "Klinická psychológia" },
             { "name": "Psychológia zdravia" },
@@ -1769,10 +1769,10 @@
           ]
         },
         {
-          "name": "Metódy psychológie",
+          "name": "TITLE Metódy psychológie",
           "children": [
             {
-              "name": "Výskumné metódy",
+              "name": "TITLE Výskumné metódy",
               "children": [
                 { "name": "Pozorovanie" },
                 { "name": "Experiment" },
@@ -1788,7 +1788,7 @@
               ]
             },
             {
-              "name": "Diagnostické metódy",
+              "name": "TITLE Diagnostické metódy",
               "children": [
                 { "name": "Netestové metódy" },
                 {
