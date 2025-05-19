@@ -1683,63 +1683,49 @@
       ]
     }
   },
-      "Otázka č. 31":
-    {
-  "Psychológia": {
-    "Definícia": "Psychológia je veda, ktorá študuje ľudské chovanie, mentálne a telesné procesy a ich vzájomné vzťahy a interakcie. Zaoberá sa štúdiom prežívania a správania.",
+  
+
+    
+ 
+
+    
+  "Otázka č. 31": {
+     "Psychológia": {
+      "Definícia": "Psychológia je veda, ktorá študuje ľudské chovanie, mentálne a telesné procesy a ich vzájomné vzťahy a interakcie. Zaoberá sa štúdiom prežívania a správania."
+    },
     "Predmet skúmania psychológie": {
-      "Prežívanie": "Súhrnný názov pre vnútorné, subjektívne psychické procesy a stavy (vnemy, predstavy, emócie, rozhodovanie, rozpamätávanie). Rozlišujeme vedomé a nevedomé prežívanie. Navonok sa prejavuje v správaní.",
-      "Správanie": "Súbor vonkajších prejavov (činnosti, pohyby, reakcie, reč, výrazy). Rozlišujeme: expresívne (vyjadruje skutočné pocity) a adaptívne (prispôsobené situácii).",
+      "Prežívanie": "Súhrnný názov pre vnútorné, subjektívne psychické procesy a stavy (vnemy, predstavy, emócie, rozhodovanie, rozpamätávanie); rozlišujeme vedomé a nevedomé prežívanie; navonok sa prejavuje v správaní.",
+      "Správanie": "Súbor vonkajších prejavov (činnosti, pohyby, reakcie, reč, výrazy); rozlišujeme expresívne (vyjadruje skutočné pocity) a adaptívne (prispôsobené situácii).",
       "Psychika (myseľ)": "Súhrn duševných dejov počas celého života človeka.",
-      "Vzťah prežívania a správania": "Obe sú prejavom osobnosti v interakcii s prostredím a slúžia na jej poznanie."
+      "Vzťah prežívania a správania": "Prežívanie a správanie sú prejavom osobnosti s jej individuálnymi vlastnosťami vo vzťahu k prostrediu; sú východiskom k poznaniu človeka."
     },
     "Historický vývoj predmetu psychológie": {
-      "Psychológia ako veda o duši": "Od 5. storočia pred naším letopočtom (Platón, Aristoteles), cez 13. storočie (Tomáš Akvinský) až do 19. storočia. Pod vplyvom pozitivizmu a prírodných vied nastalo obdobie psychológie bez duše.",
-      "Psychológia ako veda o vedomí": "Psychológia sa zameriava na vedomie ako predmet skúmania.",
-      "Psychológia ako veda o správaní": "Behaviorizmus – psychológia sa sústredí na pozorovateľné správanie.",
-      "Psychológia ako veda o prežívaní a správaní": "Moderné chápanie psychológie zahŕňa mentálne procesy aj správanie."
+      "Psychológia ako veda o duši": "Od Platóna a Aristotela (5. storočie pred n. l.), cez Tomáša Akvinského (13. storočie) až do 19. storočia; pod vplyvom pozitivizmu a prírodných vied vzniká psychológia bez duše.",
+      "Psychológia ako veda o vedomí": "Zameranie na vedomie ako objekt vedeckého skúmania.",
+      "Psychológia ako veda o správaní": "Behaviorizmus – zameranie výlučne na pozorovateľné správanie.",
+      "Psychológia ako veda o prežívaní a správaní": "Súčasné chápanie psychológie – skúma mentálne procesy aj správanie."
     },
-    "Delenie psychologických odborov": {
-      "Teoretické (akademické) odbory": {
-        "Biologická psychológia": "Skúma vzťahy medzi telesnými procesmi a psychickým dianím.",
-        "Všeobecná psychológia": "Zaoberá sa základnými psychickými procesmi duševne zdravého človeka (poznávanie, motivácia, emócie).",
-        "Vývojová psychológia": "Skúma vývoj jedinca počas života. Sleduje vplyv dedičnosti a prostredia na psychický vývoj.",
-        "Psychológia osobnosti": "Študuje rozdiely medzi ľuďmi, jedinečné psychické vlastnosti ovplyvňujúce osobnosť.",
-        "Sociálna psychológia": "Zaoberá sa vplyvom spoločenských faktorov na psychiku. Skúma správanie v skupinách."
-      },
-      "Praktické (aplikované) odbory": {
-        "Klinická psychológia": "Diagnostika, liečenie a prispôsobenie osôb s psychickými poruchami.",
-        "Psychológia zdravia": "Skúma vzťahy medzi správaním a telesnou/psychickou kondíciou. Podporuje zdravý životný štýl.",
-        "Poradenská psychológia": "Pomoc s psychickými problémami v škole, práci, rodine pomocou psychoterapie.",
-        "Pedagogická psychológia": "Skúma učenie a vyučovanie, tvorí učebné metódy. Sleduje vplyv motivácie, inteligencie a podmienok.",
-        "Psychológia práce": "Zaoberá sa podmienkami práce a ich vplyvom na výkon. Skúma vnútorné a vonkajšie faktory.",
-        "Forézna (súdna) psychológia": "Štúdium zločinnosti, psychológia páchateľov, tvorba súdnych posudkov.",
-        "Psychológia športu": "Zlepšovanie športového výkonu, práca s predštartovými stavmi, vplyv pohybu na psychiku."
-      }
+    "Teoretické (akademické) odbory": {
+      "Biologická psychológia": "Skúma vzťahy medzi telesnými procesmi a psychickým dianím.",
+      "Všeobecná psychológia": "Zaoberá sa základnými psychickými procesmi duševne zdravého človeka (poznávanie, motivácia, emócie).",
+      "Vývojová psychológia": "Skúma vývoj jedinca počas života a vplyv dedičnosti a prostredia na psychický vývoj.",
+      "Psychológia osobnosti": "Študuje rozdiely medzi ľuďmi a jedinečné psychické vlastnosti ovplyvňujúce osobnosť.",
+      "Sociálna psychológia": "Zaoberá sa vplyvom spoločenských faktorov na psychiku a správanie človeka v skupinách."
+    },
+    "Praktické (aplikované) odbory": {
+      "Klinická psychológia": "Diagnostika, liečba a sociálne prispôsobenie osôb s psychickými poruchami.",
+      "Psychológia zdravia": "Skúma vzťah medzi správaním, myslením a telesnou/psychickou kondíciou; podporuje zásady zdravého života.",
+      "Poradenská psychológia": "Pomáha pri riešení psychických problémov v rôznych oblastiach života (škola, práca, rodina).",
+      "Pedagogická psychológia": "Skúma učenie a vyučovanie, učebné metódy, vplyv motivácie a sociálnych podmienok na učenie.",
+      "Psychológia práce": "Analyzuje podmienky práce a ich vplyv na výkon – vnútorné (motivácia, schopnosti) aj vonkajšie (prostredie).",
+      "Forézna psychológia": "Študuje zločinnosť, psychológiu páchateľov a vypracúva súdnoznalecké posudky.",
+      "Psychológia športu": "Zameraná na zlepšenie športového výkonu, zvládanie stresu a vplyv kolektívu a pohybu na psychiku."
     },
     "Metódy psychológie": {
-      "Definícia metódy": "Metóda je cielený, plánovaný a premyslený postup, ktorým sa získavajú poznatky o javoch.",
-      "Metódy psychologického výskumu": {
-        "Pozorovanie": "Extrospekcia (pozorovanie druhých), introspekcia (sebapozorovanie).",
-        "Experiment": "Riadené sledovanie účinku premenných na správanie alebo prežívanie.",
-        "Rozbor slovných prejavov": {
-          "Rozhovor": "Exploratívna metóda zisťovania informácií.",
-          "Dotazník": "Písomné zisťovanie názorov, postojov, vlastností.",
-          "Biografická metóda": "Štúdium denníkov, listov.",
-          "Rozbor výsledkov činnosti": "Analýza produktov činnosti (napr. výkresy, písomky)."
-        }
-      },
-      "Psychologické diagnostické metódy": {
-        "Netestové metódy": "Rozhovor, pozorovanie, rozbor činností a písomných prejavov, prirodzený experiment.",
-        "Testové metódy": {
-          "Inteligenčné testy": "Meranie úrovne intelektu.",
-          "Štandardizované dotazníky": "Zistenie osobnostných charakteristík.",
-          "Projekčné techniky": "Voľné, symbolické prejavy jedinca (napr. Rorschachov test)."
-        },
-        "Sociometria": "Sociometrický test zisťuje vzťahy v skupine (preferencie a odmietania).",
-        "Štatistické metódy": "Spracovanie a interpretácia údajov.",
-        "Životopis": "Analýza osobnej histórie jedinca."
-      }
+      "Metóda": "Cielený, plánovaný a premyslený vedecký postup na získanie poznatkov o javoch.",
+      "Metódy výskumu": "Pozorovanie – extrospekcia a introspekcia; experiment; rozbor slovných prejavov – rozhovor, dotazník, biografická metóda, rozbor výsledkov činnosti.",
+      "Diagnostické metódy": "Netestové – rozhovor, pozorovanie, rozbor činnosti, prirodzený experiment; Testové – inteligenčné testy, štandardizované dotazníky, projekčné techniky; Sociometria – zisťovanie vzťahov v skupine; Štatistické metódy; Životopis."
+    }
     },
     "summary": {
       "name": "Psychológia – základné oblasti a metódy",
@@ -1824,7 +1810,15 @@
       ]
     }
   }
-}
-}
+
+
+
+
+
+
+
+    
+
+
 
 
