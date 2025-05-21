@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tvorivosť v škole</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #4a90e2;
+            color: white;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #4a90e2;
+            margin-top: 30px;
+            cursor: pointer;
+            user-select: none;
+            transition: background 0.2s;
+            padding: 5px 0;
+            display: flex;
+            align-items: center;
+        }
+        h2.expanded {
+            background: #e6f0fa;
+        }
+        .arrow {
+            font-size: 1.1em;
+            margin-right: 8px;
+            transition: transform 0.2s;
+            display: inline-block;
+            width: 1.2em;
+            text-align: center;
+        }
+        h2.expanded .arrow {
+            transform: rotate(90deg);
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .toggle {
+            cursor: pointer;
+            font-weight: bold;
+            color: #4a90e2;
+            margin: 10px 0;
+        }
+        .content {
+            display: none;
+            margin-left: 15px;
+        }
+        .section-content {
+            display: none;
+            margin-top: 10px;
+        }
+        .section-content.expanded {
+            display: block;
+        }
+        .emoji {
+            font-size: 1.4em;
+            margin-right: 8px;
+        }
+        .img-icon {
+            width: 28px;
+            height: 28px;
+            vertical-align: middle;
+            margin-right: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🧠 Tvorivosť v škole</h1>
+    </header>
+    <div class="container">
+
+        <div class="section">
+            <h2 onclick="toggleSectionContent(this)">
+                <span class="arrow">&#9654;</span>
+                <span class="emoji">💡</span>I. Vymedzenie pojmu a charakteristika tvorivosti
+            </h2>
+            <div class="section-content">
+                <ul>
+                    <li><strong>M. Zelina (1990):</strong> interakcia subjektu s objektom → subjekt mení svet, vytvára nové, užitočné a významné hodnoty.</li>
+                    <li><strong>L. Mihálik (1988):</strong> schopnosť, ktorá prekonáva stereotypy, prináša nové riešenia, spája reprodukciu s tvorbou, rozširuje poznanie.</li>
+                    <li><strong>Žák (2004):</strong> Schopnosť (predstavivosť, kombinovanie), postoj (otvorenosť, ochota riskovať), proces (systematickosť aj improvizácia).</li>
+                </ul>
+                <div class="toggle" onclick="toggleSection(this)">⚙️ Fázy tvorivého procesu</div>
+                <div class="content">
+                    <ul>
+                        <li>Preparácia – zber info, osvojenie stratégií <span class="emoji">📚</span></li>
+                        <li>Inkubácia – podvedomé zrenie <span class="emoji">💭</span></li>
+                        <li>Iluminácia – "osvietenie" <span class="emoji">✨</span></li>
+                        <li>Verifikácia – overenie v praxi <span class="emoji">✅</span></li>
+                    </ul>
+                </div>
+                <p><strong>Znaky a kritériá tvorivosti:</strong></p>
+                <ul>
+                    <li>Fluencia – množstvo nápadov <span class="emoji">🌊</span></li>
+                    <li>Flexibilita – rozmanitosť nápadov <span class="emoji">🤹</span></li>
+                    <li>Originalita – výnimočnosť riešení <span class="emoji">🌟</span></li>
+                    <li>Užitočnosť – praktická hodnota nápadu <span class="emoji">🛠️</span></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 onclick="toggleSectionContent(this)">
+                <span class="arrow">&#9654;</span>
+                <span class="emoji">🧒🎨</span>II. Tvorivé myslenie a jeho rozvoj u detí
+            </h2>
+            <div class="section-content">
+                <p><strong>Vlastnosti tvorivého myslenia:</strong></p>
+                <ul>
+                    <li>Vysoká motivácia, vytrvalosť, zodpovednosť <span class="emoji">🏅</span></li>
+                    <li>Schopnosť inšpirovať sa rôznymi podnetmi <span class="emoji">🌈</span></li>
+                    <li>Spájanie poznatkov z rôznych odborov <span class="emoji">🔗</span></li>
+                    <li>Odmietanie stereotypov, nezávislosť na autoritách <span class="emoji">🚀</span></li>
+                    <li>Hľadanie variantných riešení, originalita <span class="emoji">🧩</span></li>
+                    <li>Snaha nájsť nové umelecké dielo, nový postup <span class="emoji">🎭</span></li>
+                    <li>Zmysel pre eleganciu riešení <span class="emoji">🎼</span></li>
+                </ul>
+
+                <p><strong>Rozvoj tvorivého myslenia:</strong></p>
+                <ul>
+                    <li>Podnecovať deti k samostatnému riešeniu problémov <span class="emoji">🤔</span></li>
+                    <li>Nepreferovať pamäťové osvojovanie, ale pochopenie <span class="emoji">🔍</span></li>
+                    <li>Zdôrazniť divergentné myslenie, diskusiu a argumentáciu <span class="emoji">💬</span></li>
+                </ul>
+
+                <p><strong>Zásady podľa Fichnovej – Szobiovej:</strong></p>
+                <ol>
+                    <li>Nehodnotiť skúšobne – namiesto kritiky povzbudzovať <span class="emoji">👍</span></li>
+                    <li>Dobrovoľnosť a hravosť úloh <span class="emoji">🎲</span></li>
+                    <li>Bezpečné prostredie <span class="emoji">🛡️</span></li>
+                    <li>Humor bez zosmiešňovania <span class="emoji">😄</span></li>
+                    <li>Potešenie z hry <span class="emoji">🎉</span></li>
+                    <li>Pochvala aj za snahu <span class="emoji">👏</span></li>
+                    <li>Hra ako forma učenia <span class="emoji">🧩</span></li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="section">
+             <h2 onclick="toggleSectionContent(this)">
+                <span class="arrow">&#9654;</span>
+                <span class="emoji">🧒🎨</span>III. Metódy tvorivého vyučovania
+            </h2>
+           
+            <div class="section-content">
+                <p><strong>Lernerova klasifikácia:</strong></p>
+                <ul>
+                    <li>Reproduktívne: informačno-receptívna, reproduktívna <span class="emoji">📖</span></li>
+                    <li>Produktívne: heuristická, výskumná <span class="emoji">🔬</span></li>
+                    <li>Problémový výklad: spája hotové poznatky s tvorivosťou <span class="emoji">🧠</span></li>
+                </ul>
+                <p><strong>Aktivizačné metódy:</strong></p>
+                <ul>
+                    <li>Problémové vyučovanie – 7 fáz riešenia problému <span class="emoji">🕵️‍♂️</span></li>
+                    <li>Hra – sprostredkúva emócie, zážitky, vedomosti <span class="emoji">🎲</span></li>
+                    <li>Diskusné metódy – učia komunikácii a vnímaniu <span class="emoji">🗣️</span></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 onclick="toggleSectionContent(this)">
+                <span class="arrow">&#9654;</span>
+                <span class="emoji">👩‍🏫🌈</span>IV. Tvorivý učiteľ a klíma v triede
+            </h2>
+            <div class="section-content">
+                <p><strong>Požiadavky na učiteľa:</strong></p>
+                <ul>
+                    <li>Vedieť o tvorivosti, rešpektovať osobnosť žiakov <span class="emoji">🤝</span></li>
+                    <li>Motivácia a záujem o rozvoj tvorivosti detí <span class="emoji">❤️</span></li>
+                    <li>Práca so záujmami, priateľmi, cieľmi detí <span class="emoji">👫</span></li>
+                    <li>Udržiavať rozmanitosť a výzvu v aktivitách <span class="emoji">🎯</span></li>
+                    <li>Ponúkať podporu, spätnú väzbu, humor, výzvu <span class="emoji">💬</span></li>
+                </ul>
+
+                <p><strong>Tvorivé úlohy podľa Gehlbacha:</strong></p>
+                <ul>
+                    <li>ZP–ZP: uzavretý proces aj produkt – minimálna tvorivosť <span class="emoji">🔒</span></li>
+                    <li>OP–ZP alebo ZP–OP: stredná tvorivosť <span class="emoji">⚖️</span></li>
+                    <li>OP–OP: otvorený proces aj výsledok – maximálna tvorivosť <span class="emoji">🌟</span></li>
+                </ul>
+                <p><strong>Podpora tvorivosti v úlohách:</strong> Prekvapenie <span class="emoji">🎁</span>, pochybnosti <span class="emoji">❓</span>, intuícia <span class="emoji">🧙‍♂️</span>, neistota <span class="emoji">🌫️</span>, viac riešení <span class="emoji">🔄</span>, rozporné tvrdenia <span class="emoji">⚡</span>, dramatizácia <span class="emoji">🎬</span>.</p>
+            </div>
+        </div>
+
+    </div>
+<div class="container" style="margin-top: 30px;">
+    <h2><span class="emoji">🎧</span>Audio: Pohľady na Tvorivosť a Jej Rozvoj</h2>
+    <audio controls style="width:100%;">
+        <source src="podcasts/Pohľady na Tvorivosť a Jej Rozvoj.wav" type="audio/wav">
+        Váš prehliadač nepodporuje prehrávanie audia.
+    </audio>
+</div>  
+    <script>
+        function toggleSection(element) {
+            const content = element.nextElementSibling;
+            content.style.display = content.style.display === 'block' ? 'none' : 'block';
+            event.stopPropagation();
+        }
+
+        function toggleSectionContent(h2) {
+            const section = h2.parentElement;
+            const content = section.querySelector('.section-content');
+            const expanded = content.classList.contains('expanded');
+            content.classList.toggle('expanded');
+            h2.classList.toggle('expanded');
+            // Arrow update
+            const arrow = h2.querySelector('.arrow');
+            if (arrow) {
+                arrow.innerHTML = content.classList.contains('expanded') ? '&#9654;' : '&#9654;';
+                // The arrow rotates via CSS, so no need to change the character
+            }
+        }
+
+        // On page load, ensure all arrows are in correct state
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('.section h2').forEach(function(h2) {
+                const content = h2.parentElement.querySelector('.section-content');
+                const arrow = h2.querySelector('.arrow');
+                if (arrow) {
+                    if (content.classList.contains('expanded')) {
+                        h2.classList.add('expanded');
+                    } else {
+                        h2.classList.remove('expanded');
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emocionálna inteligencia v pedagogickej praxi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #e91e63;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 960px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #e91e63;
+            margin-top: 30px;
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .expand-icon {
+            font-size: 1.1em;
+            transition: transform 0.2s;
+        }
+        .collapsed .expand-icon {
+            transform: rotate(-90deg);
+        }
+        .section-content {
+            margin-top: 8px;
+            margin-bottom: 16px;
+            display: none;
+            animation: fadeIn 0.3s;
+        }
+        .expanded + .section-content {
+            display: block;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .emoji {
+            font-size: 1.3em;
+            margin-right: 6px;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .img-illustration {
+            display: block;
+            margin: 18px auto 10px auto;
+            max-width: 120px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>💡 Emocionálna inteligencia v pedagogickej praxi učiteľa umeleckých odborov</h1>
+    </header>
+    <div class="container">
+        
+        <h2 class="expandable collapsed"><span class="expand-icon">▼</span><span class="emoji">🧠</span>1. Čo je emocionálna inteligencia (EI)</h2>
+        <div class="section-content">
+            <ul>
+                <li>Schopnosť vnímať, vyhodnocovať a regulovať vlastné aj cudzie emócie.</li>
+                <li>Definovaná Saloveyom a Mayerom (1990), rozšírená Golemanom (1995).</li>
+                <li>Rozvíjateľná schopnosť, formovaná sociálnym prostredím.</li>
+            </ul>
+            <p><strong>5 zložiek podľa Golemana:</strong></p>
+            <ul>
+                <li>Seba-uvedomenie</li>
+                <li>Sebaregulácia</li>
+                <li>Vnútorná motivácia</li>
+                <li>Empatia</li>
+                <li>Sociálne zručnosti</li>
+            </ul>
+        </div>
+
+        <h2 class="expandable collapsed"><span class="expand-icon">▼</span><span class="emoji">👩‍🏫</span>2. Význam EI pre učiteľa</h2>
+        <div class="section-content">
+            <ul>
+                <li>Učiteľ s vysokou EI vie lepšie zvládať emócie svoje aj žiakov.</li>
+                <li>Prispieva k pozitívnemu a bezpečnému prostrediu v triede.</li>
+                <li>Empatia a pokoj učiteľa pomáha žiakom zvládať trému, frustráciu, neistotu.</li>
+                <li>Dôležitá je aj komunikácia s rodičmi a kolegami.</li>
+            </ul>
+        </div>
+
+        <h2 class="expandable collapsed"><span class="expand-icon">▼</span><span class="emoji">🔎</span>3. Reflexia z praxe</h2>
+        <div class="section-content">
+            <ul>
+                <li>Porozumenie emocionálnemu stavu dieťaťa zlepšuje spoluprácu.</li>
+                <li>Použitie krátkej improvizácie môže uvoľniť napätie žiaka.</li>
+                <li>Seba-reflexia po vyučovaní pomáha zlepšovať pedagogický prístup.</li>
+            </ul>
+        </div>
+
+        <h2 class="expandable collapsed"><span class="expand-icon">▼</span><span class="emoji">🎯</span>4. Záver</h2>
+        <div class="section-content">
+            <ul>
+                <li>EI je kľúčová pre efektívnu, citlivú a profesionálnu výučbu.</li>
+                <li>Pomáha vytvárať autentický vzťah so žiakmi.</li>
+                <li>Podporuje umelecký rast a emocionálnu pohodu žiakov.</li>
+            </ul>
+        </div>
+
+        <p style="margin-top:30px; font-style:italic;">Zdroj: Goleman, Fontana, Vágnerová, Kačáni, Herényiová</p>
+    </div>
+    <div class="container" style="margin-top: 30px;">
+    <h2><span class="emoji">🎧</span>Audio: Emocionálna inteligencia</h2>
+    <audio controls style="width:100%;">
+        <source src="podcasts/Emocionálna inteligencia v pedagogickej praxi učiteľa.wav" type="audio/wav">
+        Váš prehliadač nepodporuje prehrávanie audia.
+    </audio>
+</div> 
+    <script>
+        document.querySelectorAll('.expandable').forEach(function(h2) {
+            h2.addEventListener('click', function() {
+                h2.classList.toggle('collapsed');
+                h2.classList.toggle('expanded');
+                const content = h2.nextElementSibling;
+                if (content && content.classList.contains('section-content')) {
+                    if (h2.classList.contains('collapsed')) {
+                        content.style.display = 'none';
+                    } else {
+                        content.style.display = 'block';
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

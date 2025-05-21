@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skúšanie a hodnotenie žiakov</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2196f3;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 960px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #2196f3;
+            margin-top: 30px;
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .expand-icon {
+            font-size: 1.1em;
+            transition: transform 0.2s;
+        }
+        .collapsed .expand-icon {
+            transform: rotate(-90deg);
+        }
+        .section-content {
+            margin-top: 10px;
+            margin-bottom: 20px;
+            display: none;
+            animation: fadeIn 0.3s;
+        }
+        .collapsed + .section-content {
+            display: none;
+        }
+        .expanded + .section-content {
+            display: block;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .emoji {
+            font-size: 1.3em;
+            margin-right: 6px;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📝 Skúšanie a hodnotenie žiakov</h1>
+    </header>
+    <div class="container">
+        <h2 class="collapsed"><span class="expand-icon">▼</span><span class="emoji">🎯</span>1. Význam skúšania a hodnotenia</h2>
+        <div class="section-content">
+            <ul>
+                <li>🎓 Rozhodovanie o budúcnosti žiakov (prijímačky, povolanie)</li>
+                <li>💪 Ovplyvňuje sebavedomie žiaka</li>
+                <li>🏫 Posudzovanie efektivity práce škôl a učiteľov</li>
+            </ul>
+        </div>
+
+        <h2 class="collapsed"><span class="expand-icon">▼</span><span class="emoji">🔍</span>2. Časti kontroly vyučovacieho procesu</h2>
+        <div class="section-content">
+            <ul>
+                <li><strong>Skúšanie (preverovanie):</strong> zisťovanie, čo žiak vie, úroveň dosiahnutia cieľov</li>
+                <li><strong>Hodnotenie:</strong> posúdenie výkonu žiaka – kvantitatívne, kvalitatívne, úsudkové</li>
+                <li><strong>Klasifikácia:</strong> zaradenie do výkonnostnej skupiny (známky, písmená, symboly)</li>
+            </ul>
+        </div>
+
+        <h2 class="collapsed"><span class="expand-icon">▼</span><span class="emoji">🛠️</span>3. Funkcie skúšania a hodnotenia</h2>
+        <div class="section-content">
+            <ul>
+                <li>🩺 Diagnostická (kontrolná)</li>
+                <li>🔮 Prognostická</li>
+                <li>🚀 Motivačná</li>
+                <li>🌱 Výchovná</li>
+                <li>ℹ️ Informačná</li>
+                <li>🤔 Rozvíjajúca (sebahodnotenie)</li>
+                <li>🔄 Spätná väzba (pre učiteľa i žiaka)</li>
+            </ul>
+        </div>
+
+        <h2 class="collapsed"><span class="expand-icon">▼</span><span class="emoji">📝</span>4. Formy preverovania (skúšania)</h2>
+        <div class="section-content">
+            <h3>A. Podľa vyjadrovania žiaka</h3>
+            <ul>
+                <li>🗣️ Ústne</li>
+                <li>✍️ Písomné</li>
+                <li>🛠️ Praktické</li>
+            </ul>
+            <h3>B. Podľa počtu skúšaných</h3>
+            <ul>
+                <li>👤 Individuálne</li>
+                <li>👥 Skupinové</li>
+                <li>👨‍🏫 Hromadné (frontálne)</li>
+            </ul>
+            <h3>C. Podľa časového zaradenia</h3>
+            <ul>
+                <li>🎫 Prijímacie skúšky</li>
+                <li>⏳ Predbežné</li>
+                <li>📋 Súhrnné</li>
+                <li>🏁 Záverečné</li>
+                <li>🔁 Opravné</li>
+            </ul>
+        </div>
+
+        <h2 class="collapsed"><span class="expand-icon">▼</span><span class="emoji">📊</span>5. Druhy hodnotenia</h2>
+        <div class="section-content">
+            <ul>
+                <li><strong>NR (norm-referenced):</strong> porovnanie s inými žiakmi</li>
+                <li><strong>CR (criterion-referenced):</strong> porovnanie s normou</li>
+                <li><strong>Individualizované hodnotenie:</strong> porovnanie so sebou samým</li>
+            </ul>
+        </div>
+
+        <h2 class="collapsed"><span class="expand-icon">▼</span><span class="emoji">⏰</span>6. Podľa času</h2>
+        <div class="section-content">
+            <ul>
+                <li>📅 Priebežné</li>
+                <li>🏁 Záverečné</li>
+            </ul>
+        </div>
+
+        <h2 class="collapsed"><span class="expand-icon">▼</span><span class="emoji">🎯</span>7. Podľa cieľa</h2>
+        <div class="section-content">
+            <ul>
+                <li><strong>Formatívne:</strong> spätná väzba, zlepšovanie procesu učenia</li>
+                <li><strong>Sumatívne:</strong> zhrnutie výsledkov, klasifikácia</li>
+            </ul>
+        </div>
+
+        <h2 class="collapsed"><span class="expand-icon">▼</span><span class="emoji">🧩</span>8. Iné typy hodnotenia</h2>
+        <div class="section-content">
+            <ul>
+                <li><strong>Formálne vs. neformálne:</strong> vedomé vs. pozorovanie</li>
+                <li><strong>Priebehu vs. výsledku:</strong> proces vs. výsledok činnosti</li>
+                <li><strong>Interné vs. externé:</strong> učiteľ vs. iný hodnotiaci</li>
+            </ul>
+        </div>
+
+        <p style="margin-top:30px; font-style:italic;">Zdroj: Ivan Turek – Didaktika, Erich Petlák – Všeobecná didaktika</p>
+    </div>
+     <div class="container" style="margin-top: 30px;">
+    <h2><span class="emoji">🎧</span>Audio: Skúšanie a hodnotenie v škole</h2>
+    <audio controls style="width:100%;">
+        <source src="podcasts/Skúšanie, hodnotenie a klasifikácia v škole.wav" type="audio/wav">
+        Váš prehliadač nepodporuje prehrávanie audia.
+    </audio>
+</div> 
+    <script>
+        document.querySelectorAll('.container h2').forEach(h2 => {
+            // Only apply to h2s that are followed by .section-content
+            const content = h2.nextElementSibling;
+            if (content && content.classList.contains('section-content')) {
+                h2.classList.add('collapsed');
+                content.style.display = 'none';
+                h2.addEventListener('click', function() {
+                    h2.classList.toggle('collapsed');
+                    if (content.style.display === 'none') {
+                        content.style.display = 'block';
+                    } else {
+                        content.style.display = 'none';
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>
